@@ -9,7 +9,7 @@ export default async function ProductsPage() {
     // DB not available during build
   }
 
-  const categories = [...new Set(products.map((p) => p.category))]
+  const categories = [...new Set(products.map((p) => p.category).filter(Boolean))] as string[]
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">

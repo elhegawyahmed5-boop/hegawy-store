@@ -2,59 +2,44 @@
 
 import Link from "next/link"
 import { useState } from "react"
-import { ShoppingCart, Menu, X, Store, LogOut } from "lucide-react"
-import { useSession } from "@/lib/use-session"
-import { googleSignIn, logOut } from "@/lib/actions/auth"
+import Image from "next/image"
+import { Menu, X } from "lucide-react"
 
 export function Navbar() {
-  const { data: session, status } = useSession()
   const [menuOpen, setMenuOpen] = useState(false)
 
+  const links = [
+    { href: "#projects", label: "مشاريعي" },
+    { href: "#contact", label: "تواصل معي" },
+  ]
+
   return (
-    <nav className="bg-white border-b border-gray-200 sticky top-0 z-50">
+    <nav className="bg-white/80 backdrop-blur-md border-b border-gray-100 sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <Link href="/" className="flex items-center gap-2 font-bold text-xl text-gray-900">
-            <Store className="w-6 h-6" />
-            Hegawy Store
+          <Link href="/" className="flex items-center gap-3 font-bold text-xl text-gray-900">
+            <Image src="/logo.png" alt="Logo" width={36} height={36} className="rounded-lg" />
+            <span className="bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent">
+              Elhegawy
+            </span>
           </Link>
 
-          <div className="hidden md:flex items-center gap-6">
-            <Link href="/products" className="text-gray-600 hover:text-gray-900 transition">
-              Products
+          <div className="hidden md:flex items-center gap-8">
+            {links.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className="text-gray-600 hover:text-blue-600 transition-colors font-medium"
+              >
+                {link.label}
+              </Link>
+            ))}
+            <Link
+              href="#contact"
+              className="bg-gradient-to-r from-blue-600 to-cyan-500 text-white px-5 py-2 rounded-full text-sm font-semibold hover:shadow-lg hover:shadow-blue-500/25 transition-all"
+            >
+              {"> اطلب متجرك الآن"}
             </Link>
-            <Link href="/cart" className="text-gray-600 hover:text-gray-900 transition relative">
-              <ShoppingCart className="w-5 h-5" />
-            </Link>
-            {status === "authenticated" ? (
-              <>
-                {(session.user as { role?: string }).role === "admin" && (
-                  <Link href="/admin" className="text-gray-600 hover:text-gray-900 transition">
-                    Dashboard
-                  </Link>
-                )}
-                <Link href="/orders" className="text-gray-600 hover:text-gray-900 transition">
-                  Orders
-                </Link>
-                <div className="flex items-center gap-3">
-                  <span className="text-sm text-gray-500">{session.user.name}</span>
-                  <form action={logOut}>
-                    <button type="submit" className="text-gray-400 hover:text-red-500 transition">
-                      <LogOut className="w-4 h-4" />
-                    </button>
-                  </form>
-                </div>
-              </>
-            ) : (
-              <form action={googleSignIn}>
-                <button
-                  type="submit"
-                  className="bg-blue-600 text-white px-4 py-2 rounded-lg text-sm hover:bg-blue-700 transition"
-                >
-                  Sign In
-                </button>
-              </form>
-            )}
           </div>
 
           <button className="md:hidden" onClick={() => setMenuOpen(!menuOpen)}>
@@ -64,33 +49,23 @@ export function Navbar() {
 
         {menuOpen && (
           <div className="md:hidden pb-4 space-y-3">
-            <Link href="/products" className="block text-gray-600" onClick={() => setMenuOpen(false)}>
-              Products
+            {links.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className="block text-gray-600 hover:text-blue-600 transition-colors"
+                onClick={() => setMenuOpen(false)}
+              >
+                {link.label}
+              </Link>
+            ))}
+            <Link
+              href="#contact"
+              className="block text-center bg-gradient-to-r from-blue-600 to-cyan-500 text-white px-5 py-2.5 rounded-full text-sm font-semibold"
+              onClick={() => setMenuOpen(false)}
+            >
+              اطلب متجرك الآن
             </Link>
-            <Link href="/cart" className="block text-gray-600" onClick={() => setMenuOpen(false)}>
-              Cart
-            </Link>
-            {status === "authenticated" ? (
-              <>
-                <Link href="/orders" className="block text-gray-600" onClick={() => setMenuOpen(false)}>
-                  Orders
-                </Link>
-                {(session.user as { role?: string }).role === "admin" && (
-                  <Link href="/admin" className="block text-gray-600" onClick={() => setMenuOpen(false)}>
-                    Dashboard
-                  </Link>
-                )}
-                <form action={logOut}>
-                  <button type="submit" className="text-red-500">Sign Out</button>
-                </form>
-              </>
-            ) : (
-              <form action={googleSignIn}>
-                <button type="submit" className="bg-blue-600 text-white px-4 py-2 rounded-lg text-sm">
-                  Sign In
-                </button>
-              </form>
-            )}
           </div>
         )}
       </div>

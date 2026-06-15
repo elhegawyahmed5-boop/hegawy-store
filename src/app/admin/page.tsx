@@ -49,7 +49,7 @@ export default async function AdminDashboard() {
         </div>
         <div className="divide-y divide-gray-100">
           {recentOrders.length > 0 ? (
-            recentOrders.map((order) => (
+            recentOrders.map((order: { id: string; total: number; status: string; createdAt: Date; user: { name: string | null } }) => (
               <div key={order.id} className="px-6 py-4 flex items-center justify-between">
                 <div>
                   <p className="text-sm font-medium text-gray-900">

@@ -2,8 +2,10 @@ import { getAllOrders, updateOrderStatus } from "@/lib/actions/orders"
 import { formatPrice } from "@/lib/utils"
 import { OrderActions } from "@/components/OrderActions"
 
+type Order = Awaited<ReturnType<typeof getAllOrders>>[number]
+
 export default async function AdminOrdersPage() {
-  const orders = await getAllOrders()
+  const orders: Order[] = await getAllOrders()
 
   return (
     <div>
@@ -22,7 +24,7 @@ export default async function AdminOrdersPage() {
             </tr>
           </thead>
           <tbody className="divide-y divide-gray-100">
-            {orders.map((order) => (
+            {orders.map((order: Order) => (
               <tr key={order.id} className="hover:bg-gray-50">
                 <td className="px-6 py-4 text-sm font-mono">#{order.id.slice(0, 8)}</td>
                 <td className="px-6 py-4">

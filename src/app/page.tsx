@@ -152,7 +152,7 @@ const projects = [
     tags: ["Next.js", "Tailwind CSS", "Prisma", "Stripe", "Auth.js"],
     gradient: "from-pink-500 via-rose-500 to-purple-600",
     icon: ShoppingBag,
-    url: "#",
+    url: "https://client-stores-platform.vercel.app",
     features: ["تصنيفات متعددة", "بحث ذكي", "معرض صور تفاعلي", "تصميم responsive", "سلة مشتريات", "دفع آمن"],
     stats: [{ label: "منتج", value: 50 }, { label: "تصنيف", value: 8 }, { label: "قسم", value: 4 }],
     color: "rose",

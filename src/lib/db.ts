@@ -1,9 +1,21 @@
 import { PrismaClient } from "@prisma/client"
+import { PrismaBetterSQLite3 } from "@prisma/adapter-better-sqlite3"
+import Database from "better-sqlite3"
+import path from "path"
 
 const globalForPrisma = globalThis as unknown as {
   prisma: PrismaClient | undefined
 }
 
-export const prisma = globalForPrisma.prisma ?? new PrismaClient()
+function createPrismaClient() {
+  const databaseUrl = process.env.DATABASE_URL ?? "file:./dev.db"
+  const filePath = databaseUrl.replace("file:", "").replace("./", "")
+  const dbPath = path.join(process.cwd(), filePath)
+  const connection = new Database(dbPath)
+  const adapter = new PrismaBetterSQLite3(connection)
+  return new PrismaClient({ adapter })
+}
+
+export const prisma = globalForPrisma.prisma ?? createPrismaClient()
 
 if (process.env.NODE_ENV !== "production") globalForPrisma.prisma = prisma

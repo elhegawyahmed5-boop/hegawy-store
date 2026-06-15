@@ -28,34 +28,41 @@ export default async function AdminProductsPage() {
               <th className="text-left px-6 py-3 text-xs font-semibold text-gray-500 uppercase">Category</th>
               <th className="text-left px-6 py-3 text-xs font-semibold text-gray-500 uppercase">Price</th>
               <th className="text-left px-6 py-3 text-xs font-semibold text-gray-500 uppercase">Stock</th>
+              <th className="text-left px-6 py-3 text-xs font-semibold text-gray-500 uppercase">Variants</th>
               <th className="text-right px-6 py-3 text-xs font-semibold text-gray-500 uppercase">Actions</th>
             </tr>
           </thead>
           <tbody className="divide-y divide-gray-100">
-            {products.map((product: Awaited<ReturnType<typeof getProducts>>[number]) => (
+            {products.map((product) => (
               <tr key={product.id} className="hover:bg-gray-50">
                 <td className="px-6 py-4">
                   <div className="flex items-center gap-3">
                     <div className="w-12 h-12 bg-gray-100 rounded-lg overflow-hidden flex-shrink-0">
-                      <img
-                        src={product.image}
-                        alt={product.name}
-                        className="w-full h-full object-cover"
-                      />
+                      <img src={product.image} alt={product.name} className="w-full h-full object-cover" />
                     </div>
                     <span className="font-medium text-gray-900">{product.name}</span>
                   </div>
                 </td>
-                <td className="px-6 py-4 text-sm text-gray-500">{product.category}</td>
+                <td className="px-6 py-4 text-sm text-gray-500">
+                  {product.category?.name ?? "Uncategorized"}
+                </td>
                 <td className="px-6 py-4 text-sm font-medium">{formatPrice(product.price)}</td>
                 <td className="px-6 py-4">
-                  <span
-                    className={`text-sm ${
-                      product.stock > 0 ? "text-green-600" : "text-red-500"
-                    }`}
-                  >
+                  <span className={`text-sm ${product.stock > 0 ? "text-green-600" : "text-red-500"}`}>
                     {product.stock}
                   </span>
+                </td>
+                <td className="px-6 py-4 text-sm text-gray-500">
+                  {product.variants?.length ? (
+                    <div className="flex gap-1">
+                      {[...new Set(product.variants.map((v: { color: string }) => v.color))].slice(0, 4).map((c: string) => (
+                        <div key={c} className="w-4 h-4 rounded-full border" style={{ backgroundColor: c }} title={c} />
+                      ))}
+                      <span className="text-xs ml-1">{product.variants.length} variants</span>
+                    </div>
+                  ) : (
+                    <span className="text-gray-400">-</span>
+                  )}
                 </td>
                 <td className="px-6 py-4 text-right">
                   <div className="flex items-center justify-end gap-2">
@@ -66,10 +73,7 @@ export default async function AdminProductsPage() {
                       <Pencil className="w-4 h-4" />
                     </Link>
                     <form action={deleteProduct.bind(null, product.id)}>
-                      <button
-                        type="submit"
-                        className="p-2 text-gray-400 hover:text-red-600 transition"
-                      >
+                      <button type="submit" className="p-2 text-gray-400 hover:text-red-600 transition">
                         <Trash2 className="w-4 h-4" />
                       </button>
                     </form>

@@ -152,6 +152,7 @@ const projects = [
     tags: ["Next.js", "Tailwind CSS", "Prisma", "Stripe", "Auth.js"],
     gradient: "from-pink-500 via-rose-500 to-purple-600",
     icon: ShoppingBag,
+    url: "#",
     features: ["تصنيفات متعددة", "بحث ذكي", "معرض صور تفاعلي", "تصميم responsive", "سلة مشتريات", "دفع آمن"],
     stats: [{ label: "منتج", value: 50 }, { label: "تصنيف", value: 8 }, { label: "قسم", value: 4 }],
     color: "rose",
@@ -163,6 +164,7 @@ const projects = [
     tags: ["Next.js", "TypeScript", "PostgreSQL", "Multi-Vendor", "Dashboard"],
     gradient: "from-cyan-500 via-blue-500 to-indigo-600",
     icon: Cpu,
+    url: "https://indigo-duck-840684.hostingersite.com/",
     features: ["بائعين متعددين", "لوحة تحكم متقدمة", "نظام عمولات", "إدارة المخزون", "تقارير مبيعات", "API متكامل"],
     stats: [{ label: "بائع", value: 10 }, { label: "منتج", value: 200 }, { label: "مستخدم", value: 5 }],
     color: "cyan",
@@ -467,11 +469,16 @@ function ProjectsSection() {
                       ))}
                     </div>
 
-                    <button className="group/btn relative w-full overflow-hidden flex items-center justify-between bg-gray-50 hover:bg-blue-50 text-gray-700 hover:text-blue-700 font-medium px-6 py-3.5 rounded-xl transition-colors">
+                    <a
+                      href={project.url}
+                      target={project.url !== "#" ? "_blank" : undefined}
+                      rel={project.url !== "#" ? "noopener noreferrer" : undefined}
+                      className="group/btn relative w-full overflow-hidden flex items-center justify-between bg-gray-50 hover:bg-blue-50 text-gray-700 hover:text-blue-700 font-medium px-6 py-3.5 rounded-xl transition-colors"
+                    >
                       <span className="relative z-10">عرض التفاصيل</span>
                       <ExternalLink className="w-4 h-4 relative z-10 group-hover/btn:translate-x-0.5 group-hover/btn:-translate-y-0.5 transition-transform" />
                       <span className="absolute inset-0 bg-gradient-to-r from-blue-500/0 via-blue-500/5 to-blue-500/0 translate-x-[-100%] group-hover/btn:translate-x-[100%] transition-transform duration-500" />
-                    </button>
+                    </a>
                   </div>
                 </div>
               </RevealScale>

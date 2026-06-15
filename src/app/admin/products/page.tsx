@@ -32,7 +32,7 @@ export default async function AdminProductsPage() {
             </tr>
           </thead>
           <tbody className="divide-y divide-gray-100">
-            {products.map((product) => (
+            {products.map((product: Awaited<ReturnType<typeof getProducts>>[number]) => (
               <tr key={product.id} className="hover:bg-gray-50">
                 <td className="px-6 py-4">
                   <div className="flex items-center gap-3">

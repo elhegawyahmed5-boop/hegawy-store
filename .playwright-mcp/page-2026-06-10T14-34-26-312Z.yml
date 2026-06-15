@@ -1,0 +1,308 @@
+- generic [ref=e5]:
+  - banner:
+    - generic [ref=e6]:
+      - generic:
+        - generic:
+          - button [disabled]:
+            - img
+      - link "Facebook" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img [ref=e8]
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+      - generic [ref=e19]:
+        - generic:
+          - img
+        - combobox "Search Facebook" [ref=e20]
+    - navigation "Facebook" [ref=e24]:
+      - list [ref=e25]:
+        - listitem [ref=e26]:
+          - link "Home" [ref=e29] [cursor=pointer]:
+            - /url: /
+            - img [ref=e31]
+        - listitem [ref=e33]:
+          - link "Reels" [ref=e36] [cursor=pointer]:
+            - /url: /watch/?ref=tab
+            - img [ref=e38]
+        - listitem [ref=e41]:
+          - link "Groups" [ref=e44] [cursor=pointer]:
+            - /url: /groups/
+            - img [ref=e46]
+        - listitem [ref=e48]:
+          - link "Gaming" [ref=e51] [cursor=pointer]:
+            - /url: /gaming/play/?store_visit_source=gaming_tab
+            - img [ref=e53]
+    - navigation "Account controls and settings" [ref=e57]:
+      - button "Facebook menu" [ref=e61] [cursor=pointer]:
+        - img [ref=e62]
+      - link "Messenger" [ref=e65] [cursor=pointer]:
+        - /url: https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=1077200972154010
+        - link "Messenger" [ref=e67]:
+          - /url: https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=1077200972154010
+          - img [ref=e68]
+      - generic [ref=e73]:
+        - button "Notifications, 1 unread" [ref=e74] [cursor=pointer]:
+          - img [ref=e75]
+        - button [ref=e77] [cursor=pointer]:
+          - generic [ref=e78]:
+            - generic [ref=e79]: Number of unread notifications
+            - generic [ref=e80]: "1"
+      - button "Your profile" [ref=e83] [cursor=pointer]:
+        - generic [ref=e84]:
+          - img "Your profile" [ref=e85]
+          - img [ref=e92]
+  - generic [ref=e99]:
+    - navigation "Navigation within Settings" [ref=e100]:
+      - generic [ref=e101]:
+        - heading "Settings & privacy" [level=1] [ref=e109]
+        - generic [ref=e116]:
+          - generic:
+            - img
+          - combobox "Search settings" [ref=e117]
+        - generic [ref=e124]:
+          - heading "Settings & privacy" [level=2] [ref=e136]:
+            - generic [ref=e138]: Settings & privacy
+          - generic [ref=e142]:
+            - generic [ref=e149]:
+              - heading "Preferences" [level=2] [ref=e154]:
+                - generic [ref=e156]: Preferences
+              - generic [ref=e161]: Customise your experience on Facebook.
+            - link "Reaction preferences settings" [ref=e168] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=reaction_preferences
+              - generic [ref=e170]:
+                - img [ref=e172]
+                - generic [ref=e177]: Reaction preferences
+            - link "Notifications settings" [ref=e184] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=notifications
+              - generic [ref=e186]:
+                - img [ref=e188]
+                - generic [ref=e193]: Notifications
+            - link "Accessibility settings" [ref=e200] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=accessibility
+              - generic [ref=e202]:
+                - img [ref=e204]
+                - generic [ref=e209]: Accessibility
+            - link "Media settings" [ref=e216] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=videos
+              - generic [ref=e218]:
+                - img [ref=e220]
+                - generic [ref=e225]: Media
+            - link "Dark mode settings" [ref=e232] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=dark_mode_category
+              - generic [ref=e234]:
+                - img [ref=e236]
+                - generic [ref=e241]: Dark mode
+          - generic [ref=e243]:
+            - generic [ref=e250]:
+              - heading "Audience and visibility" [level=2] [ref=e255]:
+                - generic [ref=e257]: Audience and visibility
+              - generic [ref=e262]: Control who can see what you share on Facebook.
+            - link "Page details" [ref=e270] [cursor=pointer]:
+              - /url: https://www.facebook.com/me/about/
+              - generic [ref=e272]:
+                - img [ref=e274]
+                - generic [ref=e279]: Page details
+            - link "How people can find and contact you settings" [ref=e286] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=how_people_find_and_contact_you
+              - generic [ref=e288]:
+                - img [ref=e290]
+                - generic [ref=e295]: How people can find and contact you
+            - link "Posts settings" [ref=e302] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=posts
+              - generic [ref=e304]:
+                - img [ref=e306]
+                - generic [ref=e311]: Posts
+            - link "Stories settings" [ref=e318] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=stories
+              - generic [ref=e320]:
+                - img [ref=e322]
+                - generic [ref=e327]: Stories
+            - link "Page setup settings" [ref=e334] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=pages
+              - generic [ref=e336]:
+                - img [ref=e338]
+                - generic [ref=e343]: Page setup
+            - link "Reels settings" [ref=e350] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=reels
+              - generic [ref=e352]:
+                - img [ref=e354]
+                - generic [ref=e359]: Reels
+            - link "Followers and public content settings" [ref=e366] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=followers_and_public_content
+              - generic [ref=e368]:
+                - img [ref=e370]
+                - generic [ref=e375]: Followers and public content
+            - link "Page and Tagging settings" [ref=e382] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=profile_and_tagging
+              - generic [ref=e384]:
+                - img [ref=e386]
+                - generic [ref=e391]: Page and Tagging
+            - link "Blocking settings" [ref=e398] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=blocking
+              - generic [ref=e400]:
+                - img [ref=e402]
+                - generic [ref=e407]: Blocking
+          - generic [ref=e409]:
+            - generic [ref=e416]:
+              - heading "Payments" [level=2] [ref=e421]:
+                - generic [ref=e423]: Payments
+              - generic [ref=e428]: Manage your payment info and activity.
+            - link "Ads payments" [ref=e436] [cursor=pointer]:
+              - /url: https://www.facebook.com/billing_hub/payment_settings/?asset_id=986137084157765&placement=fb_payment_settings
+              - generic [ref=e438]:
+                - img [ref=e440]
+                - generic [ref=e445]: Ads payments
+          - generic [ref=e447]:
+            - generic [ref=e454]:
+              - heading "Permissions" [level=2] [ref=e459]:
+                - generic [ref=e461]: Permissions
+              - generic [ref=e466]: Manage what info Facebook uses to make your experience better, such as your interests and location.
+            - link "Linked accounts settings" [ref=e473] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=linked_profiles
+              - generic [ref=e475]:
+                - img [ref=e477]
+                - generic [ref=e482]: Linked accounts
+            - link "Off-Facebook activity" [ref=e490] [cursor=pointer]:
+              - /url: https://www.facebook.com/off_facebook_activity/
+              - generic [ref=e492]:
+                - img [ref=e494]
+                - generic [ref=e499]: Off-Facebook activity
+          - generic [ref=e501]:
+            - generic [ref=e508]:
+              - heading "Your information" [level=2] [ref=e513]:
+                - generic [ref=e515]: Your information
+              - generic [ref=e520]: Access a log of your activity and controls to manage your Facebook information.
+            - link "Activity log" [ref=e528] [cursor=pointer]:
+              - /url: https://www.facebook.com/61590727920658/allactivity/?category_key=ALL&entry_point=settings_yfi&should_load_landing_page=1
+              - generic [ref=e530]:
+                - img [ref=e532]
+                - generic [ref=e537]: Activity log
+            - link "Access and control" [ref=e545] [cursor=pointer]:
+              - /url: https://www.facebook.com/deactivate_delete_account/
+              - generic [ref=e547]:
+                - img [ref=e549]
+                - generic [ref=e554]: Access and control
+            - link "Download your information" [ref=e562] [cursor=pointer]:
+              - /url: https://www.facebook.com/dyi/?referrer=www_settings
+              - generic [ref=e564]:
+                - img [ref=e566]
+                - generic [ref=e571]: Download your information
+          - generic [ref=e573]:
+            - heading "Resources" [level=2] [ref=e585]:
+              - generic [ref=e587]: Resources
+            - link "Journalist resources" [ref=e597] [cursor=pointer]:
+              - /url: https://www.facebook.com/journalist_registration/
+              - generic [ref=e599]:
+                - img [ref=e601]
+                - generic [ref=e606]: Journalist resources
+          - generic [ref=e608]:
+            - heading "Community Standards and legal policies" [level=2] [ref=e620]:
+              - generic [ref=e622]: Community Standards and legal policies
+            - link "Terms of Service" [ref=e632] [cursor=pointer]:
+              - /url: https://www.facebook.com/policies_center/?ref=pf
+              - generic [ref=e634]:
+                - img [ref=e636]
+                - generic [ref=e641]: Terms of Service
+            - link "Privacy Policy" [ref=e649] [cursor=pointer]:
+              - /url: https://www.facebook.com/privacy/policy/?entry_point=facebook_settings
+              - generic [ref=e651]:
+                - img [ref=e653]
+                - generic [ref=e658]: Privacy Policy
+            - link "Cookies Policy" [ref=e666] [cursor=pointer]:
+              - /url: https://www.facebook.com/privacy/policies/cookies/?entry_point=facebook_settings
+              - generic [ref=e668]:
+                - img [ref=e670]
+                - generic [ref=e675]: Cookies Policy
+            - link "Community Standards" [ref=e683] [cursor=pointer]:
+              - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExbHRLdzN1N0NzbTBqQ0VOeXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6EtbCv2-MT_gisJOBV2_d4SuzW6-nm2grTm04yusmf9jYMh3vwCG5ctwZz8w_aem_naypdyWoSpE2Im6VWYMQvA&h=AUCDew512pY3xqyS6Zcjvrk-IPnBPgmNiWMW2I5Dfw-u7uCBM0U_gtKJlhaWKnyZN1A4XVsaF9tkbV6TEoTnTQytY132lxxFVS9Q_4g_GKiDQr3oioDra8CRbInIjyG-k5dIog
+              - generic [ref=e685]:
+                - img [ref=e687]
+                - generic [ref=e692]: Community Standards
+    - main "Settings" [ref=e693]:
+      - generic [ref=e703]:
+        - heading "Page setup" [level=3] [ref=e715]:
+          - generic [ref=e717]: Page setup
+        - generic [ref=e721]:
+          - heading "Hegawy Stores" [level=3] [ref=e733]:
+            - generic [ref=e735]: Hegawy Stores
+          - link "Name Hegawy Stores" [ref=e745] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=profile
+            - generic [ref=e747]:
+              - generic [ref=e750]:
+                - generic [ref=e752]: Name
+                - generic [ref=e756]: Hegawy Stores
+              - img [ref=e758]
+          - link "Page access Invite people to help manage your Page, and control who has access to it." [ref=e767] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=profile_access
+            - generic [ref=e769]:
+              - generic [ref=e772]:
+                - generic [ref=e774]: Page access
+                - generic [ref=e778]: Invite people to help manage your Page, and control who has access to it.
+              - img [ref=e780]
+          - button "Page type" [ref=e789] [cursor=pointer]:
+            - generic [ref=e791]:
+              - generic [ref=e796]: Page type
+              - img [ref=e798]
+          - link "Page management history This is a history of management actions taken by people who manage this Page." [ref=e807] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=profile_management_history
+            - generic [ref=e809]:
+              - generic [ref=e812]:
+                - generic [ref=e814]: Page management history
+                - generic [ref=e818]: This is a history of management actions taken by people who manage this Page.
+              - img [ref=e820]
+          - link "Page status View Page restrictions and review Community Standards and Policies." [ref=e829] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=profile_quality
+            - generic [ref=e831]:
+              - generic [ref=e834]:
+                - generic [ref=e836]: Page status
+                - generic [ref=e840]: View Page restrictions and review Community Standards and Policies.
+              - img [ref=e842]
+          - link "Page recommendation Review your Page recommendation status." [ref=e851] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=profile_recommendations
+            - generic [ref=e853]:
+              - generic [ref=e856]:
+                - generic [ref=e858]: Page recommendation
+                - generic [ref=e862]: Review your Page recommendation status.
+              - img [ref=e864]
+          - link "Advanced messaging Manage your advanced messaging settings" [ref=e873] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=advanced_messaging
+            - generic [ref=e875]:
+              - generic [ref=e878]:
+                - generic [ref=e880]: Advanced messaging
+                - generic [ref=e884]: Manage your advanced messaging settings
+              - img [ref=e886]
+          - switch "Data sharing" [checked] [ref=e895] [cursor=pointer]:
+            - generic [ref=e897]:
+              - generic [ref=e900]:
+                - generic [ref=e902]: Data sharing
+                - generic [ref=e905]:
+                  - generic [ref=e906]:
+                    - text: By turning on sharing, you confirm that your business has permission to share customer data with Meta for personalisation, including ads, and you agree to the
+                    - link "Business Tools Terms." [ref=e907]:
+                      - /url: https://www.facebook.com/legal/businesstech
+                  - generic [ref=e908]: Business activities, such as customer orders, labels and lead stages, are marked by you or automatically by Meta based on your settings. Details from activities that you share, such as what was ordered or delivery region, can also be used to improve ads.
+                  - generic [ref=e909]:
+                    - text: For example, if your ad leads to a purchase, we may continue showing your ad to similar customers. We never sell your data or your customers' data.
+                    - link "Learn more" [ref=e910]:
+                      - /url: https://www.facebook.com/business/help/1176420112997278
+              - switch [checked] [ref=e915]
+          - link "issue, electoral or political ads" [ref=e923] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=authorizations
+            - generic [ref=e925]:
+              - generic [ref=e930]: issue, electoral or political ads
+              - img [ref=e932]
+          - link "Ads with locations in Taiwan" [ref=e941] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=financial_services
+            - generic [ref=e943]:
+              - generic [ref=e948]: Ads with locations in Taiwan
+              - img [ref=e950]
+          - link "Branded content" [ref=e959] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=branded_content
+            - generic [ref=e961]:
+              - generic [ref=e966]: Branded content
+              - img [ref=e968]

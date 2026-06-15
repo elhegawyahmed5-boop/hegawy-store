@@ -1,0 +1,148 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=e3]:
+        - generic [ref=e4]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=e5] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic:
+        - generic:
+          - button "Grok" [ref=e6] [cursor=pointer]:
+            - img [ref=e7]
+          - button "Chat" [ref=e10] [cursor=pointer]:
+            - img [ref=e11]
+      - generic [ref=e14]:
+        - banner [ref=e15]:
+          - generic [ref=e25]:
+            - generic [ref=e26]:
+              - heading "X" [level=1] [ref=e28] [cursor=pointer]:
+                - link "X" [ref=e29]:
+                  - /url: /home
+                  - img [ref=e31]
+              - navigation "Primary" [ref=e35]:
+                - link "Home" [ref=e36] [cursor=pointer]:
+                  - /url: /home
+                  - generic [ref=e37]:
+                    - img [ref=e39]
+                    - generic [ref=e42]: Home
+                - link "Search and explore" [ref=e43] [cursor=pointer]:
+                  - /url: /explore
+                  - generic [ref=e44]:
+                    - img [ref=e46]
+                    - generic [ref=e49]: Explore
+                - link "Notifications" [ref=e50] [cursor=pointer]:
+                  - /url: /notifications
+                  - generic [ref=e51]:
+                    - img [ref=e53]
+                    - generic [ref=e56]: Notifications
+                - link "Follow" [ref=e57] [cursor=pointer]:
+                  - /url: /i/connect_people
+                  - generic [ref=e58]:
+                    - img [ref=e60]
+                    - generic [ref=e63]: Follow
+                - link "Direct Messages" [ref=e64] [cursor=pointer]:
+                  - /url: /i/chat
+                  - generic [ref=e65]:
+                    - img [ref=e67]
+                    - generic [ref=e70]: Chat
+                - link "Grok" [ref=e71] [cursor=pointer]:
+                  - /url: /i/grok
+                  - generic [ref=e72]:
+                    - generic [ref=e73]:
+                      - img [ref=e74]
+                      - generic "undefined unread items" [ref=e77]
+                    - generic [ref=e78]: Grok
+                - link "Bookmarks" [ref=e79] [cursor=pointer]:
+                  - /url: /i/bookmarks
+                  - generic [ref=e80]:
+                    - img [ref=e82]
+                    - generic [ref=e85]: Bookmarks
+                - link "Creator Studio" [ref=e86] [cursor=pointer]:
+                  - /url: /i/jf/creators/studio
+                  - generic [ref=e87]:
+                    - img [ref=e89]
+                    - generic [ref=e93]: Creator Studio
+                - link "Premium" [ref=e94] [cursor=pointer]:
+                  - /url: /i/premium_sign_up
+                  - generic [ref=e95]:
+                    - img [ref=e97]
+                    - generic [ref=e100]: Premium
+                - link "Profile" [ref=e101] [cursor=pointer]:
+                  - /url: /ahmedelheg4u
+                  - generic [ref=e102]:
+                    - img [ref=e104]
+                    - generic [ref=e107]: Profile
+                - button "More menu items" [ref=e108] [cursor=pointer]:
+                  - generic [ref=e109]:
+                    - img [ref=e111]
+                    - generic [ref=e114]: More
+              - link "Post" [ref=e116] [cursor=pointer]:
+                - /url: /compose/post
+                - generic [ref=e122]: Post
+            - button "Account menu" [ref=e125] [cursor=pointer]:
+              - generic [ref=e133]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "Hegawy Stores":
+                        - img "Hegawy Stores"
+              - generic [ref=e137]:
+                - generic [ref=e141]: Hegawy Stores
+                - generic [ref=e145]: "@ahmedelheg4u"
+              - img [ref=e147]
+        - main [ref=e16]:
+          - generic [ref=e151]:
+            - region "Settings" [ref=e152]:
+              - heading "Settings" [level=2] [ref=e160]
+              - generic [ref=e161]:
+                - search "Search Settings" [ref=e164]:
+                  - generic [ref=e170]:
+                    - img [ref=e172]
+                    - combobox "Search query" [ref=e177]
+                - tablist [ref=e178]:
+                  - tab "Your account" [ref=e180] [cursor=pointer]:
+                    - generic [ref=e181]:
+                      - generic [ref=e183]: Your account
+                      - img [ref=e184]
+                  - tab "Monetization" [ref=e188] [cursor=pointer]:
+                    - generic [ref=e189]:
+                      - generic [ref=e191]: Monetization
+                      - img [ref=e192]
+                  - tab "Premium" [ref=e196] [cursor=pointer]:
+                    - generic [ref=e197]:
+                      - generic [ref=e199]: Premium
+                      - img [ref=e200]
+                  - tab "Creator Subscriptions" [ref=e204] [cursor=pointer]:
+                    - generic [ref=e205]:
+                      - generic [ref=e207]: Creator Subscriptions
+                      - img [ref=e208]
+                  - tab "Security and account access" [ref=e212] [cursor=pointer]:
+                    - generic [ref=e213]:
+                      - generic [ref=e215]: Security and account access
+                      - img [ref=e216]
+                  - tab "Privacy and safety" [ref=e220] [cursor=pointer]:
+                    - generic [ref=e221]:
+                      - generic [ref=e223]: Privacy and safety
+                      - img [ref=e224]
+                  - tab "Notifications" [ref=e228] [cursor=pointer]:
+                    - generic [ref=e229]:
+                      - generic [ref=e231]: Notifications
+                      - img [ref=e232]
+                  - tab "Accessibility, display, and languages" [ref=e236] [cursor=pointer]:
+                    - generic [ref=e237]:
+                      - generic [ref=e239]: Accessibility, display, and languages
+                      - img [ref=e240]
+                  - tab "Additional resources" [ref=e244] [cursor=pointer]:
+                    - generic [ref=e245]:
+                      - generic [ref=e247]: Additional resources
+                      - img [ref=e248]
+                  - tab "Help Center" [ref=e251] [cursor=pointer]:
+                    - generic [ref=e252]:
+                      - generic [ref=e254]: Help Center
+                      - img [ref=e255]
+            - region "Section details" [ref=e258]:
+              - generic [ref=e263]:
+                - generic [ref=e264]: Hmm...this page doesn’t exist. Try searching for something else.
+                - link "Search" [ref=e265] [cursor=pointer]:
+                  - /url: /search
+                  - generic [ref=e268]: Search

@@ -1,0 +1,5 @@
+- generic [ref=e2]:
+  - progressbar [ref=e9]:
+    - img [ref=e10]
+  - link "Translations" [ref=e16] [cursor=pointer]:
+    - /url: https://www.facebook.com/translations/?ref=trans_nub

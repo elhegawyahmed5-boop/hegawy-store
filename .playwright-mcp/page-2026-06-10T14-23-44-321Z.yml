@@ -1,0 +1,235 @@
+- generic [ref=e2]:
+  - generic [ref=e9]:
+    - generic [ref=e13]:
+      - generic [ref=e21]:
+        - generic [ref=e23]:
+          - heading "Settings" [level=1] [ref=e24]
+          - toolbar [ref=e26]:
+            - heading "Other assets" [level=4] [ref=e35]
+            - button "Facebook" [ref=e36] [cursor=pointer]:
+              - generic [ref=e42]:
+                - generic:
+                  - img
+                - img "Facebook" [ref=e44]
+        - generic [ref=e45]:
+          - generic [ref=e52]:
+            - generic [ref=e55]:
+              - navigation [ref=e56]:
+                - list [ref=e57]:
+                  - listitem [ref=e60]:
+                    - link "Profiles" [ref=e62] [cursor=pointer]:
+                      - /url: https://business.facebook.com/latest/settings/profiles
+                    - generic:
+                      - listitem:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Profiles
+                  - listitem [ref=e70]:
+                    - link "Authorisations and verifications" [ref=e72] [cursor=pointer]:
+                      - /url: https://business.facebook.com/latest/settings/authorizations_verifications
+                    - generic:
+                      - listitem:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Authorisations and verifications
+              - navigation [ref=e78]:
+                - list [ref=e79]:
+                  - listitem [ref=e82]:
+                    - link "Language settings" [ref=e84] [cursor=pointer]:
+                      - /url: https://www.facebook.com/settings/?tab=language
+                    - generic:
+                      - listitem:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Language settings
+                          - generic:
+                            - img
+            - button "Collapse" [ref=e94] [cursor=pointer]:
+              - generic [ref=e96]:
+                - generic [ref=e97]: Collapse
+                - img [ref=e99]
+          - grid "Profiles" [ref=e119]:
+            - rowgroup [ref=e120]:
+              - row "Name" [ref=e121]:
+                - columnheader "Name" [ref=e122] [cursor=pointer]:
+                  - generic [ref=e124]:
+                    - heading "Name" [level=4] [ref=e128]
+                    - img [ref=e131]
+            - rowgroup [ref=e134]:
+              - row "Facebook Hegawy Stores Facebook Page" [ref=e135] [cursor=pointer]:
+                - gridcell "Facebook Hegawy Stores Facebook Page" [ref=e136]:
+                  - button "Facebook Hegawy Stores Facebook Page" [ref=e138]:
+                    - generic [ref=e141]:
+                      - img "Facebook" [ref=e146]
+                      - generic [ref=e147]:
+                        - heading "Hegawy Stores" [level=4] [ref=e149]
+                        - generic [ref=e150]: Facebook Page
+      - button "Meta AI business assistant" [ref=e154] [cursor=pointer]
+    - generic [ref=e165]:
+      - generic [ref=e167]:
+        - button "Meta Business Suite" [ref=e168] [cursor=pointer]:
+          - generic [ref=e170]: Meta Business Suite
+        - button "Pressable" [ref=e179] [cursor=pointer]
+      - navigation "Links" [ref=e187]:
+        - generic [ref=e188]: Links
+        - list [ref=e189]:
+          - generic [ref=e190]:
+            - listitem [ref=e194]:
+              - generic [ref=e196]:
+                - link "Home" [ref=e197] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/home?asset_id=1077200972154010
+                  - generic [ref=e198]: Home
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Home
+            - listitem [ref=e202]:
+              - generic [ref=e204]:
+                - link "Notifications" [ref=e205] [cursor=pointer]:
+                  - generic [ref=e206]: Notifications
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Notifications
+            - listitem [ref=e210]:
+              - generic [ref=e212]:
+                - link "Inbox" [ref=e213] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/inbox?asset_id=1077200972154010
+                  - generic [ref=e214]: Inbox
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Inbox
+            - listitem [ref=e219]:
+              - generic [ref=e221]:
+                - link "Content" [ref=e222] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/posts?asset_id=1077200972154010
+                  - generic [ref=e223]: Content
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Content
+            - listitem [ref=e227]:
+              - generic [ref=e229]:
+                - link "Creator marketplace" [ref=e230] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/creator_marketplace?asset_id=1077200972154010&cm_entrypoint=biz_kit_nav_route_item
+                  - generic [ref=e231]: Creator marketplace
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Creator marketplace
+            - listitem [ref=e235]:
+              - generic [ref=e237]:
+                - link "Planner" [ref=e238] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/content_calendar?asset_id=1077200972154010
+                  - generic [ref=e239]: Planner
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Planner
+            - listitem [ref=e244]:
+              - generic [ref=e246]:
+                - link "Ads" [ref=e247] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/ad_center/ads_summary?asset_id=1077200972154010
+                  - generic [ref=e248]: Ads
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Ads
+            - listitem [ref=e253]:
+              - generic [ref=e255]:
+                - link "Insights" [ref=e256] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/insights?asset_id=1077200972154010
+                  - generic [ref=e257]: Insights
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Insights
+            - listitem [ref=e261]:
+              - generic [ref=e263]:
+                - link "All tools" [ref=e264] [cursor=pointer]:
+                  - generic [ref=e265]: All tools
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: All tools
+            - generic [ref=e267]:
+              - separator [ref=e268]
+              - listitem [ref=e271]:
+                - generic [ref=e273]:
+                  - link "Billing & payments" [ref=e274] [cursor=pointer]:
+                    - /url: https://business.facebook.com/billing_hub/payment_settings/?placement=bizapp_ad_center
+                    - generic [ref=e275]: Billing & payments
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Billing & payments
+              - listitem [ref=e278]:
+                - generic [ref=e280]:
+                  - link "Audiences" [ref=e281] [cursor=pointer]:
+                    - /url: https://business.facebook.com/ads/manager/audiences/?nav_source=business_manager
+                    - generic [ref=e282]: Audiences
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Audiences
+              - listitem [ref=e285]:
+                - generic [ref=e287]:
+                  - link "Events Manager" [ref=e288] [cursor=pointer]:
+                    - /url: https://business.facebook.com/events_manager2/?nav_source=biz_nav
+                    - generic [ref=e289]: Events Manager
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Events Manager
+            - button "Edit sidebar navigation" [ref=e292] [cursor=pointer]:
+              - generic [ref=e296]: Edit
+      - generic [ref=e300]:
+        - listitem [ref=e303]:
+          - generic [ref=e305]:
+            - link "Search" [ref=e306] [cursor=pointer]:
+              - generic [ref=e307]: Search
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Search
+            - generic:
+              - generic:
+                - img
+        - navigation "Links" [ref=e308]:
+          - generic [ref=e309]: Links
+          - list [ref=e310]:
+            - listitem [ref=e314]:
+              - generic [ref=e316]:
+                - link "Get Started" [ref=e317] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/get_started?asset_id=1077200972154010
+                  - generic [ref=e318]: Get Started
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Get Started
+            - listitem [ref=e322]:
+              - generic [ref=e324]:
+                - link "Settings" [ref=e325] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/settings/profiles?asset_id=1077200972154010
+                  - generic [ref=e326]: Settings
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Settings
+        - listitem [ref=e333]:
+          - generic [ref=e335]:
+            - link "Help" [ref=e336] [cursor=pointer]:
+              - generic [ref=e337]: Help
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Help
+            - generic:
+              - generic:
+                - img
+  - link "Translations" [ref=e341] [cursor=pointer]:
+    - /url: https://www.facebook.com/translations/?ref=trans_nub

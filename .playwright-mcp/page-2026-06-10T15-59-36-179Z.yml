@@ -1,0 +1,207 @@
+- generic [ref=e2]:
+  - region "Notifications alt+T"
+  - generic [ref=e8]:
+    - generic [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to TikTok For You feed" [ref=e14] [cursor=pointer]:
+          - /url: /?lang=en
+          - img [ref=e15]
+          - strong: TikTok
+        - searchbox "Search" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]:
+            - img [ref=e24]
+            - generic [ref=e26]: Search
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - heading "For You" [level=2] [ref=e29]:
+            - link "For You" [ref=e31] [cursor=pointer]:
+              - /url: /
+              - listitem "For You" [ref=e32]:
+                - generic [ref=e33]:
+                  - img [ref=e36]
+                  - generic [ref=e38]: For You
+          - heading "Explore" [level=2] [ref=e39]:
+            - link "Explore" [ref=e41] [cursor=pointer]:
+              - /url: /explore?lang=en
+              - listitem "Explore" [ref=e42]:
+                - generic [ref=e43]:
+                  - img [ref=e46]
+                  - generic [ref=e49]: Explore
+          - heading "Following" [level=2] [ref=e50]:
+            - link "Following" [ref=e52] [cursor=pointer]:
+              - /url: /following?lang=en
+              - listitem "Following" [ref=e53]:
+                - generic [ref=e54]:
+                  - img [ref=e58]
+                  - generic [ref=e61]: Following
+          - heading "LIVE" [level=2] [ref=e62]:
+            - link "LIVE" [ref=e65] [cursor=pointer]:
+              - /url: /live?lang=en
+              - listitem "LIVE" [ref=e66]:
+                - generic [ref=e67]:
+                  - img [ref=e70]
+                  - generic [ref=e73]: LIVE
+          - link "Upload" [ref=e75] [cursor=pointer]:
+            - /url: /tiktokstudio/upload?from=webapp&lang=en&tab=video
+            - listitem "Upload" [ref=e76]:
+              - generic [ref=e77]:
+                - img [ref=e80]
+                - generic [ref=e83]: Upload
+          - heading "Profile" [level=2] [ref=e84]:
+            - link "Profile" [ref=e86] [cursor=pointer]:
+              - /url: /@?lang=en
+              - listitem "Profile" [ref=e87]:
+                - generic [ref=e88]:
+                  - img [ref=e91]
+                  - generic [ref=e93]: Profile
+          - listitem "More" [ref=e95] [cursor=pointer]:
+            - generic [ref=e96]:
+              - img [ref=e100]
+              - generic [ref=e103]: More
+        - button "Log in" [ref=e106] [cursor=pointer]:
+          - generic [ref=e108]: Log in
+        - generic [ref=e110]:
+          - heading "Company" [level=3] [ref=e111] [cursor=pointer]
+          - heading "Program" [level=3] [ref=e112] [cursor=pointer]
+          - heading "Terms & Policies" [level=3] [ref=e113] [cursor=pointer]
+          - generic [ref=e114]: © 2026 TikTok
+    - main [ref=e115]:
+      - generic [ref=e116]:
+        - article [ref=e117]:
+          - generic [ref=e118]:
+            - region "Watch in full screen" [ref=e119] [cursor=pointer]:
+              - generic [ref=e120]:
+                - 'img "#من_ترك_شيئآ_لله_عوضه_الله_خيرآ_منه #بودكاست #الحمدلله_دائماً_وابداً #موعظة_دينية #اكتب_شيء_تؤجر_عليه🌿🕊" [ref=e124]'
+                - generic [ref=e127]:
+                  - generic [ref=e128]:
+                    - button "Volume" [pressed] [ref=e131]:
+                      - img [ref=e134]
+                    - button [ref=e139]:
+                      - img [ref=e142]
+                  - generic [ref=e146]:
+                    - link "lo_7_77" [ref=e148]:
+                      - /url: /@lo_7_77?lang=en
+                      - paragraph [ref=e150]: lo_7_77
+                    - generic [ref=e154]:
+                      - link "Watch more videos of the من_ترك_شيئآ_لله_عوضه_الله_خيرآ_منه category" [ref=e155]:
+                        - /url: /tag/%D9%85%D9%86_%D8%AA%D8%B1%D9%83_%D8%B4%D9%8A%D8%A6%D8%A2_%D9%84%D9%84%D9%87_%D8%B9%D9%88%D8%B6%D9%87_%D8%A7%D9%84%D9%84%D9%87_%D8%AE%D9%8A%D8%B1%D8%A2_%D9%85%D9%86%D9%87?lang=en
+                        - paragraph [ref=e156]: "#من_ترك_شيئآ_لله_عوضه_الله_خيرآ_منه"
+                      - link "Watch more videos of the بودكاست category" [ref=e158]:
+                        - /url: /tag/%D8%A8%D9%88%D8%AF%D9%83%D8%A7%D8%B3%D8%AA?lang=en
+                        - paragraph [ref=e159]: "#بودكاست"
+                      - link "Watch more videos of the الحمدلله_دائماً_وابداً category" [ref=e161]:
+                        - /url: /tag/%D8%A7%D9%84%D8%AD%D9%85%D8%AF%D9%84%D9%84%D9%87_%D8%AF%D8%A7%D8%A6%D9%85%D8%A7%D9%8B_%D9%88%D8%A7%D8%A8%D8%AF%D8%A7%D9%8B?lang=en
+                        - paragraph [ref=e162]: "#الحمدلله_دائماً_وابداً"
+                      - link "Watch more videos of the موعظة_دينية category" [ref=e164]:
+                        - /url: /tag/%D9%85%D9%88%D8%B9%D8%B8%D8%A9_%D8%AF%D9%8A%D9%86%D9%8A%D8%A9?lang=en
+                        - paragraph [ref=e165]: "#موعظة_دينية"
+                      - link "Watch more videos of the اكتب_شيء_تؤجر_عليه🌿🕊 category" [ref=e167]:
+                        - /url: /tag/%D8%A7%D9%83%D8%AA%D8%A8_%D8%B4%D9%8A%D8%A1_%D8%AA%D8%A4%D8%AC%D8%B1_%D8%B9%D9%84%D9%8A%D9%87%F0%9F%8C%BF%F0%9F%95%8A?lang=en
+                        - paragraph [ref=e168]: "#اكتب_شيء_تؤجر_عليه🌿🕊"
+                - generic [ref=e170]:
+                  - paragraph: 00:06 / 00:14
+                  - slider "Video progress" [ref=e174]
+            - generic [ref=e176]:
+              - generic [ref=e177]:
+                - link "lo_7_77" [ref=e178] [cursor=pointer]:
+                  - /url: /@lo_7_77?lang=en
+                  - img "lo_7_77" [ref=e182]
+                - button [ref=e183] [cursor=pointer]:
+                  - img [ref=e185]
+              - button "Like video 98.3K likes" [ref=e188] [cursor=pointer]:
+                - img [ref=e190]
+                - strong [ref=e195]: 98.3K
+              - button "Read or add comments 294 comments" [ref=e196] [cursor=pointer]:
+                - img [ref=e198]
+                - strong [ref=e200]: "294"
+              - button "Add to Favorites. 6101 added to Favorites" [ref=e203] [cursor=pointer]:
+                - img [ref=e205]
+                - strong [ref=e208]: "6101"
+              - button "Share video 12.2K shares" [ref=e210] [cursor=pointer]:
+                - img [ref=e212]
+                - strong [ref=e216]: 12.2K
+              - link "Watch more videos with music الصوت الأصلي - ❣️QURAN قٰرآنْ" [ref=e217] [cursor=pointer]:
+                - /url: /music/الصوت-الأصلي-7625345756264844052?lang=en
+        - article [ref=e219]:
+          - generic [ref=e220]:
+            - region "Watch in full screen" [ref=e221] [cursor=pointer]:
+              - generic [ref=e222]:
+                - 'img "هذه ليست البرازيل هذه أم الدنيا🫶🏻🇪🇬 #مصر #المنصورة #brazil #football" [ref=e226]'
+                - generic [ref=e229]:
+                  - generic [ref=e230]:
+                    - button "Volume" [pressed] [ref=e233]:
+                      - img [ref=e236]
+                    - button [ref=e241]:
+                      - img [ref=e244]
+                  - generic [ref=e248]:
+                    - link "Mit Sudan" [ref=e251]:
+                      - /url: /place/Mit-Sudan-22535796493324783?lang=en
+                      - generic [ref=e252]:
+                        - img [ref=e253]
+                        - paragraph [ref=e257]: Mit Sudan
+                    - link "ziyadbenyousefj" [ref=e259]:
+                      - /url: /@ziyadbenyousefj?lang=en
+                      - paragraph [ref=e261]: ziyadbenyousefj
+                    - generic [ref=e262]:
+                      - generic [ref=e265]:
+                        - generic [ref=e266]: هذه ليست البرازيل هذه أم الدنيا🫶🏻🇪🇬
+                        - link "Watch more videos of the مصر category" [ref=e267]:
+                          - /url: /tag/%D9%85%D8%B5%D8%B1?lang=en
+                          - paragraph [ref=e268]: "#مصر"
+                        - link "Watch more videos of the المنصورة category" [ref=e270]:
+                          - /url: /tag/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D8%A9?lang=en
+                          - paragraph [ref=e271]: "#المنصورة"
+                        - link "Watch more videos of the brazil category" [ref=e273]:
+                          - /url: /tag/brazil?lang=en
+                          - paragraph [ref=e274]: "#brazil"
+                        - link "Watch more videos of the football category" [ref=e276]:
+                          - /url: /tag/football?lang=en
+                          - paragraph [ref=e277]: "#football"
+                      - paragraph [ref=e279]: See translation
+                    - link "Watch more videos with music Tá OK - DENNIS & MC Kevin o Chris" [ref=e281]:
+                      - /url: /music/Tá-OK-7226040425570764801?lang=en
+                      - generic [ref=e282]:
+                        - img [ref=e283]
+                        - paragraph [ref=e285]: Tá OK - DENNIS & MC Kevin o Chris
+                - generic [ref=e286]:
+                  - paragraph: 00:00 / 00:00
+                  - generic [ref=e289]:
+                    - slider "Video progress"
+            - generic [ref=e291]:
+              - generic [ref=e292]:
+                - link "ziyadbenyousefj" [ref=e293] [cursor=pointer]:
+                  - /url: /@ziyadbenyousefj?lang=en
+                  - img "ziyadbenyousefj" [ref=e297]
+                - button [ref=e298] [cursor=pointer]:
+                  - img [ref=e300]
+              - button "Like video 10.2K likes" [ref=e303] [cursor=pointer]:
+                - img [ref=e305]
+                - strong [ref=e310]: 10.2K
+              - button "Read or add comments 108 comments" [ref=e311] [cursor=pointer]:
+                - img [ref=e313]
+                - strong [ref=e315]: "108"
+              - button "Add to Favorites. 328 added to Favorites" [ref=e318] [cursor=pointer]:
+                - img [ref=e320]
+                - strong [ref=e323]: "328"
+              - button "Share video 1071 shares" [ref=e325] [cursor=pointer]:
+                - img [ref=e327]
+                - strong [ref=e331]: "1071"
+        - article [ref=e332]
+        - article [ref=e333]
+        - article [ref=e334]
+        - article [ref=e335]
+      - complementary:
+        - generic [ref=e336]:
+          - button [disabled] [ref=e338]:
+            - img [ref=e341]
+          - button [ref=e344] [cursor=pointer]:
+            - img [ref=e347]
+      - generic [ref=e351]:
+        - button "Get Coins" [ref=e354] [cursor=pointer]:
+          - img [ref=e356]
+          - generic [ref=e359]: Get Coins
+        - button "Get App" [ref=e362] [cursor=pointer]:
+          - img [ref=e364]
+          - generic [ref=e367]: Get App
+        - button "Log in" [ref=e370] [cursor=pointer]:
+          - generic [ref=e372]: Log in

@@ -1,0 +1,237 @@
+- generic [ref=e2]:
+  - region "Notifications alt+T"
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - link "Go to TikTok For You feed" [ref=e9] [cursor=pointer]:
+          - /url: /?lang=en
+          - img [ref=e10]
+          - strong: TikTok
+        - searchbox "Search" [ref=e15] [cursor=pointer]:
+          - generic [ref=e16]:
+            - img [ref=e19]
+            - generic [ref=e21]: Search
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - link "For You" [ref=e25] [cursor=pointer]:
+            - /url: /
+            - listitem "For You" [ref=e26]:
+              - generic [ref=e27]:
+                - img [ref=e30]
+                - generic [ref=e32]: For You
+          - link "Explore" [ref=e34] [cursor=pointer]:
+            - /url: /explore?lang=en
+            - listitem "Explore" [ref=e35]:
+              - generic [ref=e36]:
+                - img [ref=e39]
+                - generic [ref=e42]: Explore
+          - link "Following" [ref=e44] [cursor=pointer]:
+            - /url: /following?lang=en
+            - listitem "Following" [ref=e45]:
+              - generic [ref=e46]:
+                - img "Avatar for shaadytarek" [ref=e385]
+                - generic [ref=e51]: Following
+          - link "Friends" [ref=e53] [cursor=pointer]:
+            - /url: /friends?lang=en
+            - listitem "Friends" [ref=e54]:
+              - generic [ref=e55]:
+                - img [ref=e58]
+                - generic [ref=e60]: Friends
+          - link "LIVE" [ref=e63] [cursor=pointer]:
+            - /url: /live?lang=en
+            - listitem "LIVE" [ref=e64]:
+              - generic [ref=e65]:
+                - img [ref=e68]
+                - generic [ref=e71]: LIVE
+          - link "Messages" [ref=e73] [cursor=pointer]:
+            - /url: /messages?lang=en
+            - listitem "Messages" [ref=e74]:
+              - generic [ref=e75]:
+                - img [ref=e78]
+                - generic [ref=e80]: Messages
+          - listitem "Activity" [ref=e82] [cursor=pointer]:
+            - generic [ref=e83]:
+              - generic [ref=e85]:
+                - img [ref=e86]
+                - superscript [ref=e89]:
+                  - paragraph [ref=e90]: "35"
+              - generic [ref=e91]: Activity
+          - link "Upload" [ref=e93] [cursor=pointer]:
+            - /url: /tiktokstudio/upload?from=webapp&lang=en&tab=video
+            - listitem "Upload" [ref=e94]:
+              - generic [ref=e95]:
+                - img [ref=e98]
+                - generic [ref=e101]: Upload
+          - link "Profile" [ref=e103] [cursor=pointer]:
+            - /url: /@hegawystores?lang=en
+            - listitem "Profile" [ref=e104]:
+              - generic [ref=e105]:
+                - img [ref=e386]
+                - generic [ref=e109]: Profile
+          - listitem "More" [ref=e111] [cursor=pointer]:
+            - generic [ref=e112]:
+              - img [ref=e116]
+              - generic [ref=e119]: More
+        - generic [ref=e121]:
+          - paragraph [ref=e122]: Following accounts
+          - generic [ref=e123]:
+            - list [ref=e124]:
+              - listitem [ref=e125]:
+                - link "Avatar for abdo_qr17 أَمَــل غَـفَـر اللّٰه لَها 🍂 abdo_qr17" [ref=e126] [cursor=pointer]:
+                  - /url: /@abdo_qr17?lang=en
+                  - button "Avatar for abdo_qr17 أَمَــل غَـفَـر اللّٰه لَها 🍂 abdo_qr17" [ref=e127]:
+                    - generic [ref=e130]:
+                      - img "Avatar for abdo_qr17" [ref=e133]
+                      - link "أَمَــل غَـفَـر اللّٰه لَها 🍂 abdo_qr17" [ref=e134]:
+                        - /url: /@abdo_qr17?lang=en
+                        - generic [ref=e135]:
+                          - paragraph [ref=e136]:
+                            - paragraph [ref=e138]: أَمَــل غَـفَـر اللّٰه لَها 🍂
+                          - paragraph [ref=e139]: abdo_qr17
+              - listitem [ref=e140]:
+                - link "Avatar for ammmasa0922 كرومات قرآن | Quran ammmasa0922" [ref=e141] [cursor=pointer]:
+                  - /url: /@ammmasa0922?lang=en
+                  - button "Avatar for ammmasa0922 كرومات قرآن | Quran ammmasa0922" [ref=e142]:
+                    - generic [ref=e145]:
+                      - img "Avatar for ammmasa0922" [ref=e148]
+                      - link "كرومات قرآن | Quran ammmasa0922" [ref=e149]:
+                        - /url: /@ammmasa0922?lang=en
+                        - generic [ref=e150]:
+                          - paragraph [ref=e151]:
+                            - paragraph [ref=e153]: كرومات قرآن | Quran
+                          - paragraph [ref=e154]: ammmasa0922
+              - listitem [ref=e155]:
+                - link "Avatar for tarafsfljir قران/📚🎧 tarafsfljir" [ref=e156] [cursor=pointer]:
+                  - /url: /@tarafsfljir?lang=en
+                  - button "Avatar for tarafsfljir قران/📚🎧 tarafsfljir" [ref=e157]:
+                    - generic [ref=e160]:
+                      - img "Avatar for tarafsfljir" [ref=e163]
+                      - link "قران/📚🎧 tarafsfljir" [ref=e164]:
+                        - /url: /@tarafsfljir?lang=en
+                        - generic [ref=e165]:
+                          - paragraph [ref=e166]:
+                            - paragraph [ref=e168]: قران/📚🎧
+                          - paragraph [ref=e169]: tarafsfljir
+              - listitem [ref=e170]:
+                - link "Avatar for science_based_toji science_based_toji science_based_toji" [ref=e171] [cursor=pointer]:
+                  - /url: /@science_based_toji?lang=en
+                  - button "Avatar for science_based_toji science_based_toji science_based_toji" [ref=e172]:
+                    - generic [ref=e175]:
+                      - img "Avatar for science_based_toji" [ref=e178]
+                      - link "science_based_toji science_based_toji" [ref=e179]:
+                        - /url: /@science_based_toji?lang=en
+                        - generic [ref=e180]:
+                          - paragraph [ref=e181]:
+                            - paragraph [ref=e183]: science_based_toji
+                          - paragraph [ref=e184]: science_based_toji
+              - listitem [ref=e185]:
+                - link "Avatar for belghamdi.coaching Belghamdi.Coaching belghamdi.coaching" [ref=e186] [cursor=pointer]:
+                  - /url: /@belghamdi.coaching?lang=en
+                  - button "Avatar for belghamdi.coaching Belghamdi.Coaching belghamdi.coaching" [ref=e187]:
+                    - generic [ref=e190]:
+                      - img "Avatar for belghamdi.coaching" [ref=e193]
+                      - link "Belghamdi.Coaching belghamdi.coaching" [ref=e194]:
+                        - /url: /@belghamdi.coaching?lang=en
+                        - generic [ref=e195]:
+                          - paragraph [ref=e196]:
+                            - paragraph [ref=e198]: Belghamdi.Coaching
+                          - paragraph [ref=e199]: belghamdi.coaching
+            - button "View all" [ref=e200] [cursor=pointer]:
+              - generic [ref=e201]:
+                - img [ref=e204]
+                - generic [ref=e206]: View all
+        - generic [ref=e208]:
+          - heading "Company" [level=4] [ref=e387] [cursor=pointer]
+          - heading "Program" [level=4] [ref=e388] [cursor=pointer]
+          - heading "Terms & Policies" [level=4] [ref=e389] [cursor=pointer]
+          - generic [ref=e209]: © 2026 TikTok
+    - generic [ref=e212]:
+      - generic [ref=e218]:
+        - generic [ref=e219]:
+          - generic [ref=e221]:
+            - heading "Elhegawy Editor" [level=1] [ref=e223]
+            - heading "hegawystores" [level=2] [ref=e225]
+          - heading "7 Following 5 Followers 19 Likes" [level=3] [ref=e226]:
+            - generic [ref=e227] [cursor=pointer]:
+              - strong [ref=e228]: "7"
+              - generic [ref=e229]: Following
+            - generic [ref=e230] [cursor=pointer]:
+              - strong [ref=e231]: "5"
+              - generic [ref=e232]: Followers
+            - generic [ref=e233]:
+              - strong [ref=e234]: "19"
+              - generic [ref=e235]: Likes
+        - generic [ref=e236]:
+          - button "Edit profile" [ref=e238] [cursor=pointer]:
+            - generic [ref=e242]: Edit profile
+          - button "Promote post" [ref=e244] [cursor=pointer]:
+            - generic [ref=e248]: Promote post
+          - link [ref=e249] [cursor=pointer]:
+            - /url: /setting?lang=en
+            - button [ref=e251]:
+              - img [ref=e255]
+          - button "Share" [ref=e258] [cursor=pointer]:
+            - img [ref=e262]
+        - heading "VIDEO EDITOR ✨ https://youtu.be/so-nsLmNxQg?si=JU3ShWb523JXIXef" [level=2] [ref=e265]
+      - generic [ref=e266]:
+        - generic [ref=e267]:
+          - generic [ref=e268]:
+            - tab "Videos" [selected] [ref=e269] [cursor=pointer]:
+              - img [ref=e270]
+              - generic [ref=e272]: Videos
+            - tab "Reposts" [ref=e390] [cursor=pointer]:
+              - img [ref=e391]
+              - generic [ref=e393]: Reposts
+            - tab "Favorites" [ref=e273] [cursor=pointer]:
+              - img [ref=e274]
+              - generic [ref=e276]: Favorites
+            - tab "Liked" [ref=e277] [cursor=pointer]:
+              - img [ref=e278]
+              - generic [ref=e280]: Liked
+          - generic [ref=e283]:
+            - button "Latest" [ref=e284] [cursor=pointer]:
+              - generic [ref=e286]: Latest
+            - button "Popular" [ref=e287] [cursor=pointer]:
+              - generic [ref=e289]: Popular
+            - button "Oldest" [ref=e290] [cursor=pointer]:
+              - generic [ref=e292]: Oldest
+        - generic [ref=e294]:
+          - button "Watch in full screen" [ref=e297] [cursor=pointer]:
+            - 'link "دي قصتي قولي قصتك في التعليقات 👌 #edit #viral created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي 114" [ref=e300]':
+              - /url: https://www.tiktok.com/@hegawystores/video/7618309814074101013
+              - generic [ref=e301]:
+                - 'img "دي قصتي قولي قصتك في التعليقات 👌 #edit #viral created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي" [ref=e305]'
+                - generic [ref=e308]:
+                  - img [ref=e309]
+                  - strong [ref=e311]: "114"
+          - button "Watch in full screen" [ref=e314] [cursor=pointer]:
+            - 'link "شوف الفيديو كامل من يوتيوب #edit #منتاج created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي 222" [ref=e317]':
+              - /url: https://www.tiktok.com/@hegawystores/video/7607160234196339975
+              - generic [ref=e318]:
+                - 'img "شوف الفيديو كامل من يوتيوب #edit #منتاج created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي" [ref=e322]'
+                - generic [ref=e323]:
+                  - img [ref=e324]
+                  - strong [ref=e326]: "222"
+          - button "Watch in full screen" [ref=e329] [cursor=pointer]:
+            - link "@editor @edit فولوا 👆 created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي 401" [ref=e332]:
+              - /url: https://www.tiktok.com/@hegawystores/video/7603145603564047623
+              - generic [ref=e333]:
+                - img "@editor @edit فولوا 👆 created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي" [ref=e337]
+                - generic [ref=e338]:
+                  - img [ref=e339]
+                  - strong [ref=e341]: "401"
+          - button "Watch in full screen" [ref=e344] [cursor=pointer]:
+            - 'link "قيم الفديو من 10 🌠🫂 #edit created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي 273" [ref=e347]':
+              - /url: https://www.tiktok.com/@hegawystores/video/7599405532360789266
+              - generic [ref=e348]:
+                - 'img "قيم الفديو من 10 🌠🫂 #edit created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي" [ref=e352]'
+                - generic [ref=e353]:
+                  - img [ref=e354]
+                  - strong [ref=e356]: "273"
+    - generic [ref=e359]:
+      - button [ref=e362] [cursor=pointer]:
+        - img [ref=e364]
+      - button [ref=e369] [cursor=pointer]:
+        - img [ref=e371]
+      - button [ref=e376] [cursor=pointer]:
+        - img [ref=e380]

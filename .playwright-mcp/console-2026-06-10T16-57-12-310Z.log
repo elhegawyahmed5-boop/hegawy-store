@@ -1,0 +1,35 @@
+[    1503ms] [LOG] %c
+▲
+
+ _____ _              _                    _   _             __
+|_   _| |__   ___    / \   __ _  ___ _ __ | |_(_) ___       / /
+  | | | '_ \ / _ \  / _ \ / _` |/ _ \ '_ \| __| |/ __|     / /
+  | | | | | |  __/ / ___ \ (_| |  __/ | | | |_| | (__     /_/
+  |_| |_| |_|\___|/_/   \_\__, |\___|_| |_|\__|_|\___|    (_)
+                           |___/
+ ___        __               _                   _                 _
+|_ _|_ __  / _|_ __ __ _ ___| |_ _ __ _   _  ___| |_ _   _ _ __ ___
+ | || '_ \| |_| '__/ _` / __| __| '__| | | |/ __| __| | | | '__/ _ \
+ | || | | |  _| | | (_| \__ \ |_| |  | |_| | (__| |_| |_| | | |  __/
+|___|_| |_|_| |_|  \__,_|___/\__|_|   \__,_|\___|\__|\__,_|_|  \___|
+  
+
+Hello!
+
+- Open Source https://vercel.com/oss
+- Careers https://vercel.com/careers
+- Status https://vercel-status.com
+
+ font-family: "Geist Mono", monospace; white-space: pre; line-height: 1; @ https://vercel.com/_next/static/immutable/chunks/10bipm_r0kfgr.js:78
+[    2251ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://vercel.com/api/jwt:0
+[    2882ms] [WARNING] Deprecated API for given entry type. @ https://vercel.com/_next/static/immutable/chunks/3-tnb_jpr7237.js:18
+[    6112ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/30w8exso3xwcz.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[    6113ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/1mbe0yml1d776.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[    6114ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/2oy3go89xncy3.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[    6114ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/0-shbsz3-8ybx.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[    6114ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/2zg--7csfeazl.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[   16069ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/30w8exso3xwcz.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[   16069ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/1mbe0yml1d776.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[   16069ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/2oy3go89xncy3.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[   16069ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/0-shbsz3-8ybx.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[   16069ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/2zg--7csfeazl.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0

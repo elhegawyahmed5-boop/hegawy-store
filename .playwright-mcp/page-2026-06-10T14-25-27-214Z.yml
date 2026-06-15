@@ -1,0 +1,241 @@
+- generic [ref=e10]:
+  - navigation "Navigation within Settings" [ref=e11]:
+    - generic [ref=e12]:
+      - heading "Settings & privacy" [level=1] [ref=e20]
+      - generic [ref=e27]:
+        - generic:
+          - img
+        - combobox "Search settings" [ref=e28]
+      - generic [ref=e35]:
+        - heading "Settings & privacy" [level=2] [ref=e47]:
+          - generic [ref=e49]: Settings & privacy
+        - generic [ref=e53]:
+          - generic [ref=e60]:
+            - heading "Preferences" [level=2] [ref=e65]:
+              - generic [ref=e67]: Preferences
+            - generic [ref=e72]: Customise your experience on Facebook.
+          - link "Reaction preferences settings" [ref=e79] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=reaction_preferences
+            - generic [ref=e81]:
+              - img [ref=e83]
+              - generic [ref=e88]: Reaction preferences
+          - link "Notifications settings" [ref=e95] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=notifications
+            - generic [ref=e97]:
+              - img [ref=e99]
+              - generic [ref=e104]: Notifications
+          - link "Accessibility settings" [ref=e111] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=accessibility
+            - generic [ref=e113]:
+              - img [ref=e115]
+              - generic [ref=e120]: Accessibility
+          - link "Media settings" [ref=e127] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=videos
+            - generic [ref=e129]:
+              - img [ref=e131]
+              - generic [ref=e136]: Media
+          - link "Dark mode settings" [ref=e143] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=dark_mode_category
+            - generic [ref=e145]:
+              - img [ref=e147]
+              - generic [ref=e152]: Dark mode
+        - generic [ref=e154]:
+          - generic [ref=e161]:
+            - heading "Audience and visibility" [level=2] [ref=e166]:
+              - generic [ref=e168]: Audience and visibility
+            - generic [ref=e173]: Control who can see what you share on Facebook.
+          - link "Page details" [ref=e181] [cursor=pointer]:
+            - /url: https://www.facebook.com/me/about/
+            - generic [ref=e183]:
+              - img [ref=e185]
+              - generic [ref=e190]: Page details
+          - link "How people can find and contact you settings" [ref=e197] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=how_people_find_and_contact_you
+            - generic [ref=e199]:
+              - img [ref=e201]
+              - generic [ref=e206]: How people can find and contact you
+          - link "Posts settings" [ref=e213] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=posts
+            - generic [ref=e215]:
+              - img [ref=e217]
+              - generic [ref=e222]: Posts
+          - link "Stories settings" [ref=e229] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=stories
+            - generic [ref=e231]:
+              - img [ref=e233]
+              - generic [ref=e238]: Stories
+          - link "Page setup settings" [ref=e245] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=pages
+            - generic [ref=e247]:
+              - img [ref=e249]
+              - generic [ref=e254]: Page setup
+          - link "Reels settings" [ref=e261] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=reels
+            - generic [ref=e263]:
+              - img [ref=e265]
+              - generic [ref=e270]: Reels
+          - link "Followers and public content settings" [ref=e277] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=followers_and_public_content
+            - generic [ref=e279]:
+              - img [ref=e281]
+              - generic [ref=e286]: Followers and public content
+          - link "Page and Tagging settings" [ref=e293] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=profile_and_tagging
+            - generic [ref=e295]:
+              - img [ref=e297]
+              - generic [ref=e302]: Page and Tagging
+          - link "Blocking settings" [ref=e309] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=blocking
+            - generic [ref=e311]:
+              - img [ref=e313]
+              - generic [ref=e318]: Blocking
+        - generic [ref=e320]:
+          - generic [ref=e327]:
+            - heading "Payments" [level=2] [ref=e332]:
+              - generic [ref=e334]: Payments
+            - generic [ref=e339]: Manage your payment info and activity.
+          - link "Ads payments" [ref=e347] [cursor=pointer]:
+            - /url: https://www.facebook.com/billing_hub/payment_settings/?asset_id=986137084157765&placement=fb_payment_settings
+            - generic [ref=e349]:
+              - img [ref=e351]
+              - generic [ref=e356]: Ads payments
+        - generic [ref=e358]:
+          - generic [ref=e365]:
+            - heading "Permissions" [level=2] [ref=e370]:
+              - generic [ref=e372]: Permissions
+            - generic [ref=e377]: Manage what info Facebook uses to make your experience better, such as your interests and location.
+          - link "Linked accounts settings" [ref=e384] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=linked_profiles
+            - generic [ref=e386]:
+              - img [ref=e388]
+              - generic [ref=e393]: Linked accounts
+          - link "Off-Facebook activity" [ref=e401] [cursor=pointer]:
+            - /url: https://www.facebook.com/off_facebook_activity/
+            - generic [ref=e403]:
+              - img [ref=e405]
+              - generic [ref=e410]: Off-Facebook activity
+        - generic [ref=e412]:
+          - generic [ref=e419]:
+            - heading "Your information" [level=2] [ref=e424]:
+              - generic [ref=e426]: Your information
+            - generic [ref=e431]: Access a log of your activity and controls to manage your Facebook information.
+          - link "Activity log" [ref=e439] [cursor=pointer]:
+            - /url: https://www.facebook.com/61590727920658/allactivity/?category_key=ALL&entry_point=settings_yfi&should_load_landing_page=1
+            - generic [ref=e441]:
+              - img [ref=e443]
+              - generic [ref=e448]: Activity log
+          - link "Access and control" [ref=e456] [cursor=pointer]:
+            - /url: https://www.facebook.com/deactivate_delete_account/
+            - generic [ref=e458]:
+              - img [ref=e460]
+              - generic [ref=e465]: Access and control
+          - link "Download your information" [ref=e473] [cursor=pointer]:
+            - /url: https://www.facebook.com/dyi/?referrer=www_settings
+            - generic [ref=e475]:
+              - img [ref=e477]
+              - generic [ref=e482]: Download your information
+        - generic [ref=e484]:
+          - heading "Resources" [level=2] [ref=e496]:
+            - generic [ref=e498]: Resources
+          - link "Journalist resources" [ref=e508] [cursor=pointer]:
+            - /url: https://www.facebook.com/journalist_registration/
+            - generic [ref=e510]:
+              - img [ref=e512]
+              - generic [ref=e517]: Journalist resources
+        - generic [ref=e519]:
+          - heading "Community Standards and legal policies" [level=2] [ref=e531]:
+            - generic [ref=e533]: Community Standards and legal policies
+          - link "Terms of Service" [ref=e543] [cursor=pointer]:
+            - /url: https://www.facebook.com/policies_center/?ref=pf
+            - generic [ref=e545]:
+              - img [ref=e547]
+              - generic [ref=e552]: Terms of Service
+          - link "Privacy Policy" [ref=e560] [cursor=pointer]:
+            - /url: https://www.facebook.com/privacy/policy/?entry_point=facebook_settings
+            - generic [ref=e562]:
+              - img [ref=e564]
+              - generic [ref=e569]: Privacy Policy
+          - link "Cookies Policy" [ref=e577] [cursor=pointer]:
+            - /url: https://www.facebook.com/privacy/policies/cookies/?entry_point=facebook_settings
+            - generic [ref=e579]:
+              - img [ref=e581]
+              - generic [ref=e586]: Cookies Policy
+          - link "Community Standards" [ref=e594] [cursor=pointer]:
+            - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExbHRLdzN1N0NzbTBqQ0VOeXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR40mE0YFCGZtEShrUFzBF0WkGEt3HI216_kH8NfVWUgu8uCCLFNnqDS5YeSSg_aem_Wodb2eAs0Wfd5Hs30ntpTQ&h=AUBKA6LSas_qVD2iW58PLcRHOK1Sraw0kkLz16zC75ppBNFVLhMZluZeBLP6P4EoTBafowLewF_CNP5IVNhujQWNjmlsCn0brg-M3FRYSWBo43YA1Z1Rs116jjDBRjAxKoVjiQ
+            - generic [ref=e596]:
+              - img [ref=e598]
+              - generic [ref=e603]: Community Standards
+  - main "Settings" [ref=e604]:
+    - generic [ref=e614]:
+      - heading "How people can find and contact you" [level=3] [ref=e626]:
+        - generic [ref=e628]: How people can find and contact you
+      - generic [ref=e632]:
+        - switch "Allow search engines outside Facebook to link to your Page?" [checked] [ref=e640] [cursor=pointer]:
+          - generic [ref=e642]:
+            - generic [ref=e645]:
+              - generic [ref=e647]: Allow search engines outside Facebook to link to your Page?
+              - generic [ref=e650]:
+                - generic [ref=e651]: When this setting is on, search engines may link to your Page in their results.
+                - generic [ref=e652]: When this setting is off, search engines will stop linking to your Page, but this may take some time. Your Page can still be found on Facebook if people search for the name of your Page.
+            - switch [checked] [ref=e657]
+        - switch "Allow your Page to be recommended to people looking at similar Pages." [checked] [ref=e665] [cursor=pointer]:
+          - generic [ref=e667]:
+            - generic [ref=e670]:
+              - generic [ref=e672]: Allow your Page to be recommended to people looking at similar Pages.
+              - generic [ref=e676]: We may suggest your Page to people when they visit other Pages similar to yours. In turn, we'll show similar Pages on your Page.
+            - switch [checked] [ref=e681]
+      - generic [ref=e683]:
+        - heading "Messaging" [level=3] [ref=e695]:
+          - generic [ref=e697]: Messaging
+        - switch "Allow people to message your Page?" [checked] [ref=e707] [cursor=pointer]:
+          - generic [ref=e709]:
+            - generic [ref=e712]:
+              - generic [ref=e714]: Allow people to message your Page?
+              - generic [ref=e718]: When turning this setting back on, it can take up to 24 hours for users to be able to message your page again.
+            - switch [checked] [ref=e723]
+      - generic [ref=e725]:
+        - generic [ref=e732]:
+          - heading "Choose who can start a chat with your Page" [level=3] [ref=e737]:
+            - generic [ref=e739]: Choose who can start a chat with your Page
+          - generic [ref=e743]:
+            - generic [ref=e744]: You'll still be able to initiate chats with people and Pages who allow it. The first control that matches your relationship with the messaging person or Page will be applied.
+            - generic [ref=e746]:
+              - text: These settings do not apply to any messages that you may receive through your Facebook ads.
+              - link "Learn more" [ref=e747] [cursor=pointer]:
+                - /url: https://www.facebook.com/help/24249536478055059
+        - button "People you follow? Chats" [ref=e755] [cursor=pointer]:
+          - generic [ref=e757]:
+            - generic [ref=e760]:
+              - generic [ref=e762]: People you follow
+              - generic [ref=e764]: Chats
+            - img [ref=e766]
+        - button "Pages that you follow? Message requests" [ref=e775] [cursor=pointer]:
+          - generic [ref=e777]:
+            - generic [ref=e780]:
+              - generic [ref=e782]: Pages that you follow
+              - generic [ref=e784]: Message requests
+            - img [ref=e786]
+        - button "People who follow you? Chats" [ref=e795] [cursor=pointer]:
+          - generic [ref=e797]:
+            - generic [ref=e800]:
+              - generic [ref=e802]: People who follow you
+              - generic [ref=e804]: Chats
+            - img [ref=e806]
+        - button "Pages that follow you? Message requests" [ref=e815] [cursor=pointer]:
+          - generic [ref=e817]:
+            - generic [ref=e820]:
+              - generic [ref=e822]: Pages that follow you
+              - generic [ref=e824]: Message requests
+            - img [ref=e826]
+        - button "People that you are not connected with? Chats" [ref=e835] [cursor=pointer]:
+          - generic [ref=e837]:
+            - generic [ref=e840]:
+              - generic [ref=e842]: People that you are not connected with
+              - generic [ref=e844]: Chats
+            - img [ref=e846]
+        - button "Pages that you are not connected with? Message requests" [ref=e855] [cursor=pointer]:
+          - generic [ref=e857]:
+            - generic [ref=e860]:
+              - generic [ref=e862]: Pages that you are not connected with
+              - generic [ref=e864]: Message requests
+            - img [ref=e866]

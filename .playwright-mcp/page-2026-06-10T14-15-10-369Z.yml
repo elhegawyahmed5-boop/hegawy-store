@@ -1,0 +1,3 @@
+- alertdialog "Push notifications request" [ref=e11]:
+  - generic [ref=e12]: To allow or block browser notifications from Facebook, go to your browser settings.
+  - button "Close" [active] [ref=e13]

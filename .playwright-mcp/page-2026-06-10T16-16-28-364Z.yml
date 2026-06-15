@@ -1,0 +1,230 @@
+- generic [ref=e9]:
+  - generic [ref=e11]:
+    - button [ref=e13] [cursor=pointer]:
+      - img [ref=e15]
+    - generic [ref=e16]:
+      - button "Upload" [ref=e18] [cursor=pointer]:
+        - generic [ref=e19]:
+          - img [ref=e21]:
+            - img [ref=e22]
+          - text: Upload
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e29]: Manage
+          - generic [ref=e31]:
+            - button "Home" [ref=e32] [cursor=pointer]:
+              - generic [ref=e34]:
+                - img [ref=e38]:
+                  - img [ref=e39]
+                - generic [ref=e41]: Home
+            - button "Posts" [ref=e42] [cursor=pointer]:
+              - generic [ref=e44]:
+                - img [ref=e48]:
+                  - img [ref=e49]
+                - generic [ref=e51]: Posts
+            - button "Analytics" [ref=e52] [cursor=pointer]:
+              - generic [ref=e54]:
+                - img [ref=e58]:
+                  - img [ref=e59]
+                - generic [ref=e62]: Analytics
+            - button "Comments" [ref=e63] [cursor=pointer]:
+              - generic [ref=e65]:
+                - img [ref=e69]:
+                  - img [ref=e70]
+                - generic [ref=e72]: Comments
+        - generic [ref=e73]:
+          - generic [ref=e75]: Tools
+          - generic [ref=e77]:
+            - button "Inspiration" [ref=e78] [cursor=pointer]:
+              - generic [ref=e80]:
+                - img [ref=e84]:
+                  - img [ref=e85]
+                - generic [ref=e87]: Inspiration
+            - button "Monetization" [ref=e88] [cursor=pointer]:
+              - generic [ref=e90]:
+                - img [ref=e94]
+                - generic [ref=e98]: Monetization
+            - button "Creator Academy" [ref=e99] [cursor=pointer]:
+              - generic [ref=e101]:
+                - img [ref=e105]:
+                  - img [ref=e106]
+                - generic [ref=e109]: Creator Academy
+            - button "Unlimited Sounds" [ref=e110] [cursor=pointer]:
+              - generic [ref=e113]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+                - generic [ref=e120]: Unlimited Sounds
+        - generic [ref=e121]:
+          - generic [ref=e123]: Others
+          - button "Feedback" [ref=e126] [cursor=pointer]:
+            - generic [ref=e128]:
+              - img [ref=e132]:
+                - img [ref=e133]
+              - generic [ref=e135]: Feedback
+    - link "Back to TikTok" [ref=e138] [cursor=pointer]:
+      - /url: https://www.tiktok.com
+      - generic [ref=e139]:
+        - img [ref=e140]:
+          - img [ref=e141]
+        - generic [ref=e143]: Back to TikTok
+  - generic [ref=e144]:
+    - generic [ref=e147]:
+      - generic [ref=e148]:
+        - region "Notifications"
+        - button [ref=e149] [cursor=pointer]:
+          - img [ref=e151]
+      - generic [ref=e154]:
+        - generic [ref=e157] [cursor=pointer]: Posts 4
+        - generic [ref=e160] [cursor=pointer]: Drafts 0
+    - generic [ref=e165]:
+      - generic [ref=e166]:
+        - generic [ref=e167]:
+          - generic [ref=e172] [cursor=pointer]:
+            - img [ref=e174]:
+              - img [ref=e175]
+            - generic [ref=e177]: Views
+          - generic [ref=e182] [cursor=pointer]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - generic [ref=e187]: Likes
+          - generic [ref=e192] [cursor=pointer]:
+            - img [ref=e194]:
+              - img [ref=e195]
+            - generic [ref=e197]: Comments
+          - generic [ref=e202] [cursor=pointer]:
+            - img [ref=e204]:
+              - img [ref=e205]
+            - generic [ref=e207]: Privacy
+        - generic [ref=e213]:
+          - img [ref=e216]
+          - textbox [ref=e218]:
+            - /placeholder: Search for post description
+      - generic [ref=e221]:
+        - generic [ref=e223]:
+          - button "Posts (Created on)" [ref=e225] [cursor=pointer]:
+            - generic [ref=e226]:
+              - generic [ref=e227]: Posts (Created on)
+              - generic [ref=e228]:
+                - img [ref=e230]:
+                  - img [ref=e231]
+                - img [ref=e234]:
+                  - img [ref=e235]
+          - generic [ref=e237]:
+            - generic [ref=e240]: Privacy
+            - generic [ref=e241]:
+              - button "Views" [ref=e244] [cursor=pointer]:
+                - generic [ref=e245]:
+                  - generic [ref=e246]: Views
+                  - generic [ref=e247]:
+                    - img [ref=e249]:
+                      - img [ref=e250]
+                    - img [ref=e253]:
+                      - img [ref=e254]
+              - button "Likes" [ref=e258] [cursor=pointer]:
+                - generic [ref=e259]:
+                  - generic [ref=e260]: Likes
+                  - generic [ref=e261]:
+                    - img [ref=e263]:
+                      - img [ref=e264]
+                    - img [ref=e267]:
+                      - img [ref=e268]
+              - button "Comments" [ref=e272] [cursor=pointer]:
+                - generic [ref=e273]:
+                  - generic [ref=e274]: Comments
+                  - generic [ref=e275]:
+                    - img [ref=e277]:
+                      - img [ref=e278]
+                    - img [ref=e281]:
+                      - img [ref=e282]
+          - generic [ref=e286]: Actions
+        - generic [ref=e289]:
+          - generic [ref=e786]:
+            - generic [ref=e788]:
+              - generic [ref=e790] [cursor=pointer]:
+                - img [ref=e792]
+                - generic [ref=e799]: 00:24
+                - img [ref=e801]
+              - generic [ref=e804]:
+                - 'link "شوف الفيديو كامل من يوتيوب #edit #منتاج" [ref=e809] [cursor=pointer]':
+                  - /url: /@hegawystores/video/7607160234196339975
+                - generic [ref=e811]: Feb 15, 8:27 PM
+            - generic [ref=e812]:
+              - button "Everyone" [ref=e820] [cursor=pointer]:
+                - generic [ref=e821]:
+                  - img [ref=e1055]:
+                    - img [ref=e1056]
+                  - generic [ref=e826]: Everyone
+                  - img [ref=e828]
+              - generic [ref=e830]:
+                - generic [ref=e833]: "222"
+                - generic [ref=e836]: "8"
+                - generic [ref=e839]: "0"
+            - generic [ref=e842]:
+              - img [ref=e847] [cursor=pointer]:
+                - img [ref=e848]
+              - img [ref=e855] [cursor=pointer]:
+                - img [ref=e856]
+              - img [ref=e863] [cursor=pointer]:
+                - img [ref=e864]
+              - button [ref=e868] [cursor=pointer]:
+                - img [ref=e873]
+          - generic [ref=e876]:
+            - generic [ref=e878]:
+              - generic [ref=e880] [cursor=pointer]:
+                - img [ref=e882]
+                - generic [ref=e889]: 00:23
+                - img [ref=e891]
+              - generic [ref=e894]:
+                - link "@editor @edit فولوا 👆" [ref=e899] [cursor=pointer]:
+                  - /url: /@hegawystores/video/7603145603564047623
+                - generic [ref=e901]: Feb 5, 12:48 AM
+            - generic [ref=e902]:
+              - button "Everyone" [ref=e910] [cursor=pointer]:
+                - generic [ref=e911]:
+                  - img [ref=e1058]:
+                    - img [ref=e1059]
+                  - generic [ref=e916]: Everyone
+                  - img [ref=e918]
+              - generic [ref=e920]:
+                - generic [ref=e923]: "401"
+                - generic [ref=e926]: "8"
+                - generic [ref=e929]: "0"
+            - generic [ref=e932]:
+              - img [ref=e937] [cursor=pointer]:
+                - img [ref=e938]
+              - img [ref=e945] [cursor=pointer]:
+                - img [ref=e946]
+              - img [ref=e953] [cursor=pointer]:
+                - img [ref=e954]
+              - button [ref=e958] [cursor=pointer]:
+                - img [ref=e963]
+          - generic [ref=e966]:
+            - generic [ref=e968]:
+              - generic [ref=e970] [cursor=pointer]:
+                - img [ref=e972]
+                - generic [ref=e979]: 00:14
+                - img [ref=e981]
+              - generic [ref=e984]:
+                - 'link "قيم الفديو من 10 🌠🫂 #edit" [ref=e989] [cursor=pointer]':
+                  - /url: /@hegawystores/video/7599405532360789266
+                - generic [ref=e991]: Jan 25, 10:54 PM
+            - generic [ref=e992]:
+              - button "Everyone" [ref=e1000] [cursor=pointer]:
+                - generic [ref=e1001]:
+                  - img [ref=e1061]:
+                    - img [ref=e1062]
+                  - generic [ref=e1006]: Everyone
+                  - img [ref=e1008]
+              - generic [ref=e1010]:
+                - generic [ref=e1013]: "273"
+                - generic [ref=e1016]: "2"
+                - generic [ref=e1019]: "3"
+            - generic [ref=e1022]:
+              - img [ref=e1027] [cursor=pointer]:
+                - img [ref=e1028]
+              - img [ref=e1035] [cursor=pointer]:
+                - img [ref=e1036]
+              - img [ref=e1043] [cursor=pointer]:
+                - img [ref=e1044]
+              - button [ref=e1048] [cursor=pointer]:
+                - img [ref=e1053]

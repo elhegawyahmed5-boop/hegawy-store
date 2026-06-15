@@ -1,0 +1,200 @@
+- generic [ref=e4]:
+  - generic [ref=e6]:
+    - button [ref=e8] [cursor=pointer]:
+      - img [ref=e10]
+    - generic [ref=e11]:
+      - button "Upload" [ref=e13] [cursor=pointer]:
+        - generic [ref=e14]:
+          - img [ref=e16]:
+            - img [ref=e17]
+          - text: Upload
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - generic [ref=e24]: Manage
+          - generic [ref=e26]:
+            - button "Home" [ref=e27] [cursor=pointer]:
+              - generic [ref=e153]:
+                - img [ref=e157]:
+                  - img [ref=e158]
+                - generic [ref=e160]: Home
+            - button "Posts" [ref=e37] [cursor=pointer]:
+              - generic [ref=e162]:
+                - img [ref=e166]:
+                  - img [ref=e167]
+                - generic [ref=e169]: Posts
+            - button "Analytics" [ref=e47] [cursor=pointer]:
+              - generic [ref=e171]:
+                - img [ref=e175]:
+                  - img [ref=e176]
+                - generic [ref=e179]: Analytics
+            - button "Comments" [ref=e58] [cursor=pointer]:
+              - generic [ref=e181]:
+                - img [ref=e185]:
+                  - img [ref=e186]
+                - generic [ref=e188]: Comments
+        - generic [ref=e68]:
+          - generic [ref=e70]: Tools
+          - generic [ref=e72]:
+            - button "Inspiration" [ref=e73] [cursor=pointer]:
+              - generic [ref=e190]:
+                - img [ref=e194]:
+                  - img [ref=e195]
+                - generic [ref=e197]: Inspiration
+            - button "Monetization" [ref=e198] [cursor=pointer]:
+              - generic [ref=e200]:
+                - img [ref=e204]
+                - generic [ref=e208]: Monetization
+            - button "Creator Academy" [ref=e83] [cursor=pointer]:
+              - generic [ref=e210]:
+                - img [ref=e214]:
+                  - img [ref=e215]
+                - generic [ref=e218]: Creator Academy
+            - button "Unlimited Sounds" [ref=e94] [cursor=pointer]:
+              - generic [ref=e97]:
+                - img [ref=e222]:
+                  - img [ref=e223]
+                - generic [ref=e104]: Unlimited Sounds
+        - generic [ref=e105]:
+          - generic [ref=e107]: Others
+          - button "Feedback" [ref=e110] [cursor=pointer]:
+            - generic [ref=e226]:
+              - img [ref=e230]:
+                - img [ref=e231]
+              - generic [ref=e233]: Feedback
+    - link "Back to TikTok" [ref=e122] [cursor=pointer]:
+      - /url: https://www.tiktok.com
+      - generic [ref=e123]:
+        - img [ref=e124]:
+          - img [ref=e125]
+        - generic [ref=e127]: Back to TikTok
+  - generic [ref=e128]:
+    - generic [ref=e131]:
+      - generic [ref=e132]:
+        - region "Notifications"
+        - button [ref=e133] [cursor=pointer]:
+          - img [ref=e135]
+      - generic [ref=e138]:
+        - generic [ref=e141] [cursor=pointer]: Posts 2
+        - generic [ref=e144] [cursor=pointer]: Drafts 0
+    - generic [ref=e236]:
+      - generic [ref=e237]:
+        - generic [ref=e238]:
+          - generic [ref=e243] [cursor=pointer]:
+            - img [ref=e245]:
+              - img [ref=e246]
+            - generic [ref=e248]: Views
+          - generic [ref=e253] [cursor=pointer]:
+            - img [ref=e255]:
+              - img [ref=e256]
+            - generic [ref=e258]: Likes
+          - generic [ref=e263] [cursor=pointer]:
+            - img [ref=e265]:
+              - img [ref=e266]
+            - generic [ref=e268]: Comments
+          - generic [ref=e273] [cursor=pointer]:
+            - img [ref=e275]:
+              - img [ref=e276]
+            - generic [ref=e278]: Privacy
+        - generic [ref=e284]:
+          - img [ref=e287]
+          - textbox [ref=e289]:
+            - /placeholder: Search for post description
+      - generic [ref=e292]:
+        - generic [ref=e294]:
+          - button "Posts (Created on)" [ref=e296] [cursor=pointer]:
+            - generic [ref=e297]:
+              - generic [ref=e298]: Posts (Created on)
+              - generic [ref=e299]:
+                - img [ref=e301]:
+                  - img [ref=e302]
+                - img [ref=e305]:
+                  - img [ref=e306]
+          - generic [ref=e308]:
+            - generic [ref=e311]: Privacy
+            - generic [ref=e312]:
+              - button "Views" [ref=e315] [cursor=pointer]:
+                - generic [ref=e316]:
+                  - generic [ref=e317]: Views
+                  - generic [ref=e318]:
+                    - img [ref=e320]:
+                      - img [ref=e321]
+                    - img [ref=e324]:
+                      - img [ref=e325]
+              - button "Likes" [ref=e329] [cursor=pointer]:
+                - generic [ref=e330]:
+                  - generic [ref=e331]: Likes
+                  - generic [ref=e332]:
+                    - img [ref=e334]:
+                      - img [ref=e335]
+                    - img [ref=e338]:
+                      - img [ref=e339]
+              - button "Comments" [ref=e343] [cursor=pointer]:
+                - generic [ref=e344]:
+                  - generic [ref=e345]: Comments
+                  - generic [ref=e346]:
+                    - img [ref=e348]:
+                      - img [ref=e349]
+                    - img [ref=e352]:
+                      - img [ref=e353]
+          - generic [ref=e357]: Actions
+        - generic [ref=e360]:
+          - generic [ref=e362]:
+            - generic [ref=e364]:
+              - generic [ref=e366] [cursor=pointer]:
+                - img [ref=e368]
+                - generic [ref=e375]: 00:23
+                - img [ref=e377]
+              - generic [ref=e380]:
+                - link "@editor @edit فولوا 👆" [ref=e385] [cursor=pointer]:
+                  - /url: /@hegawystores/video/7603145603564047623
+                - generic [ref=e387]: Feb 5, 12:48 AM
+            - generic [ref=e388]:
+              - button "Everyone" [ref=e396] [cursor=pointer]:
+                - generic [ref=e397]:
+                  - img [ref=e399]:
+                    - img [ref=e400]
+                  - generic [ref=e402]: Everyone
+                  - img [ref=e404]
+              - generic [ref=e406]:
+                - generic [ref=e409]: "401"
+                - generic [ref=e412]: "8"
+                - generic [ref=e415]: "0"
+            - generic [ref=e418]:
+              - img [ref=e423] [cursor=pointer]:
+                - img [ref=e424]
+              - img [ref=e431] [cursor=pointer]:
+                - img [ref=e432]
+              - img [ref=e439] [cursor=pointer]:
+                - img [ref=e440]
+              - button [ref=e444] [cursor=pointer]:
+                - img [ref=e449]
+          - generic [ref=e452]:
+            - generic [ref=e454]:
+              - generic [ref=e456] [cursor=pointer]:
+                - img [ref=e458]
+                - generic [ref=e465]: 00:14
+                - img [ref=e467]
+              - generic [ref=e470]:
+                - 'link "قيم الفديو من 10 🌠🫂 #edit" [ref=e475] [cursor=pointer]':
+                  - /url: /@hegawystores/video/7599405532360789266
+                - generic [ref=e477]: Jan 25, 10:54 PM
+            - generic [ref=e478]:
+              - button "Everyone" [ref=e486] [cursor=pointer]:
+                - generic [ref=e487]:
+                  - img [ref=e489]:
+                    - img [ref=e490]
+                  - generic [ref=e492]: Everyone
+                  - img [ref=e494]
+              - generic [ref=e496]:
+                - generic [ref=e499]: "273"
+                - generic [ref=e502]: "2"
+                - generic [ref=e505]: "3"
+            - generic [ref=e508]:
+              - img [ref=e513] [cursor=pointer]:
+                - img [ref=e514]
+              - img [ref=e521] [cursor=pointer]:
+                - img [ref=e522]
+              - img [ref=e529] [cursor=pointer]:
+                - img [ref=e530]
+              - button [ref=e534] [cursor=pointer]:
+                - img [ref=e539]

@@ -1,0 +1,39 @@
+[     835ms] [LOG] %c
+▲
+
+ _____ _              _                    _   _             __
+|_   _| |__   ___    / \   __ _  ___ _ __ | |_(_) ___       / /
+  | | | '_ \ / _ \  / _ \ / _` |/ _ \ '_ \| __| |/ __|     / /
+  | | | | | |  __/ / ___ \ (_| |  __/ | | | |_| | (__     /_/
+  |_| |_| |_|\___|/_/   \_\__, |\___|_| |_|\__|_|\___|    (_)
+                           |___/
+ ___        __               _                   _                 _
+|_ _|_ __  / _|_ __ __ _ ___| |_ _ __ _   _  ___| |_ _   _ _ __ ___
+ | || '_ \| |_| '__/ _` / __| __| '__| | | |/ __| __| | | | '__/ _ \
+ | || | | |  _| | | (_| \__ \ |_| |  | |_| | (__| |_| |_| | | |  __/
+|___|_| |_|_| |_|  \__,_|___/\__|_|   \__,_|\___|\__|\__,_|_|  \___|
+  
+
+Hello!
+
+- Open Source https://vercel.com/oss
+- Careers https://vercel.com/careers
+- Status https://vercel-status.com
+
+ font-family: "Geist Mono", monospace; white-space: pre; line-height: 1; @ https://vercel.com/_next/static/immutable/chunks/10bipm_r0kfgr.js:78
+[    1412ms] [WARNING] Deprecated API for given entry type. @ https://vercel.com/_next/static/immutable/chunks/3-tnb_jpr7237.js:18
+[    1488ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://vercel.com/api/jwt:0
+[    4898ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/30w8exso3xwcz.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[    4899ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/1mbe0yml1d776.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[    4899ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/2oy3go89xncy3.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[    4899ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/0-shbsz3-8ybx.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[    4899ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/2zg--7csfeazl.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[   14928ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/30w8exso3xwcz.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[   14928ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/1mbe0yml1d776.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[   14928ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/2oy3go89xncy3.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[   14928ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/0-shbsz3-8ybx.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[   14928ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/2zg--7csfeazl.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/oauth/device?user_code=GRSH-NLHL:0
+[   16466ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1378183714%3A1781110191889024&client_id=258013614557-nema0dumfbottebi6to7aqi85qot9pvs.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fvercel.com%2Fapi%2Fregistration%2Fgoogle%2Fcallback&response_type=code&scope=openid+profile+email&service=lso&state=4eb13183f767f307cac7389a45d345bddd79426fcc86d3cd904dcf1a01ef2592ddc434a49aff8baaaf0198c857d4baa873cfdc3f022dabaa6ba8783e5e840a036b040623b2f595651900b446bc5e56c0e1f8b6f191cb7eac584201c5191be34b569588d2c96eb6e92504a29b698f5f5f34cf2dd7f8675337adc617ac72d93f5e0902b5900bf27b6139ff20efe24d42b8cbc18181bdbd5a1ec3ea6a5384b0b0f74f8d3a0eeec66948d2f2b3a523cbaa3a687c0e11ca0e46ce5c7025e3257799818565b80e3ee529b8a150a06e4177a74fa72d7178cb5e09fad855ce60a35b5473d991009f8bbcdceb021a5b147829f8ba151a1bf630342bbb360f6759a7499effb93dfe17a9c9ca1fcb710b6378527f0e0b4d79e4348276d2ceb236b8cad2bc782c89a4bd6cc03f3ae10673&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOlF8TyfZf8ix1s_EqbweMw5smeITuP0UMIIMYMMaYiXvmVNtoh23nnEfzqhLHEuz5N69z4c_uZG3FlKTuGEzEsR2i1UIYlKHTmfEXJjQMSiDHEDdi6Ghy-yyfaDKUOwfcVUnN4n2_R23BVW5WqJti9wMA1nYrmTUCpipwIFQzm3D516zhQJ173kHVxEWtz3DiucPu45HHqg1LvftwrSsDX6ItalwYpSRBBGQk0msMe9OkAGpZHxanSTp63qz4TNiAd5Oyl4DwWrXL8GOCh7gJcyKFzRr8Cldnd0ncPLjrSqR55edGAjXrb5A9Vqb1-nCXArK2lHZdg9ult-B6ELl-KaTFXR4Sbw9vDhqdbWOTuAAk1Q58NGhQ6JyaCsCbhfSMXOtyvpm0-Lwdfe6k_pYXNU1sfqASOYSAvoL4XBW6dVKA0mok7_Hos_4wiSdj14KSLPi5S_-0SvijSp-WYCt-WeO3JhA%26flowName%3DGeneralOAuthFlow%26as%3DS1378183714%253A1781110191889024%26client_id%3D258013614557-nema0dumfbottebi6to7aqi85qot9pvs.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fvercel.com&rart=ANgoxccghY883MY9Z5zz66Z-t6cw3ZCbbvhfQdc8614qNv2DdmjNMrwUJKbintFFjVlCjkV0OO62wBjAQJQb2npB-evEA7E_AwBEJOC1Ny3VULXgmmmo7EA:0
+[   16479ms] [LOG] %c%s color: red; background: yellow; font-size: 24px; WARNING! @ https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.R4nGYkaHqCg.es5.O/am=EQ0AAAAMin-EDAD-__4bAIAAgmwHfM8CaAKEDAAAAAAAAAAAWAAAgEY/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlEEXja6X4YQHMf_r4UHgK6eCHOexg/dti=1/m=_b,_tp:549
+[   16479ms] [LOG] %c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand. @ https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.R4nGYkaHqCg.es5.O/am=EQ0AAAAMin-EDAD-__4bAIAAgmwHfM8CaAKEDAAAAAAAAAAAWAAAgEY/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlEEXja6X4YQHMf_r4UHgK6eCHOexg/dti=1/m=_b,_tp:549

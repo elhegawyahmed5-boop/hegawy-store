@@ -1,0 +1,196 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - region "Notifications alt+T"
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - img [ref=e8]
+        - img [ref=e10]
+        - link "Linktree admin" [ref=e12] [cursor=pointer]:
+          - /url: /admin
+          - img [ref=e13]
+          - generic [ref=e15]: Linktree admin
+        - region "Promotional banner" [ref=e17]:
+          - group [ref=e18]:
+            - button "Try Pro for free — our most popular plan for content creators and businesses." [ref=e19] [cursor=pointer]:
+              - generic [ref=e20]:
+                - text: Try Pro for free
+                - generic [ref=e21]: — our most popular plan for content creators and businesses.
+            - button "Upgrade" [ref=e25] [cursor=pointer]:
+              - generic [ref=e26]:
+                - img
+                - text: Upgrade
+      - generic [ref=e28]:
+        - complementary [ref=e29]:
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - generic [ref=e36]:
+                - button "Avatar hegawystoresr" [ref=e37] [cursor=pointer]:
+                  - generic [ref=e38]:
+                    - img "Avatar" [ref=e40]
+                    - generic [ref=e41]:
+                      - generic "hegawystoresr" [ref=e42]
+                      - img [ref=e44]
+                - button [ref=e48] [cursor=pointer]:
+                  - img [ref=e49]
+              - list [ref=e53]:
+                - listitem [ref=e54]:
+                  - button "My Linktree" [ref=e55] [cursor=pointer]:
+                    - img [ref=e56]
+                    - generic [ref=e58]: My Linktree
+                    - img [ref=e59]
+                - listitem [ref=e61]:
+                  - button "Earn" [ref=e62] [cursor=pointer]:
+                    - img [ref=e63]
+                    - generic [ref=e65]: Earn
+                    - img [ref=e66]
+                - listitem [ref=e68]:
+                  - link "Audience" [ref=e69] [cursor=pointer]:
+                    - /url: /admin/audience
+                    - img [ref=e70]
+                    - generic [ref=e72]: Audience
+                - listitem [ref=e73]:
+                  - link "Insights" [ref=e74] [cursor=pointer]:
+                    - /url: /admin/insights
+                    - img [ref=e75]
+                    - generic [ref=e77]: Insights
+              - generic [ref=e79]:
+                - generic [ref=e80]: Tools
+                - list [ref=e81]:
+                  - listitem [ref=e82]:
+                    - link "Business cards" [ref=e83] [cursor=pointer]:
+                      - /url: /admin/business-cards
+                      - img [ref=e84]
+                      - generic [ref=e86]: Business cards
+                      - img [ref=e88]
+                  - listitem [ref=e91]:
+                    - link "Social planner" [ref=e92] [cursor=pointer]:
+                      - /url: /admin/social-planner
+                      - img [ref=e93]
+                      - generic [ref=e95]: Social planner
+                  - listitem [ref=e96]:
+                    - link "Instagram auto-reply" [ref=e97] [cursor=pointer]:
+                      - /url: /admin/igdm
+                      - img [ref=e98]
+                      - generic [ref=e100]: Instagram auto-reply
+                  - listitem [ref=e101]:
+                    - link "Link shortener" [ref=e102] [cursor=pointer]:
+                      - /url: /admin/link-shortener
+                      - img [ref=e103]
+                      - generic [ref=e105]: Link shortener
+                  - listitem [ref=e106]:
+                    - link "Post ideas" [ref=e107] [cursor=pointer]:
+                      - /url: /admin/post-ideas
+                      - img [ref=e108]
+                      - generic [ref=e110]: Post ideas
+            - generic [ref=e111]:
+              - button "Your setup checklist 0 of 6 complete Finish setup" [ref=e112] [cursor=pointer]:
+                - generic [ref=e113]:
+                  - img [ref=e114]:
+                    - generic [ref=e117]: 0%
+                  - generic [ref=e118]: Your setup checklist
+                  - paragraph [ref=e119]: 0 of 6 complete
+                  - button "Finish setup" [ref=e120]
+              - generic [ref=e122]:
+                - button "Help" [ref=e123] [cursor=pointer]:
+                  - img [ref=e124]
+                  - generic [ref=e127]: Help
+                - button "Announcements 1" [ref=e128] [cursor=pointer]:
+                  - img [ref=e129]
+                  - generic [ref=e131]: Announcements
+                  - generic [ref=e132]: "1"
+        - main [ref=e133]:
+          - heading "Account" [level=1] [ref=e139]
+          - generic [ref=e144]:
+            - generic [ref=e145]:
+              - generic [ref=e148]:
+                - heading "My information" [level=2] [ref=e149]
+                - generic [ref=e150]:
+                  - generic [ref=e152]:
+                    - generic [ref=e156]:
+                      - textbox "Name" [ref=e157]:
+                        - /placeholder: Enter your name
+                      - generic: Name
+                      - generic: Enter your name
+                    - generic [ref=e161]:
+                      - textbox "Email" [ref=e162]:
+                        - /placeholder: Enter your email address
+                        - text: elhegawyahmed5@gmail.com
+                      - generic: Email
+                      - generic: Enter your email address
+                  - generic [ref=e163]:
+                    - button "Save details" [disabled]
+              - generic [ref=e165]:
+                - heading "Security and privacy" [level=2] [ref=e166]
+                - generic [ref=e167]:
+                  - generic [ref=e168]:
+                    - heading "Multi-Factor Authentication (MFA)" [level=2] [ref=e170]
+                    - generic [ref=e173]:
+                      - paragraph [ref=e174]: Add an extra layer of security to your account on top of your password.
+                      - button "SMS Get a code via SMS to verify your phone number. Enable" [ref=e175] [cursor=pointer]:
+                        - generic [ref=e176]:
+                          - img [ref=e178]
+                          - generic [ref=e180]:
+                            - paragraph [ref=e181]: SMS
+                            - paragraph [ref=e182]: Get a code via SMS to verify your phone number.
+                        - button "Enable" [ref=e185]
+                      - button "Authenticator App Use an authenticator app to verify your identity. Enable" [ref=e186] [cursor=pointer]:
+                        - generic [ref=e187]:
+                          - img [ref=e189]
+                          - generic [ref=e191]:
+                            - paragraph [ref=e192]: Authenticator App
+                            - paragraph [ref=e193]: Use an authenticator app to verify your identity.
+                        - button "Enable" [ref=e196]
+                  - generic [ref=e197]:
+                    - heading "Privacy Settings" [level=2] [ref=e199]
+                    - paragraph [ref=e200]:
+                      - text: Stop sharing your data with third parties. This may affect your access to certain monetization opportunities. Learn more in our
+                      - link "privacy notice" [ref=e201] [cursor=pointer]:
+                        - /url: https://linktr.ee/s/privacy
+                      - text: .
+                    - button "Allow data sharing Enabled Disable" [ref=e202] [cursor=pointer]:
+                      - generic [ref=e203]:
+                        - img [ref=e205]
+                        - generic [ref=e207]:
+                          - paragraph [ref=e208]: Allow data sharing
+                          - paragraph [ref=e209]: Enabled
+                      - button "Disable" [ref=e212]
+                  - generic [ref=e213]:
+                    - heading "Password" [level=2] [ref=e214]
+                    - paragraph [ref=e215]: Set a password for your account to log in with your email and password in the future.
+                    - button "Create Password" [ref=e216] [cursor=pointer]
+            - generic [ref=e217]:
+              - heading "Account management" [level=1] [ref=e218]
+              - generic [ref=e219]:
+                - heading "Linktrees you own" [level=2] [ref=e220]
+                - generic [ref=e222]:
+                  - img "Custom Avatar" [ref=e225]
+                  - generic [ref=e226]:
+                    - generic [ref=e228]:
+                      - generic [ref=e229]: "@hegawystoresr"
+                      - button [ref=e231] [cursor=pointer]:
+                        - img [ref=e232]
+                    - generic [ref=e234]:
+                      - heading "Plan" [level=5] [ref=e235]
+                      - generic [ref=e236]: Free
+                    - generic [ref=e237]:
+                      - heading "Admins" [level=5] [ref=e238]:
+                        - text: Admins
+                        - link [ref=e239] [cursor=pointer]:
+                          - /url: https://linktr.ee/help/en/articles/8609951-how-to-add-an-admin-user-to-manage-your-linktree
+                          - img [ref=e240]
+                      - list [ref=e242]:
+                        - listitem [ref=e243]:
+                          - generic [ref=e244]: elhegawyahmed5@gmail.com
+                          - generic [ref=e245]: Owner (you)
+                    - generic [ref=e246]:
+                      - paragraph [ref=e247]: Upgrade to Pro to invite multiple admins to manage this Linktree
+                      - link "Upgrade to Pro" [ref=e248] [cursor=pointer]:
+                        - /url: /admin/switch/hegawystoresr/upgrade/select-plan?ctaLabel=account
+                        - img
+                        - text: Upgrade to Pro
+            - generic [ref=e249]:
+              - heading "Manage account deletion" [level=2] [ref=e250]
+              - paragraph [ref=e252]: Permanently delete your entire account and all profiles you own.
+              - button "Delete Account" [ref=e254] [cursor=pointer]
+  - iframe [ref=e255]:
+    

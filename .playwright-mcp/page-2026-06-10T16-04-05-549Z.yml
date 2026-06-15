@@ -1,0 +1,390 @@
+- generic [ref=e2]:
+  - region "Notifications alt+T"
+  - generic [ref=e8]:
+    - generic [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to TikTok For You feed" [ref=e14] [cursor=pointer]:
+          - /url: /?lang=en
+          - img [ref=e15]
+          - strong: TikTok
+        - searchbox "Search" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]:
+            - img [ref=e24]
+            - generic [ref=e26]: Search
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - link "For You" [ref=e30] [cursor=pointer]:
+            - /url: /
+            - listitem "For You" [ref=e31]:
+              - generic [ref=e32]:
+                - img [ref=e35]
+                - generic [ref=e37]: For You
+          - link "Explore" [ref=e39] [cursor=pointer]:
+            - /url: /explore?lang=en
+            - listitem "Explore" [ref=e40]:
+              - generic [ref=e41]:
+                - img [ref=e44]
+                - generic [ref=e47]: Explore
+          - link "Following" [ref=e49] [cursor=pointer]:
+            - /url: /following?lang=en
+            - listitem "Following" [ref=e50]:
+              - generic [ref=e51]:
+                - img [ref=e55]
+                - generic [ref=e58]: Following
+          - link "LIVE" [ref=e61] [cursor=pointer]:
+            - /url: /live?lang=en
+            - listitem "LIVE" [ref=e62]:
+              - generic [ref=e63]:
+                - img [ref=e66]
+                - generic [ref=e69]: LIVE
+          - link "Upload" [ref=e71] [cursor=pointer]:
+            - /url: /tiktokstudio/upload?from=webapp&lang=en&tab=video
+            - listitem "Upload" [ref=e72]:
+              - generic [ref=e73]:
+                - img [ref=e76]
+                - generic [ref=e79]: Upload
+          - link "Profile" [ref=e81] [cursor=pointer]:
+            - /url: /@?lang=en
+            - listitem "Profile" [ref=e82]:
+              - generic [ref=e83]:
+                - img [ref=e86]
+                - generic [ref=e88]: Profile
+          - listitem "More" [ref=e90] [cursor=pointer]:
+            - generic [ref=e91]:
+              - img [ref=e95]
+              - generic [ref=e98]: More
+        - button "Log in" [ref=e101] [cursor=pointer]:
+          - generic [ref=e103]: Log in
+        - generic [ref=e105]:
+          - heading "Company" [level=4] [ref=e106] [cursor=pointer]
+          - heading "Program" [level=4] [ref=e107] [cursor=pointer]
+          - heading "Terms & Policies" [level=4] [ref=e108] [cursor=pointer]
+          - generic [ref=e109]: © 2026 TikTok
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - generic [ref=e114]:
+          - generic [ref=e118]:
+            - generic [ref=e119]:
+              - generic [ref=e121]:
+                - heading "Elhegawy Editor" [level=1] [ref=e123]
+                - heading "elhegawyeditor" [level=2] [ref=e125]
+              - heading "7 Following 5 Followers 19 Likes" [level=3] [ref=e126]:
+                - generic [ref=e127] [cursor=pointer]:
+                  - strong [ref=e128]: "7"
+                  - generic [ref=e129]: Following
+                - generic [ref=e130] [cursor=pointer]:
+                  - strong [ref=e131]: "5"
+                  - generic [ref=e132]: Followers
+                - generic [ref=e133]:
+                  - strong [ref=e134]: "19"
+                  - generic [ref=e135]: Likes
+            - generic [ref=e136]:
+              - button "Follow Elhegawy Editor" [ref=e138] [cursor=pointer]:
+                - generic [ref=e142]: Follow
+              - link "Message" [ref=e143] [cursor=pointer]:
+                - /url: /@elhegawyeditor?lang=en
+                - button "Message" [ref=e145]:
+                  - generic [ref=e149]: Message
+              - button "Suggested accounts" [ref=e151] [cursor=pointer]:
+                - img [ref=e155]
+              - button "Share" [ref=e158] [cursor=pointer]:
+                - img [ref=e162]
+              - button "Actions" [ref=e165] [cursor=pointer]:
+                - img [ref=e169]
+            - heading "VIDEO EDITOR ✨ https://youtu.be/so-nsLmNxQg?si=JU3ShWb523JXIXef" [level=2] [ref=e172]
+          - generic:
+            - button "Actions"
+        - generic [ref=e173]:
+          - generic [ref=e174]:
+            - generic [ref=e175] [cursor=pointer]:
+              - paragraph [ref=e176]: Suggested accounts
+              - img [ref=e177]
+            - button "View All" [ref=e179] [cursor=pointer]:
+              - paragraph [ref=e180]: View all
+          - generic [ref=e181]:
+            - generic [ref=e182]:
+              - link "Avatar for adam.taha.creative" [ref=e183] [cursor=pointer]:
+                - /url: /@adam.taha.creative?lang=en
+                - img "Avatar for adam.taha.creative" [ref=e185]
+              - generic [ref=e187]:
+                - link "Aԃαɱ ✨" [ref=e189] [cursor=pointer]:
+                  - /url: /@adam.taha.creative?lang=en
+                  - paragraph [ref=e191]: Aԃαɱ ✨
+                - generic [ref=e192]:
+                  - paragraph [ref=e194] [cursor=pointer]: 123 followers
+                  - generic [ref=e195]:
+                    - img
+                    - generic [ref=e196]:
+                      - img [ref=e199]
+                      - generic [ref=e203]: "+1"
+              - button "Follow back Aԃαɱ ✨" [ref=e206] [cursor=pointer]:
+                - generic [ref=e210]: Follow back
+            - generic [ref=e211]:
+              - link "Avatar for ay.moh64" [ref=e212] [cursor=pointer]:
+                - /url: /@ay.moh64?lang=en
+                - img "Avatar for ay.moh64" [ref=e214]
+              - generic [ref=e216]:
+                - link "Ay Moh" [ref=e218] [cursor=pointer]:
+                  - /url: /@ay.moh64?lang=en
+                  - paragraph [ref=e220]: Ay Moh
+                - paragraph [ref=e223] [cursor=pointer]: 30 followers
+              - button "Follow back Ay Moh" [ref=e226] [cursor=pointer]:
+                - generic [ref=e230]: Follow back
+            - generic [ref=e231]:
+              - link "Avatar for aljooo76" [ref=e232] [cursor=pointer]:
+                - /url: /@aljooo76?lang=en
+                - img "Avatar for aljooo76" [ref=e234]
+              - generic [ref=e236]:
+                - link "الألماني" [ref=e238] [cursor=pointer]:
+                  - /url: /@aljooo76?lang=en
+                  - paragraph [ref=e240]: الألماني
+                - paragraph [ref=e243] [cursor=pointer]: 1130 followers
+              - button "Follow الألماني" [ref=e246] [cursor=pointer]:
+                - generic [ref=e250]: Follow
+            - generic [ref=e251]:
+              - link "Avatar for ahmeday137" [ref=e252] [cursor=pointer]:
+                - /url: /@ahmeday137?lang=en
+                - img "Avatar for ahmeday137" [ref=e254]
+              - generic [ref=e256]:
+                - link "AHMED HEGEO🤫🤫🤫" [ref=e258] [cursor=pointer]:
+                  - /url: /@ahmeday137?lang=en
+                  - paragraph [ref=e260]: AHMED HEGEO🤫🤫🤫
+                - paragraph [ref=e263] [cursor=pointer]: 1146 followers
+              - button "Follow AHMED HEGEO🤫🤫🤫" [ref=e266] [cursor=pointer]:
+                - generic [ref=e270]: Follow
+            - generic [ref=e271]:
+              - link "Avatar for 3amoosh8" [ref=e272] [cursor=pointer]:
+                - /url: /@3amoosh8?lang=en
+                - img "Avatar for 3amoosh8" [ref=e274]
+              - generic [ref=e276]:
+                - link "3amoosh" [ref=e278] [cursor=pointer]:
+                  - /url: /@3amoosh8?lang=en
+                  - paragraph [ref=e280]: 3amoosh
+                - paragraph [ref=e283] [cursor=pointer]: 54 followers
+              - button "Follow 3amoosh" [ref=e286] [cursor=pointer]:
+                - generic [ref=e290]: Follow
+            - generic [ref=e291]:
+              - link "Avatar for gelsee.011" [ref=e292] [cursor=pointer]:
+                - /url: /@gelsee.011?lang=en
+                - img "Avatar for gelsee.011" [ref=e294]
+              - generic [ref=e296]:
+                - link "🖕🏾بي❤️‍🩹درو 💯" [ref=e298] [cursor=pointer]:
+                  - /url: /@gelsee.011?lang=en
+                  - paragraph [ref=e300]: 🖕🏾بي❤️‍🩹درو 💯
+                - paragraph [ref=e303] [cursor=pointer]: 233 followers
+              - button "Follow 🖕🏾بي❤️‍🩹درو 💯" [ref=e306] [cursor=pointer]:
+                - generic [ref=e310]: Follow
+            - generic [ref=e311]:
+              - link "Avatar for 2_mohamed27" [ref=e312] [cursor=pointer]:
+                - /url: /@2_mohamed27?lang=en
+                - img "Avatar for 2_mohamed27" [ref=e314]
+              - generic [ref=e316]:
+                - link "يارب البرتغال ياخد كأس العالم" [ref=e318] [cursor=pointer]:
+                  - /url: /@2_mohamed27?lang=en
+                  - paragraph [ref=e320]: يارب البرتغال ياخد كأس العالم
+                - paragraph [ref=e323] [cursor=pointer]: 537 followers
+              - button "Follow يارب البرتغال ياخد كأس العالم" [ref=e326] [cursor=pointer]:
+                - generic [ref=e330]: Follow
+            - generic [ref=e331]:
+              - link "Avatar for kareem18414" [ref=e332] [cursor=pointer]:
+                - /url: /@kareem18414?lang=en
+                - img "Avatar for kareem18414" [ref=e334]
+              - generic [ref=e336]:
+                - link "Kemo🤴🏻" [ref=e338] [cursor=pointer]:
+                  - /url: /@kareem18414?lang=en
+                  - paragraph [ref=e340]: Kemo🤴🏻
+                - paragraph [ref=e343] [cursor=pointer]: 148 followers
+              - button "Follow Kemo🤴🏻" [ref=e346] [cursor=pointer]:
+                - generic [ref=e350]: Follow
+            - generic [ref=e351]:
+              - link "Avatar for yasso3mk23" [ref=e352] [cursor=pointer]:
+                - /url: /@yasso3mk23?lang=en
+                - img "Avatar for yasso3mk23" [ref=e354]
+              - generic [ref=e356]:
+                - link "¥🫆💫🌐" [ref=e358] [cursor=pointer]:
+                  - /url: /@yasso3mk23?lang=en
+                  - paragraph [ref=e360]: ¥🫆💫🌐
+                - paragraph [ref=e363] [cursor=pointer]: 57 followers
+              - button "Follow ¥🫆💫🌐" [ref=e366] [cursor=pointer]:
+                - generic [ref=e370]: Follow
+            - generic [ref=e371]:
+              - link "Avatar for za3tar_11.11" [ref=e372] [cursor=pointer]:
+                - /url: /@za3tar_11.11?lang=en
+                - img "Avatar for za3tar_11.11" [ref=e374]
+              - generic [ref=e376]:
+                - link "za3tar" [ref=e378] [cursor=pointer]:
+                  - /url: /@za3tar_11.11?lang=en
+                  - paragraph [ref=e380]: za3tar
+                - paragraph [ref=e383] [cursor=pointer]: 214 followers
+              - button "Follow za3tar" [ref=e386] [cursor=pointer]:
+                - generic [ref=e390]: Follow
+            - generic [ref=e391]:
+              - link "Avatar for tota30433" [ref=e392] [cursor=pointer]:
+                - /url: /@tota30433?lang=en
+                - img "Avatar for tota30433" [ref=e394]
+              - generic [ref=e396]:
+                - link "tota" [ref=e398] [cursor=pointer]:
+                  - /url: /@tota30433?lang=en
+                  - paragraph [ref=e400]: tota
+                - paragraph [ref=e403] [cursor=pointer]: 137 followers
+              - button "Follow tota" [ref=e406] [cursor=pointer]:
+                - generic [ref=e410]: Follow
+            - generic [ref=e411]:
+              - link "Avatar for el7oss15" [ref=e412] [cursor=pointer]:
+                - /url: /@el7oss15?lang=en
+                - img "Avatar for el7oss15" [ref=e414]
+              - generic [ref=e416]:
+                - link "Mohammed helal" [ref=e418] [cursor=pointer]:
+                  - /url: /@el7oss15?lang=en
+                  - paragraph [ref=e420]: Mohammed helal
+                - paragraph [ref=e423] [cursor=pointer]: 289 followers
+              - button "Follow Mohammed helal" [ref=e426] [cursor=pointer]:
+                - generic [ref=e430]: Follow
+            - generic [ref=e431]:
+              - link "Avatar for s.a.y.k.o1000" [ref=e432] [cursor=pointer]:
+                - /url: /@s.a.y.k.o1000?lang=en
+                - img "Avatar for s.a.y.k.o1000" [ref=e434]
+              - generic [ref=e436]:
+                - link "SAYKO ⛓️🔥" [ref=e438] [cursor=pointer]:
+                  - /url: /@s.a.y.k.o1000?lang=en
+                  - paragraph [ref=e440]: SAYKO ⛓️🔥
+                - paragraph [ref=e443] [cursor=pointer]: 1717 followers
+              - button "Follow SAYKO ⛓️🔥" [ref=e446] [cursor=pointer]:
+                - generic [ref=e450]: Follow
+            - generic [ref=e451]:
+              - link "Avatar for yonis.hamada7" [ref=e452] [cursor=pointer]:
+                - /url: /@yonis.hamada7?lang=en
+                - img "Avatar for yonis.hamada7" [ref=e454]
+              - generic [ref=e456]:
+                - link "MO 👑 you🔥nis" [ref=e458] [cursor=pointer]:
+                  - /url: /@yonis.hamada7?lang=en
+                  - paragraph [ref=e460]: MO 👑 you🔥nis
+                - paragraph [ref=e463] [cursor=pointer]: 476 followers
+              - button "Follow MO 👑 you🔥nis" [ref=e466] [cursor=pointer]:
+                - generic [ref=e470]: Follow
+            - generic [ref=e471]:
+              - link "Avatar for ziadosama1907" [ref=e472] [cursor=pointer]:
+                - /url: /@ziadosama1907?lang=en
+                - img "Avatar for ziadosama1907" [ref=e474]
+              - generic [ref=e476]:
+                - link "َ" [ref=e478] [cursor=pointer]:
+                  - /url: /@ziadosama1907?lang=en
+                  - paragraph [ref=e480]: َ
+                - paragraph [ref=e483] [cursor=pointer]: 141 followers
+              - button "Follow َ" [ref=e486] [cursor=pointer]:
+                - generic [ref=e490]: Follow
+            - generic [ref=e491]:
+              - link "Avatar for karimkaram6" [ref=e492] [cursor=pointer]:
+                - /url: /@karimkaram6?lang=en
+                - img "Avatar for karimkaram6" [ref=e494]
+              - generic [ref=e496]:
+                - link "Karim Karam" [ref=e498] [cursor=pointer]:
+                  - /url: /@karimkaram6?lang=en
+                  - paragraph [ref=e500]: Karim Karam
+                - paragraph [ref=e503] [cursor=pointer]: 450 followers
+              - button "Follow Karim Karam" [ref=e506] [cursor=pointer]:
+                - generic [ref=e510]: Follow
+            - generic [ref=e511]:
+              - link "Avatar for user6961488380302" [ref=e512] [cursor=pointer]:
+                - /url: /@user6961488380302?lang=en
+                - img "Avatar for user6961488380302" [ref=e514]
+              - generic [ref=e516]:
+                - link "طوابق بلدنا 💯🔥" [ref=e518] [cursor=pointer]:
+                  - /url: /@user6961488380302?lang=en
+                  - paragraph [ref=e520]: طوابق بلدنا 💯🔥
+                - paragraph [ref=e523] [cursor=pointer]: 93 followers
+              - button "Follow طوابق بلدنا 💯🔥" [ref=e526] [cursor=pointer]:
+                - generic [ref=e530]: Follow
+            - generic [ref=e531]:
+              - link "Avatar for mohmed.ismail0" [ref=e532] [cursor=pointer]:
+                - /url: /@mohmed.ismail0?lang=en
+                - img "Avatar for mohmed.ismail0" [ref=e534]
+              - generic [ref=e536]:
+                - link "Mohmed Ismail" [ref=e538] [cursor=pointer]:
+                  - /url: /@mohmed.ismail0?lang=en
+                  - paragraph [ref=e540]: Mohmed Ismail
+                - paragraph [ref=e543] [cursor=pointer]: 794 followers
+              - button "Follow Mohmed Ismail" [ref=e546] [cursor=pointer]:
+                - generic [ref=e550]: Follow
+            - generic [ref=e551]:
+              - link "Avatar for mahmoud.shawa57" [ref=e552] [cursor=pointer]:
+                - /url: /@mahmoud.shawa57?lang=en
+                - img "Avatar for mahmoud.shawa57" [ref=e554]
+              - generic [ref=e556]:
+                - link "(محم🚬ود) 7oka🔥" [ref=e558] [cursor=pointer]:
+                  - /url: /@mahmoud.shawa57?lang=en
+                  - paragraph [ref=e560]: (محم🚬ود) 7oka🔥
+                - paragraph [ref=e563] [cursor=pointer]: 312 followers
+              - button "Follow (محم🚬ود) 7oka🔥" [ref=e566] [cursor=pointer]:
+                - generic [ref=e570]: Follow
+            - generic [ref=e571]:
+              - link "Avatar for rama_almaleh" [ref=e572] [cursor=pointer]:
+                - /url: /@rama_almaleh?lang=en
+                - img "Avatar for rama_almaleh" [ref=e574]
+              - generic [ref=e576]:
+                - link "❤️‍🔥𝑹𝑨𝑴𝑨❤️‍🔥" [ref=e578] [cursor=pointer]:
+                  - /url: /@rama_almaleh?lang=en
+                  - paragraph [ref=e580]: ❤️‍🔥𝑹𝑨𝑴𝑨❤️‍🔥
+                - paragraph [ref=e583] [cursor=pointer]: 110 followers
+              - button "Follow ❤️‍🔥𝑹𝑨𝑴𝑨❤️‍🔥" [ref=e586] [cursor=pointer]:
+                - generic [ref=e590]: Follow
+          - img [ref=e594] [cursor=pointer]
+      - generic [ref=e596]:
+        - generic [ref=e597]:
+          - generic [ref=e598]:
+            - tab "Videos" [selected] [ref=e599] [cursor=pointer]:
+              - img [ref=e600]
+              - generic [ref=e602]: Videos
+            - tab "Reposts" [ref=e603] [cursor=pointer]:
+              - img [ref=e604]
+              - generic [ref=e606]: Reposts
+            - tab "Liked" [ref=e607] [cursor=pointer]:
+              - img [ref=e608]
+              - generic [ref=e610]: Liked
+          - generic [ref=e613]:
+            - button "Latest" [ref=e614] [cursor=pointer]:
+              - generic [ref=e616]: Latest
+            - button "Popular" [ref=e617] [cursor=pointer]:
+              - generic [ref=e619]: Popular
+            - button "Oldest" [ref=e620] [cursor=pointer]:
+              - generic [ref=e622]: Oldest
+        - generic [ref=e624]:
+          - button "Watch in full screen" [ref=e627] [cursor=pointer]:
+            - 'link "دي قصتي قولي قصتك في التعليقات 👌 #edit #viral created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي 114" [ref=e630]':
+              - /url: https://www.tiktok.com/@elhegawyeditor/video/7618309814074101013
+              - generic [ref=e631]:
+                - 'img "دي قصتي قولي قصتك في التعليقات 👌 #edit #viral created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي" [ref=e635]'
+                - generic [ref=e638]:
+                  - img [ref=e639]
+                  - strong [ref=e641]: "114"
+          - button "Watch in full screen" [ref=e644] [cursor=pointer]:
+            - 'link "شوف الفيديو كامل من يوتيوب #edit #منتاج created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي 222" [ref=e647]':
+              - /url: https://www.tiktok.com/@elhegawyeditor/video/7607160234196339975
+              - generic [ref=e648]:
+                - 'img "شوف الفيديو كامل من يوتيوب #edit #منتاج created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي" [ref=e652]'
+                - generic [ref=e653]:
+                  - img [ref=e654]
+                  - strong [ref=e656]: "222"
+          - button "Watch in full screen" [ref=e659] [cursor=pointer]:
+            - link "@editor @edit فولوا 👆 created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي 401" [ref=e662]:
+              - /url: https://www.tiktok.com/@elhegawyeditor/video/7603145603564047623
+              - generic [ref=e663]:
+                - img "@editor @edit فولوا 👆 created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي" [ref=e667]
+                - generic [ref=e668]:
+                  - img [ref=e669]
+                  - strong [ref=e671]: "401"
+          - button "Watch in full screen" [ref=e674] [cursor=pointer]:
+            - 'link "قيم الفديو من 10 🌠🫂 #edit created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي 273" [ref=e677]':
+              - /url: https://www.tiktok.com/@elhegawyeditor/video/7599405532360789266
+              - generic [ref=e678]:
+                - 'img "قيم الفديو من 10 🌠🫂 #edit created by Elhegawy Editor with Elhegawy Editor’s الصوت الأصلي" [ref=e682]'
+                - generic [ref=e683]:
+                  - img [ref=e684]
+                  - strong [ref=e686]: "273"
+    - generic [ref=e689]:
+      - button [ref=e692] [cursor=pointer]:
+        - img [ref=e694]
+      - button [ref=e699] [cursor=pointer]:
+        - img [ref=e701]
+      - button "Log in" [ref=e706] [cursor=pointer]:
+        - generic [ref=e708]: Log in

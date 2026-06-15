@@ -1,0 +1,296 @@
+- generic [ref=e12]:
+  - generic [ref=e25]:
+    - generic [ref=e27]:
+      - heading "Settings" [level=1] [ref=e28]
+      - toolbar [ref=e30]:
+        - heading "Other assets" [level=4] [ref=e39]
+        - button "Facebook" [ref=e40] [cursor=pointer]:
+          - generic [ref=e46]:
+            - generic:
+              - img
+            - img "Facebook" [ref=e48]
+    - generic [ref=e49]:
+      - generic [ref=e56]:
+        - generic [ref=e59]:
+          - navigation [ref=e60]:
+            - list [ref=e61]:
+              - listitem [ref=e64]:
+                - link "Profiles" [ref=e66] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/settings/profiles
+                - generic:
+                  - listitem:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Profiles
+              - listitem [ref=e74]:
+                - link "Authorisations and verifications" [ref=e76] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/settings/authorizations_verifications
+                - generic:
+                  - listitem:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Authorisations and verifications
+          - navigation [ref=e82]:
+            - list [ref=e83]:
+              - listitem [ref=e86]:
+                - link "Language settings" [ref=e88] [cursor=pointer]:
+                  - /url: https://www.facebook.com/settings/?tab=language
+                - generic:
+                  - listitem:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Language settings
+                      - generic:
+                        - img
+        - button "Collapse" [ref=e98] [cursor=pointer]:
+          - generic [ref=e100]:
+            - generic [ref=e101]: Collapse
+            - img [ref=e103]
+      - generic [ref=e113]:
+        - heading "Authorisations and verifications" [level=2] [ref=e119]
+        - grid "Supported verification types" [ref=e128]:
+          - rowgroup [ref=e129]:
+            - row "Type Description" [ref=e130]:
+              - columnheader "Type" [ref=e131]:
+                - heading "Type" [level=4] [ref=e135]
+              - columnheader "Description" [ref=e136]:
+                - heading "Description" [level=4] [ref=e140]
+              - columnheader [ref=e141]
+          - rowgroup [ref=e142]:
+            - row "Verify yourself or an organisation To run ads in some locations, you may need to disclose verified information on the ads. View details" [ref=e143] [cursor=pointer]:
+              - gridcell "Verify yourself or an organisation" [ref=e144]:
+                - button "Verify yourself or an organisation" [ref=e146]:
+                  - generic [ref=e150]: Verify yourself or an organisation
+              - gridcell "To run ads in some locations, you may need to disclose verified information on the ads." [ref=e151]:
+                - generic [ref=e155]: To run ads in some locations, you may need to disclose verified information on the ads.
+              - gridcell "View details" [ref=e156]:
+                - button "View details" [ref=e160]:
+                  - generic [ref=e164]: View details
+            - row "Advertiser/payer of Singapore ads To deliver ads to Singapore, you will need to provide details about the advertiser and payer for these ads. View details" [ref=e165] [cursor=pointer]:
+              - gridcell "Advertiser/payer of Singapore ads" [ref=e166]:
+                - button "Advertiser/payer of Singapore ads" [ref=e168]:
+                  - generic [ref=e172]: Advertiser/payer of Singapore ads
+              - gridcell "To deliver ads to Singapore, you will need to provide details about the advertiser and payer for these ads." [ref=e173]:
+                - generic [ref=e177]: To deliver ads to Singapore, you will need to provide details about the advertiser and payer for these ads.
+              - gridcell "View details" [ref=e178]:
+                - button "View details" [ref=e182]:
+                  - generic [ref=e186]: View details
+            - row "Identity verification for Singapore ads You may need to verify your identity to run ads in Singapore. View details" [ref=e187] [cursor=pointer]:
+              - gridcell "Identity verification for Singapore ads" [ref=e188]:
+                - button "Identity verification for Singapore ads" [ref=e190]:
+                  - generic [ref=e194]: Identity verification for Singapore ads
+              - gridcell "You may need to verify your identity to run ads in Singapore." [ref=e195]:
+                - generic [ref=e199]: You may need to verify your identity to run ads in Singapore.
+              - gridcell "View details" [ref=e200]:
+                - button "View details" [ref=e204]:
+                  - generic [ref=e208]: View details
+            - row "Phone number verification Verify a phone number for each ad account that you want to use. View details" [ref=e209] [cursor=pointer]:
+              - gridcell "Phone number verification" [ref=e210]:
+                - button "Phone number verification" [ref=e212]:
+                  - generic [ref=e216]: Phone number verification
+              - gridcell "Verify a phone number for each ad account that you want to use." [ref=e217]:
+                - generic [ref=e221]: Verify a phone number for each ad account that you want to use.
+              - gridcell "View details" [ref=e222]:
+                - button "View details" [ref=e226]:
+                  - generic [ref=e230]: View details
+            - row "Verification for ads delivered to Taiwan To run ads in Taiwan, you need to provide details about the advertiser and payer for the ad. You can also provide the authorisation information for the advertiser. View details" [ref=e231] [cursor=pointer]:
+              - gridcell "Verification for ads delivered to Taiwan" [ref=e232]:
+                - button "Verification for ads delivered to Taiwan" [ref=e234]:
+                  - generic [ref=e238]: Verification for ads delivered to Taiwan
+              - gridcell "To run ads in Taiwan, you need to provide details about the advertiser and payer for the ad. You can also provide the authorisation information for the advertiser." [ref=e239]:
+                - generic [ref=e243]: To run ads in Taiwan, you need to provide details about the advertiser and payer for the ad. You can also provide the authorisation information for the advertiser.
+              - gridcell "View details" [ref=e244]:
+                - button "View details" [ref=e248]:
+                  - generic [ref=e252]: View details
+            - row "Verification for financial service ads delivered to Australia To run ads about financial products and services in Australia, you need to provide details about the advertiser and payer for the ad. You also need to provide the financial service licence number for the advertiser. View details" [ref=e253] [cursor=pointer]:
+              - gridcell "Verification for financial service ads delivered to Australia" [ref=e254]:
+                - button "Verification for financial service ads delivered to Australia" [ref=e256]:
+                  - generic [ref=e260]: Verification for financial service ads delivered to Australia
+              - gridcell "To run ads about financial products and services in Australia, you need to provide details about the advertiser and payer for the ad. You also need to provide the financial service licence number for the advertiser." [ref=e261]:
+                - generic [ref=e265]: To run ads about financial products and services in Australia, you need to provide details about the advertiser and payer for the ad. You also need to provide the financial service licence number for the advertiser.
+              - gridcell "View details" [ref=e266]:
+                - button "View details" [ref=e270]:
+                  - generic [ref=e274]: View details
+            - row "Verification for investment ads delivered to India To run ads about securities and investments in India, you need to verify the advertiser and payer for the ads by providing their SEBI or AMFI registration information. View details" [ref=e275] [cursor=pointer]:
+              - gridcell "Verification for investment ads delivered to India" [ref=e276]:
+                - button "Verification for investment ads delivered to India" [ref=e278]:
+                  - generic [ref=e282]: Verification for investment ads delivered to India
+              - gridcell "To run ads about securities and investments in India, you need to verify the advertiser and payer for the ads by providing their SEBI or AMFI registration information." [ref=e283]:
+                - generic [ref=e287]: To run ads about securities and investments in India, you need to verify the advertiser and payer for the ads by providing their SEBI or AMFI registration information.
+              - gridcell "View details" [ref=e288]:
+                - button "View details" [ref=e292]:
+                  - generic [ref=e296]: View details
+  - generic [ref=e302]:
+    - generic [ref=e304]:
+      - button "Meta Business Suite" [ref=e305] [cursor=pointer]:
+        - generic [ref=e307]: Meta Business Suite
+      - button "Pressable" [ref=e315] [cursor=pointer]
+    - navigation "Links" [ref=e323]:
+      - generic [ref=e324]: Links
+      - list [ref=e325]:
+        - generic [ref=e326]:
+          - listitem [ref=e330]:
+            - generic [ref=e332]:
+              - link "Home" [ref=e333] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/home?asset_id=1077200972154010
+                - generic [ref=e334]: Home
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Home
+          - listitem [ref=e338]:
+            - generic [ref=e340]:
+              - link "Notifications" [ref=e341] [cursor=pointer]:
+                - generic [ref=e342]: Notifications
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Notifications
+          - listitem [ref=e347]:
+            - generic [ref=e349]:
+              - link "Ads Manager" [ref=e350] [cursor=pointer]:
+                - generic [ref=e351]: Ads Manager
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Ads Manager
+          - listitem [ref=e355]:
+            - generic [ref=e357]:
+              - link "Inbox" [ref=e358] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/inbox?asset_id=1077200972154010
+                - generic [ref=e359]: Inbox
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Inbox
+          - listitem [ref=e364]:
+            - generic [ref=e366]:
+              - link "Content" [ref=e367] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/posts?asset_id=1077200972154010
+                - generic [ref=e368]: Content
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Content
+          - listitem [ref=e372]:
+            - generic [ref=e374]:
+              - link "Creator marketplace" [ref=e375] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/creator_marketplace?asset_id=1077200972154010&cm_entrypoint=biz_kit_nav_route_item
+                - generic [ref=e376]: Creator marketplace
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Creator marketplace
+          - listitem [ref=e380]:
+            - generic [ref=e382]:
+              - link "Planner" [ref=e383] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/content_calendar?asset_id=1077200972154010
+                - generic [ref=e384]: Planner
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Planner
+          - listitem [ref=e389]:
+            - generic [ref=e391]:
+              - link "Ads" [ref=e392] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/ad_center/ads_summary?asset_id=1077200972154010
+                - generic [ref=e393]: Ads
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Ads
+          - listitem [ref=e398]:
+            - generic [ref=e400]:
+              - link "Insights" [ref=e401] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/insights?asset_id=1077200972154010
+                - generic [ref=e402]: Insights
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Insights
+          - listitem [ref=e406]:
+            - generic [ref=e408]:
+              - link "All tools" [ref=e409] [cursor=pointer]:
+                - generic [ref=e410]: All tools
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: All tools
+          - generic [ref=e412]:
+            - separator [ref=e413]
+            - listitem [ref=e416]:
+              - generic [ref=e418]:
+                - link "Billing & payments" [ref=e419] [cursor=pointer]:
+                  - /url: https://business.facebook.com/billing_hub/payment_settings/?placement=bizapp_ad_center
+                  - generic [ref=e420]: Billing & payments
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Billing & payments
+            - listitem [ref=e423]:
+              - generic [ref=e425]:
+                - link "Audiences" [ref=e426] [cursor=pointer]:
+                  - /url: https://business.facebook.com/ads/manager/audiences/?nav_source=business_manager
+                  - generic [ref=e427]: Audiences
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Audiences
+            - listitem [ref=e430]:
+              - generic [ref=e432]:
+                - link "Events Manager" [ref=e433] [cursor=pointer]:
+                  - /url: https://business.facebook.com/events_manager2/?nav_source=biz_nav
+                  - generic [ref=e434]: Events Manager
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Events Manager
+          - button "Edit sidebar navigation" [ref=e437] [cursor=pointer]:
+            - generic [ref=e441]: Edit
+    - generic [ref=e445]:
+      - listitem [ref=e448]:
+        - generic [ref=e450]:
+          - link "Search" [ref=e451] [cursor=pointer]:
+            - generic [ref=e452]: Search
+          - generic:
+            - generic:
+              - generic:
+                - generic: Search
+          - generic:
+            - generic:
+              - img
+      - navigation "Links" [ref=e453]:
+        - generic [ref=e454]: Links
+        - list [ref=e455]:
+          - listitem [ref=e459]:
+            - generic [ref=e461]:
+              - link "Get Started" [ref=e462] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/get_started?asset_id=1077200972154010
+                - generic [ref=e463]: Get Started
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Get Started
+          - listitem [ref=e467]:
+            - generic [ref=e469]:
+              - link "Settings" [ref=e470] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/settings/profiles?asset_id=1077200972154010
+                - generic [ref=e471]: Settings
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Settings
+      - listitem [ref=e478]:
+        - generic [ref=e480]:
+          - link "Help" [ref=e481] [cursor=pointer]:
+            - generic [ref=e482]: Help
+          - generic:
+            - generic:
+              - generic:
+                - generic: Help
+          - generic:
+            - generic:
+              - img

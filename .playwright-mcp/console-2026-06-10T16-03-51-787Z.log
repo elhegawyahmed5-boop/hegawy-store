@@ -1,0 +1,210 @@
+[     520ms] [WARNING] Reflect is already polyfilled. @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[     589ms] [ERROR] Consume appContext before init @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[    1092ms] [LOG] %c %s color: yellow; background-color: black; [instance: default] appid: 1988, userInfo:{"user_unique_id":"7649786990460012039","user_type":12,"user_id":"7598222841687163921","user_is_login":false,"device_id":"7649786990460012039"} @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-dp-byted-tea-sdk-oversea.f4e273c4.js:0
+[    1093ms] [LOG] %c %s color: yellow; background-color: black; [instance: default] appid: 1988, sdk is ready, version is 5.3.17, you can report now !!! @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-dp-byted-tea-sdk-oversea.f4e273c4.js:0
+[    1238ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ag (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:122523)
+    at u (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:197146)
+    at iI (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175130)
+    at iD (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175000)
+    at iE (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:170073)
+    at x (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:265514)
+    at N (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:266044)
+[    1238ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ag (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:122523)
+    at u (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:197146)
+    at iI (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175130)
+    at iD (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175000)
+    at iE (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:170073)
+    at x (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:265514)
+    at N (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:266044)
+[    1249ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ag (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:122523)
+    at u (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:197146)
+    at iI (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175130)
+    at iD (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175000)
+    at iE (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:170073)
+    at x (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:265514)
+    at N (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:266044)
+[    1250ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ag (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:122523)
+    at u (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:197146)
+    at iI (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175130)
+    at iD (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175000)
+    at iE (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:170073)
+    at x (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:265514)
+    at N (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:266044)
+[    1254ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ag (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:122523)
+    at u (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:197146)
+    at iI (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175130)
+    at iD (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175000)
+    at iE (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:170073)
+    at x (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:265514)
+    at N (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:266044)
+[    1256ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ag (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:122523)
+    at u (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:197323)
+    at iI (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175130)
+    at iD (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175000)
+    at iE (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:170073)
+    at x (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:265514)
+    at N (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:266044)
+[    1256ms] Uncaught Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at u (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:196805)
+    at iI (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175130)
+    at iD (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:175000)
+    at iC (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:171771)
+    at iE (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:170326)
+    at x (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:265514)
+    at N (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:1:266044)
+[    1377ms] [INFO] . @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[    1907ms] [LOG] ws.opened @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[    1907ms] [WARNING] [SDK] 1781107433694        0 already inited @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js?bid=tiktok_webapp&globalName=SlardarClient:0
+[    2100ms] [WARNING] [i18n] missing key [en] Webapp Close_button Close_button @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/biz.common.lib.7eac74a6.js:0
+[    3288ms] [WARNING] [TikTok desktop app SDK Monitor]:   WARN:[printFirstFeedShow]The current environment is not inside the client. @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[    4296ms] [LOG] %c %s color: yellow; background-color: black; [instance: cookie_banner_tea_sdk] appid: 345918, userInfo:{"user_unique_id":"7649787001097504274","web_id":"7649787001097504274"} @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[    4299ms] [LOG] %c %s color: yellow; background-color: black; [instance: cookie_banner_tea_sdk] appid: 345918, sdk is ready, version is 5.3.17, you can report now !!! @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[    4594ms] [WARNING] Reflect is already polyfilled. @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/web/tiktok_fe_login_vmok/static/js/async/5613.8d5871a3.js:0
+[    4737ms] [LOG] [browser check] %s, os:  Chrome Windows @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[    4745ms] [WARNING] InvalidCharacterError: Failed to execute 'atob' on 'Window': The string to be decoded is not correctly encoded.
+    at i (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/24640.190bf37b.js:1:126370)
+    at t.getLoginContext (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/24640.190bf37b.js:1:43760)
+    at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/24640.190bf37b.js:1:39721
+    at v (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:26563)
+    at d (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:26511)
+    at c._next (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:19794)
+    at r.next (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:7426)
+    at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:25858
+    at c._next (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:19794)
+    at r.next (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:7426) @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/24640.190bf37b.js:0
+[    4823ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://accounts.google.com/gsi/client:86
+[    4825ms] [ERROR] Not signed in with the identity provider. @ https://www.tiktok.com/@elhegawyeditor?lang=en:0
+[    6205ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[   34672ms] [WARNING] InvalidCharacterError: Failed to execute 'atob' on 'Window': The string to be decoded is not correctly encoded.
+    at n (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/web/tiktok_fe_login_vmok/static/js/async/5613.8d5871a3.js:31:489934)
+    at Object.init (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/web/tiktok_fe_login_vmok/static/js/async/5613.8d5871a3.js:27:766112)
+    at u_ (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/web/tiktok_fe_login_vmok/static/js/async/5613.8d5871a3.js:27:766874)
+    at Su (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/web/tiktok_fe_login_vmok/static/js/async/5613.8d5871a3.js:31:209889)
+    at od (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:2:134594)
+    at ld (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:2:148889)
+    at ls (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:2:148097)
+    at lu (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:2:147699)
+    at u (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:2:198810)
+    at iI (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-react.db934f16.js:2:175131) @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/web/tiktok_fe_login_vmok/static/js/async/5613.8d5871a3.js:30
+[   34685ms] [WARNING] [i18n] missing key [en] WebApp_Login Log in or sign up for an account on TikTok. Start watching to discover real people and real videos that will make your day. Log in or sign up for an account on TikTok. Start watching to discover real people and real videos that will make your day. @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/biz.common.lib.7eac74a6.js:0
+[   34754ms] [WARNING] InvalidCharacterError: Failed to execute 'atob' on 'Window': The string to be decoded is not correctly encoded.
+    at i (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/24640.190bf37b.js:1:126370)
+    at t.getLoginContext (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/24640.190bf37b.js:1:43760)
+    at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/24640.190bf37b.js:1:39721
+    at v (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:26563)
+    at d (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:26511)
+    at c._next (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:19794)
+    at r.next (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:7426)
+    at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:25858
+    at c._next (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:19794)
+    at r.next (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-rxjs.c58b4b68.js:1:7426) @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/24640.190bf37b.js:0
+[   49126ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.tiktok.com/@elhegawyeditor?lang=en:0
+[  104852ms] [LOG] [idv module] on required {passport_ticket: PPTSGOF3E7PACFKTMSX4Y9YD7QRFS7WTSB793M, need_replay: false, extra: Array(1), code: 0, version: v2.0.0} @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  106423ms] [ERROR] Failed to launch 'bytedance://dispatch_message/' because the scheme does not have a registered handler. @ https://www.tiktok.com/@elhegawyeditor?lang=en:0
+[  106465ms] [LOG] %c %s color: yellow; background-color: black; [instance: default] appid: 1988, userInfo:{"user_unique_id":"7649786990460012039","web_id":"7649787001500452360"} @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  106466ms] [LOG] %c %s color: yellow; background-color: black; [instance: default] appid: 1988, sdk is ready, version is 5.3.12_oversea, you can report now !!! @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  107448ms] [LOG] [Magpie SDK] Runtime env result:  {envs: Array(5)} @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  107458ms] [LOG] item {type: 2, key: PID2H78HUYG7TY8UUXV, icon: Object, desc: Object, title: Email} @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  193271ms] [ERROR] can not parse the data @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  365887ms] [ERROR] can not parse the data @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371530ms] Uncaught TypeError: Cannot read properties of undefined (reading 'includes')
+    at l.getConfigRegion (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:25349)
+    at l.gerReportUrl (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:25458)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:35220)
+    at s (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:35120)
+[  371559ms] Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'includes')
+    at l.getConfigRegion (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:25349)
+    at l.gerReportUrl (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:25458)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:27736)
+    at f (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:3652)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:4998)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:4081)
+    at a (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:457)
+    at c (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:660)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:719)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:600)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:29201)
+    at value (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:27589)
+    at value (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:27184)
+    at value (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:42112)
+    at value (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:42419)
+    at window.registToModule (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:16240)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:29:67)
+[  371560ms] Uncaught TypeError: Cannot read properties of undefined (reading 'includes')
+    at l.getConfigRegion (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:25349)
+    at l.gerReportUrl (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:25458)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:35220)
+    at s (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:35120)
+[  371595ms] [INFO] . @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  371607ms] Uncaught TypeError: Cannot read properties of undefined (reading 'includes')
+    at l.getConfigRegion (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:25349)
+    at l.gerReportUrl (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:25458)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:35220)
+    at s (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:35120)
+[  371684ms] [WARNING] Reflect is already polyfilled. @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371722ms] [WARNING] AppContext will be overwritten @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371722ms] [WARNING] AppContext will be overwritten @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371722ms] [WARNING] AppContext will be overwritten @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371723ms] [WARNING] AppContext will be overwritten @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371723ms] [WARNING] AppContext will be overwritten @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371724ms] [WARNING] AppContext will be overwritten @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371724ms] [WARNING] AppContext will be overwritten @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371725ms] [WARNING] AppContext will be overwritten @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371725ms] [WARNING] AppContext will be overwritten @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371740ms] [WARNING] AppContext will be overwritten @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371742ms] [WARNING] AppContext will be overwritten @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  371742ms] [WARNING] loadable: `loadableReady()` requires state, please use `getScriptTags` or `getScriptElements` server-side @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/77750.55abd95f.js:1
+[  371762ms] [LOG] %c %s color: yellow; background-color: black; [instance: default] appid: 1988, userInfo:{"user_unique_id":"7649786990460012039","user_type":12,"user_id":"7598222841687163921","user_is_login":true,"device_id":"7649786990460012039"} @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  371762ms] [LOG] %c %s color: yellow; background-color: black; [instance: default] appid: 1988, sdk is ready, version is 5.3.17, you can report now !!! @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  371771ms] Uncaught TypeError: Cannot read properties of undefined (reading 'includes')
+    at l.getConfigRegion (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:25349)
+    at l.gerReportUrl (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:25458)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:35220)
+    at s (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:4:35120)
+[  371996ms] [LOG] TypeError: Cannot read properties of null (reading 'toString')
+    at main (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:110:142)
+    at postMessageOriginCheckExpression (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:114:8)
+    at e.value (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:5:32209)
+    at e.value (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:5:34177)
+    at MessagePort.s (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/secsdk_runtime_bundler_1104_278fdf08.js:5:35519) @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  372808ms] [WARNING] [TikTok desktop app SDK Monitor]:   WARN:[printFirstFeedShow]The current environment is not inside the client. @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  372830ms] [WARNING] [i18n] missing key [en] Webapp Close_button Close_button @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/biz.common.lib.7eac74a6.js:0
+[  372944ms] [WARNING] filter merge event: sibyl_sdk_collector_init_result error, pls check Converting circular structure to JSON
+    --> starting at object with constructor 'e'
+    |     property 'pluginInstances' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'e'
+    --- property 'collect' closes the circle @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/npm-dp-byted-tea-sdk-oversea.f4e273c4.js:0
+[  372945ms] [LOG] %c %s color: yellow; background-color: black; [instance: sibylSdkTea] appid: 594856, userInfo:{"user_unique_id":"7649796668971861512","web_id":"7649796668971861512"} @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  372945ms] [LOG] %c %s color: yellow; background-color: black; [instance: sibylSdkTea] appid: 594856, sdk is ready, version is 5.3.17, you can report now !!! @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  373310ms] [LOG] ws.opened @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  373354ms] Uncaught (in promise) TypeError: a.init is not a function
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/64887.ba0a9df5.js:1:544240)
+    at l (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/64887.ba0a9df5.js:1:537334)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/64887.ba0a9df5.js:1:538691)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/64887.ba0a9df5.js:1:537727)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/77750.55abd95f.js:4:181765)
+    at p (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/77750.55abd95f.js:4:181562)
+    at value (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/64887.ba0a9df5.js:1:543780)
+    at value (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/64887.ba0a9df5.js:1:543659)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/64887.ba0a9df5.js:1:616448)
+    at l (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/64887.ba0a9df5.js:1:608637)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/64887.ba0a9df5.js:1:609994)
+    at <anonymous> (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/64887.ba0a9df5.js:1:609030)
+    at a (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/77750.55abd95f.js:4:181618)
+[  374293ms] [LOG] %c %s color: yellow; background-color: black; [instance: cookie_banner_tea_sdk] appid: 345918, userInfo:{"user_unique_id":"7649787001097504274","web_id":"7649787001097504274"} @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  374293ms] [LOG] %c %s color: yellow; background-color: black; [instance: cookie_banner_tea_sdk] appid: 345918, sdk is ready, version is 5.3.17, you can report now !!! @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.374/webmssdk.js:0
+[  374903ms] [WARNING] The 'deprecatedStyle' prop is deprecated. Please use the associated style props instead (e.g. "marginInline", "flex") @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/16119.40946b1b.js:0
+[  375012ms] [WARNING] The 'deprecatedStyle' prop is deprecated. Please use the associated style props instead (e.g. "marginInline", "flex") @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/16119.40946b1b.js:0
+[  375073ms] [WARNING] The 'deprecatedStyle' prop is deprecated. Please use the associated style props instead (e.g. "marginInline", "flex") @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/16119.40946b1b.js:0
+[  375280ms] [ERROR] Access to XMLHttpRequest at 'https://starling-sg.tiktokv.com/check_and_get_text/2e1fcc60aeaa11e99ef535aeebd27c9b/normal/account_server?lang=en,zh&version=1776234977523551000' from origin 'https://www.tiktok.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.tiktok.com/@elhegawyeditor?lang=en:0
+[  375284ms] [ERROR] [I18nContext] load starling error Error: Network Error
+    at new t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/i18n.c716e814.js:2:15705)
+    at i.onerror (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/i18n.c716e814.js:2:16590) @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/webapp-desktop.d69e4fd6.js:0
+[  375285ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://starling-sg.tiktokv.com/check_and_get_text/2e1fcc60aeaa11e99ef535aeebd27c9b/normal/account_server?lang=en,zh&version=1776234977523551000:0
+[  375295ms] [WARNING] The 'deprecatedStyle' prop is deprecated. Please use the associated style props instead (e.g. "marginInline", "flex") @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v18/webapp-desktop/static/js/async/16119.40946b1b.js:0

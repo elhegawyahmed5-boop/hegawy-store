@@ -1,0 +1,13 @@
+[    7214ms] [ERROR] ErrorUtils caught an error:
+
+terminate stream because RemoteTermination with msg : Could not subscribe to xfb_biz_inbox_igd_typing_indicator_subscribe due to an error: Invalid business IGID [Caught in: Subscription error in preprocessResponse]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. {column: 180, clientTime: 1781100988, extra: Object, guardList: Array(0), hash: samicv} @ https://static.xx.fbcdn.net/rsrc.php/v4/yA/r/llpHPzBZ1ZW.js:79
+[    8502ms] [LOG] 
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black; @ https://static.xx.fbcdn.net/rsrc.php/v4iHye4/yG/l/en_GB-j/YyXALWoe1X3mnOUhVpWs5Qkh63zCzUzkfCQl8f_GSdrkSccWdTT3NK5g_V8U7I9CUwZkwKD_TRqACQ9bM0s9VNCt9SenrmQk8o70-nibhEB8cw_liHcm_x7KfFlkCGP7xa9RCKS7J_3-Pm4OuIXY5ZLvMfHP8OxG0nUNgpzXN8a8yeFn1GexYzMN1kskhCmYbpYvna33dJMp-hLC46Fnw-uXKxzkTj2jp_AFfAAE_drXWKIGdk0gOHG2DV4SDgIP25QkW-XqJuCimdqIdgNhGxufQDknqv4jJwAqtGnPhA3kBEiWczs3_j8GquT0cJYjEe3yAI251W.js:181
+[    8502ms] [LOG] 
+%cThis is a browser feature intended for developers. If someone told you to copy and paste something here to enable a Facebook feature or "hack" someone's account, it's a scam and will give them access to your Facebook account. font-family:helvetica; font-size:20px;  @ https://static.xx.fbcdn.net/rsrc.php/v4iHye4/yG/l/en_GB-j/YyXALWoe1X3mnOUhVpWs5Qkh63zCzUzkfCQl8f_GSdrkSccWdTT3NK5g_V8U7I9CUwZkwKD_TRqACQ9bM0s9VNCt9SenrmQk8o70-nibhEB8cw_liHcm_x7KfFlkCGP7xa9RCKS7J_3-Pm4OuIXY5ZLvMfHP8OxG0nUNgpzXN8a8yeFn1GexYzMN1kskhCmYbpYvna33dJMp-hLC46Fnw-uXKxzkTj2jp_AFfAAE_drXWKIGdk0gOHG2DV4SDgIP25QkW-XqJuCimdqIdgNhGxufQDknqv4jJwAqtGnPhA3kBEiWczs3_j8GquT0cJYjEe3yAI251W.js:181
+[    8502ms] [LOG] 
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px;  @ https://static.xx.fbcdn.net/rsrc.php/v4iHye4/yG/l/en_GB-j/YyXALWoe1X3mnOUhVpWs5Qkh63zCzUzkfCQl8f_GSdrkSccWdTT3NK5g_V8U7I9CUwZkwKD_TRqACQ9bM0s9VNCt9SenrmQk8o70-nibhEB8cw_liHcm_x7KfFlkCGP7xa9RCKS7J_3-Pm4OuIXY5ZLvMfHP8OxG0nUNgpzXN8a8yeFn1GexYzMN1kskhCmYbpYvna33dJMp-hLC46Fnw-uXKxzkTj2jp_AFfAAE_drXWKIGdk0gOHG2DV4SDgIP25QkW-XqJuCimdqIdgNhGxufQDknqv4jJwAqtGnPhA3kBEiWczs3_j8GquT0cJYjEe3yAI251W.js:181
+[    8502ms] [LOG] 
+%c  @ https://static.xx.fbcdn.net/rsrc.php/v4iHye4/yG/l/en_GB-j/YyXALWoe1X3mnOUhVpWs5Qkh63zCzUzkfCQl8f_GSdrkSccWdTT3NK5g_V8U7I9CUwZkwKD_TRqACQ9bM0s9VNCt9SenrmQk8o70-nibhEB8cw_liHcm_x7KfFlkCGP7xa9RCKS7J_3-Pm4OuIXY5ZLvMfHP8OxG0nUNgpzXN8a8yeFn1GexYzMN1kskhCmYbpYvna33dJMp-hLC46Fnw-uXKxzkTj2jp_AFfAAE_drXWKIGdk0gOHG2DV4SDgIP25QkW-XqJuCimdqIdgNhGxufQDknqv4jJwAqtGnPhA3kBEiWczs3_j8GquT0cJYjEe3yAI251W.js:181

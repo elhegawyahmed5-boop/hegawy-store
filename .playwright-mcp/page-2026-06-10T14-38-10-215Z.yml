@@ -1,0 +1,392 @@
+- generic [ref=e5]:
+  - banner:
+    - generic [ref=e6]:
+      - generic:
+        - generic:
+          - button [disabled]:
+            - img
+      - link "Facebook" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img [ref=e8]
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+      - generic [ref=e19]:
+        - generic:
+          - img
+        - combobox "Search Facebook" [ref=e20]
+    - navigation "Facebook" [ref=e24]:
+      - list [ref=e25]:
+        - listitem [ref=e26]:
+          - link "Home" [ref=e29] [cursor=pointer]:
+            - /url: /
+            - img [ref=e31]
+        - listitem [ref=e33]:
+          - link "Reels" [ref=e36] [cursor=pointer]:
+            - /url: /reel/?s=tab
+            - img [ref=e38]
+        - listitem [ref=e41]:
+          - link "Pages" [ref=e44] [cursor=pointer]:
+            - /url: /pages/?category=your_pages&ref=bookmarks
+            - img [ref=e46]
+        - listitem [ref=e48]:
+          - link "Professional dashboard" [ref=e51] [cursor=pointer]:
+            - /url: /professional_dashboard/?ref=tab_bar
+            - img [ref=e53]
+        - listitem [ref=e56]:
+          - link "Ad Centre" [ref=e59] [cursor=pointer]:
+            - /url: /61590727920658/ad_center/
+            - img [ref=e61]
+    - navigation "Account controls and settings" [ref=e64]:
+      - button "Facebook menu" [ref=e68] [cursor=pointer]:
+        - img [ref=e69]
+      - link "Messenger" [ref=e72] [cursor=pointer]:
+        - /url: https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=1077200972154010
+        - link "Messenger" [ref=e74]:
+          - /url: https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=1077200972154010
+          - img [ref=e75]
+      - generic [ref=e80]:
+        - button "Notifications, 1 unread" [ref=e81] [cursor=pointer]:
+          - img [ref=e82]
+        - button [ref=e84] [cursor=pointer]:
+          - generic [ref=e85]:
+            - generic [ref=e86]: Number of unread notifications
+            - generic [ref=e87]: "1"
+      - button "Your profile" [ref=e90] [cursor=pointer]:
+        - generic [ref=e91]:
+          - img "Your profile" [ref=e92]
+          - img [ref=e99]
+  - generic [ref=e106]:
+    - navigation "Page navigation" [ref=e107]:
+      - generic [ref=e108]:
+        - generic [ref=e111]:
+          - heading "Manage Page" [level=1] [ref=e116]
+          - button "Hide Menu" [ref=e120] [cursor=pointer]:
+            - img [ref=e121]
+        - generic [ref=e125]:
+          - generic [ref=e130]:
+            - img [ref=e133]
+            - heading "Hegawy Stores" [level=2] [ref=e137]:
+              - generic [ref=e139]: Hegawy Stores
+          - separator [ref=e141]
+          - generic [ref=e143]:
+            - link "Professional dashboard" [ref=e147] [cursor=pointer]:
+              - /url: /professional_dashboard/?ref=profile_plus_left_nav
+              - generic [ref=e148]:
+                - img [ref=e150]
+                - generic [ref=e159]: Professional dashboard
+            - link "Insights" [ref=e163] [cursor=pointer]:
+              - /url: /professional_dashboard/insights/
+              - generic [ref=e164]:
+                - img [ref=e166]
+                - generic [ref=e172]: Insights
+            - link "Planner" [ref=e176] [cursor=pointer]:
+              - /url: https://www.facebook.com/professional_dashboard/content_calendar/?ref=profile_plus_left_nav
+              - generic [ref=e184]: Planner
+            - link "Monetisation" [ref=e188] [cursor=pointer]:
+              - /url: https://www.facebook.com/professional_dashboard/monetization/?ref=profile_plus_left_nav
+              - generic [ref=e196]: Monetisation
+            - link "Ad Centre" [ref=e200] [cursor=pointer]:
+              - /url: /61590727920658/ad_center/?ref_source=www_profile_plus_left_nav_ad_center_button
+              - generic [ref=e201]:
+                - img [ref=e203]
+                - generic [ref=e209]: Ad Centre
+            - link "Create ads" [ref=e213] [cursor=pointer]:
+              - /url: /ad_center/create/consolidatedad/?entry_point=www_pages_product_picker&page_id=1077200972154010
+              - generic [ref=e214]:
+                - img [ref=e216]
+                - generic [ref=e222]: Create ads
+            - link "Boost Instagram post" [ref=e226] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings?tab=linked_instagram&ref=HOME
+              - generic [ref=e234]: Boost Instagram post
+            - link "Settings" [ref=e238] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/
+              - generic [ref=e246]: Settings
+            - generic [ref=e249]:
+              - generic [ref=e254]:
+                - generic [ref=e257]:
+                  - heading "More tools" [level=2] [ref=e259]:
+                    - generic [ref=e261]: More tools
+                  - button "Collapse" [ref=e267] [cursor=pointer]:
+                    - img [ref=e268]
+                - generic [ref=e272]: Manage your business across Meta apps.
+              - generic [ref=e275]:
+                - link "Meta Verified" [ref=e279] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/meta_verified_landing/?nav_ref=mv4b_fb_profile_plus_nav_action_section&entry_point=mv4b_fb_profile_plus_nav_action_section
+                  - generic [ref=e287]: Meta Verified
+                - link "Leads Centre" [ref=e291] [cursor=pointer]:
+                  - /url: https://www.facebook.com/latest/leads_center?asset_id=1077200972154010&nav_ref=manage_page_ap_plus_left_nav_leads_center_button
+                  - generic [ref=e294]:
+                    - generic [ref=e299]: Leads Centre
+                    - img [ref=e303]
+                - link "Meta Business Suite" [ref=e308] [cursor=pointer]:
+                  - /url: https://www.facebook.com/latest/?asset_id=1077200972154010&nav_ref=manage_page_ap_plus_left_nav_mbs_button
+                  - generic [ref=e311]:
+                    - generic [ref=e319]: Meta Business Suite
+                    - img [ref=e323]
+        - separator [ref=e325]
+        - button "Advertise" [ref=e327] [cursor=pointer]:
+          - generic [ref=e328]:
+            - img [ref=e329]
+            - generic [ref=e333]: Advertise
+    - main "Page profile content" [ref=e334]:
+      - main [ref=e338]:
+        - generic [ref=e339]:
+          - generic [ref=e345]:
+            - button "Edit cover photo" [ref=e346] [cursor=pointer]
+            - button "Add Cover Photo" [ref=e353] [cursor=pointer]:
+              - generic [ref=e354]:
+                - img [ref=e355]
+                - generic [ref=e359]: Add Cover Photo
+          - generic [ref=e363]:
+            - generic [ref=e366]:
+              - generic [ref=e367]:
+                - button "Share a thought...":
+                  - generic [ref=e370] [cursor=pointer]: Share a thought...
+              - button "Profile picture actions" [ref=e375] [cursor=pointer]:
+                - generic [ref=e376]:
+                  - img "Profile picture actions" [ref=e377]
+                  - generic [ref=e384]: Active Status indicator
+            - generic [ref=e387]:
+              - generic [ref=e389]:
+                - generic [ref=e392]:
+                  - heading "Hegawy Stores" [level=1] [ref=e397]:
+                    - button "Hegawy Stores" [ref=e398] [cursor=pointer]: Hegawy Stores
+                  - generic [ref=e400]:
+                    - link "0 followers" [ref=e401] [cursor=pointer]:
+                      - /url: https://www.facebook.com/profile.php?id=61590727920658&sk=followers
+                      - strong [ref=e402]: "0"
+                      - text: followers
+                    - text: •
+                    - link "0 following" [ref=e403] [cursor=pointer]:
+                      - /url: https://www.facebook.com/profile.php?id=61590727920658&sk=following
+                      - strong [ref=e404]: "0"
+                      - text: following
+                - generic [ref=e407]:
+                  - link "Professional dashboard" [ref=e410] [cursor=pointer]:
+                    - /url: /professional_dashboard/?ref=profile_action
+                    - generic [ref=e413]: Professional dashboard
+                  - link "Edit profile" [ref=e416] [cursor=pointer]:
+                    - /url: /profile.php?fb_profile_edit_entry_point=%7B%22click_point%22%3A%22edit_profile_button%22%2C%22feature%22%3A%22profile_header%22%7D&id=61590727920658&sk=about
+                    - generic [ref=e419]: Edit
+                  - button "Advertise" [ref=e422] [cursor=pointer]:
+                    - generic [ref=e425]: Advertise
+              - generic [ref=e427]: نصنع مستقبل التجارة الرقمية. نطور مواقع ومتاجر إلكترونية ذكية مدعومة بالكامل بالذكاء الاصطناعي لنمو أعمالك.
+              - list "Highlighted details" [ref=e431]:
+                - listitem [ref=e432]:
+                  - generic [ref=e433]:
+                    - img [ref=e435]
+                    - button "Software company" [ref=e436] [cursor=pointer]
+                - listitem [ref=e437]:
+                  - generic [ref=e438]: ££
+        - generic [ref=e447]:
+          - tablist [ref=e455]:
+            - generic:
+              - generic:
+                - generic [ref=e457]:
+                  - generic [ref=e458]: More
+                  - img [ref=e460]
+                - tab "All" [selected] [ref=e463] [cursor=pointer]:
+                  - generic [ref=e465]: All
+                - tab "About" [ref=e467] [cursor=pointer]:
+                  - generic [ref=e469]: About
+                - tab "Reels" [ref=e471] [cursor=pointer]:
+                  - generic [ref=e473]: Reels
+                - tab "Photos" [ref=e475] [cursor=pointer]:
+                  - generic [ref=e477]: Photos
+                - tab "Followers" [ref=e479] [cursor=pointer]:
+                  - generic [ref=e481]: Followers
+                - tab "More profile sections" [ref=e483] [cursor=pointer]:
+                  - generic [ref=e484]:
+                    - generic [ref=e485]: More
+                    - img [ref=e487]
+          - button "Profile settings see more options" [ref=e492] [cursor=pointer]:
+            - img [ref=e494]
+        - generic [ref=e500]:
+          - generic [ref=e503]:
+            - generic [ref=e507]:
+              - generic [ref=e512]:
+                - generic [ref=e515]:
+                  - heading "Finish setting up your Page" [level=2] [ref=e517]:
+                    - generic [ref=e519]: Finish setting up your Page
+                  - button "Close" [ref=e524] [cursor=pointer]:
+                    - img [ref=e525]
+                - generic [ref=e530]: Add the essentials that people look for so that your Page feels complete and trustworthy.
+              - generic [ref=e534]: Not started
+              - list "List of requirements for the current week's challenge" [ref=e538]:
+                - listitem [ref=e539]:
+                  - button "Add profile picture Make it easy for people to recognise and trust your Page." [ref=e542] [cursor=pointer]:
+                    - generic [ref=e544]:
+                      - generic [ref=e548]:
+                        - generic [ref=e550]: Add profile picture
+                        - generic [ref=e552]: Make it easy for people to recognise and trust your Page.
+                      - img [ref=e554]
+                - listitem [ref=e556]:
+                  - button "Add cover photo Make a positive first impression." [ref=e559] [cursor=pointer]:
+                    - generic [ref=e561]:
+                      - generic [ref=e565]:
+                        - generic [ref=e567]: Add cover photo
+                        - generic [ref=e569]: Make a positive first impression.
+                      - img [ref=e571]
+                - listitem [ref=e573]:
+                  - link "Add your address If you're a business with a physical location, let people know where to go." [ref=e576] [cursor=pointer]:
+                    - /url: /profile.php?id=61590727920658&open_field=address&sk=directory_basic_info
+                    - generic [ref=e578]:
+                      - generic [ref=e582]:
+                        - generic [ref=e584]: Add your address
+                        - generic [ref=e586]: If you're a business with a physical location, let people know where to go.
+                      - img [ref=e588]
+              - link "View all" [ref=e591] [cursor=pointer]:
+                - /url: https://www.facebook.com/professional_dashboard/levels/?ref=profile_ap_plus_checklist_progression_tasks
+                - generic [ref=e594]: View all
+            - generic [ref=e595]:
+              - generic [ref=e597]:
+                - generic [ref=e601]:
+                  - generic [ref=e602]:
+                    - heading "Details" [level=2] [ref=e606]:
+                      - generic [ref=e607]: Details
+                    - link "Edit Details" [ref=e608] [cursor=pointer]:
+                      - /url: https://www.facebook.com/profile.php?id=61590727920658&sk=directory_basic_info&fb_profile_edit_entry_point=%7B%22feature%22%3A%22profile_directory%22%2C%22click_point%22%3A%22pencil_edit_directory_section%22%2C%22additional_metadata%22%3A%7B%22section_type%22%3A%22basic_info%22%7D%7D
+                      - img [ref=e610]
+                  - list "Details" [ref=e612]:
+                    - button "Not yet rated (0 reviews)" [ref=e613] [cursor=pointer]:
+                      - generic [ref=e615]:
+                        - img [ref=e617]
+                        - listitem [ref=e618]:
+                          - generic [ref=e620]: Not yet rated (0 reviews)
+                    - generic [ref=e622]:
+                      - img [ref=e624]
+                      - listitem [ref=e625]:
+                        - generic [ref=e627]: ££
+                - generic [ref=e631]:
+                  - generic [ref=e632]:
+                    - heading "Services" [level=2] [ref=e636]:
+                      - generic [ref=e637]: Services
+                    - link "Edit Services" [ref=e638] [cursor=pointer]:
+                      - /url: https://www.facebook.com/profile.php?id=61590727920658&sk=directory_specialties&fb_profile_edit_entry_point=%7B%22feature%22%3A%22profile_directory%22%2C%22click_point%22%3A%22pencil_edit_directory_section%22%2C%22additional_metadata%22%3A%7B%22section_type%22%3A%22specialties%22%7D%7D
+                      - img [ref=e640]
+                  - list "Services" [ref=e642]:
+                    - generic [ref=e644]:
+                      - img [ref=e646]
+                      - listitem [ref=e647]:
+                        - generic [ref=e649]: Specialities
+                        - list "Specialities" [ref=e650]:
+                          - listitem [ref=e651]:
+                            - generic [ref=e652]:
+                              - generic [ref=e655]: تطبيقات جوال
+                              - generic [ref=e657]: تطبيقات جوال تفاعلية لأنظمة iOS و Android
+                          - listitem [ref=e658]:
+                            - generic [ref=e659]:
+                              - generic [ref=e662]: حلول الذكاء الاصطناعي
+                              - generic [ref=e664]: وكلاء ذكاء اصطناعي لأتمتة المبيعات والتسويق وخدمة العملاء
+                          - listitem [ref=e665]:
+                            - generic [ref=e666]:
+                              - generic [ref=e669]: تطوير مواقع ويب احترافية
+                              - generic [ref=e671]: تصميم وتطوير مواقع إنترنت متجاوبة مع أحدث التقنيات
+                          - listitem [ref=e672]:
+                            - generic [ref=e673]:
+                              - generic [ref=e676]: متاجر إلكترونية ذكية
+                              - generic [ref=e678]: متاجر إلكترونية متكاملة مع أنظمة دفع وشحن وإدارة مخزون
+                - generic [ref=e682]:
+                  - generic [ref=e683]:
+                    - heading "Contact info" [level=2] [ref=e687]:
+                      - generic [ref=e688]: Contact info
+                    - link "Edit Contact info" [ref=e689] [cursor=pointer]:
+                      - /url: https://www.facebook.com/profile.php?id=61590727920658&sk=directory_contact_info&fb_profile_edit_entry_point=%7B%22feature%22%3A%22profile_directory%22%2C%22click_point%22%3A%22pencil_edit_directory_section%22%2C%22additional_metadata%22%3A%7B%22section_type%22%3A%22contact_info%22%7D%7D
+                      - img [ref=e691]
+                  - list "Contact info" [ref=e693]:
+                    - generic [ref=e695]:
+                      - img [ref=e697]
+                      - listitem [ref=e698]:
+                        - generic [ref=e699]: Hegawy Stores
+              - generic [ref=e703]:
+                - heading "Highlights" [level=2] [ref=e712]:
+                  - generic [ref=e714]: Highlights
+                - button "Add highlights" [ref=e718] [cursor=pointer]:
+                  - generic [ref=e721]: Add highlights
+              - generic [ref=e725]:
+                - generic [ref=e732]:
+                  - heading "Photos" [level=2] [ref=e734]:
+                    - link "Photos" [ref=e737] [cursor=pointer]:
+                      - /url: https://www.facebook.com/profile.php?id=61590727920658&sk=photos
+                  - link "See All Photos" [ref=e742] [cursor=pointer]:
+                    - /url: https://www.facebook.com/profile.php?id=61590727920658&sk=photos
+                    - generic [ref=e743]: See All Photos
+                - link [ref=e750] [cursor=pointer]:
+                  - /url: /photo/?fbid=122100413247357597&set=pb.61590727920658.-2207520000
+              - contentinfo "Facebook" [ref=e755]:
+                - list [ref=e757]:
+                  - listitem [ref=e758]:
+                    - link "Privacy" [ref=e759] [cursor=pointer]:
+                      - /url: /privacy/policy/?entry_point=comet_dropdown
+                    - generic [ref=e760]: ·
+                  - listitem [ref=e762]:
+                    - link "Terms" [ref=e763] [cursor=pointer]:
+                      - /url: /policies?ref=pf
+                    - generic [ref=e764]: ·
+                  - listitem [ref=e766]:
+                    - link "Advertising" [ref=e767] [cursor=pointer]:
+                      - /url: /business/
+                    - generic [ref=e768]: ·
+                  - listitem [ref=e770]:
+                    - link "Ad choices" [ref=e771] [cursor=pointer]:
+                      - /url: /help/568137493302217
+                      - text: Ad choices
+                      - img [ref=e773]
+                    - generic [ref=e776]: ·
+                  - listitem [ref=e778]:
+                    - link "Cookies" [ref=e779] [cursor=pointer]:
+                      - /url: /policies/cookies/
+                    - generic [ref=e780]: ·
+                  - listitem [ref=e782]:
+                    - button "More footer links" [ref=e783] [cursor=pointer]: More
+          - generic [ref=e784]:
+            - generic [ref=e789]:
+              - generic [ref=e790]:
+                - link "Hegawy Stores's timeline" [ref=e791] [cursor=pointer]:
+                  - /url: https://www.facebook.com/profile.php?id=61590727920658
+                  - img [ref=e794]
+                - button "What's on your mind?" [ref=e798] [cursor=pointer]:
+                  - generic [ref=e800]: What's on your mind?
+              - generic [ref=e801]:
+                - button "Live video" [ref=e802] [cursor=pointer]:
+                  - generic [ref=e806]: Live video
+                - button "Photo/video" [ref=e807] [cursor=pointer]:
+                  - generic [ref=e811]: Photo/video
+                - button "Reel" [ref=e812] [cursor=pointer]:
+                  - generic [ref=e816]: Reel
+            - generic [ref=e823]:
+              - generic [ref=e825]:
+                - heading "Featured" [level=2] [ref=e827]:
+                  - generic [ref=e828]: Featured
+                - generic [ref=e830]: People won't see this unless you pin something.
+              - button "Manage" [ref=e832] [cursor=pointer]:
+                - generic [ref=e835]: Manage
+            - generic [ref=e839]:
+              - generic [ref=e840]:
+                - heading "Posts" [level=2] [ref=e844]:
+                  - generic [ref=e845]: Posts
+                - generic [ref=e847]:
+                  - button "Filters" [ref=e849] [cursor=pointer]:
+                    - generic [ref=e850]:
+                      - img [ref=e851]
+                      - generic [ref=e854]: Filters
+                  - link "Manage posts" [ref=e857] [cursor=pointer]:
+                    - /url: /professional_dashboard/content/content_library/?ref=profile_manage_post_cta
+                    - generic [ref=e858]:
+                      - img [ref=e859]
+                      - generic [ref=e863]: Manage posts
+              - tablist [ref=e865]:
+                - tab "List view" [selected] [ref=e867] [cursor=pointer]:
+                  - generic [ref=e868]:
+                    - img [ref=e870]
+                    - generic [ref=e872]: List view
+                - tab "Grid view" [ref=e875] [cursor=pointer]:
+                  - generic [ref=e876]:
+                    - img [ref=e878]
+                    - generic [ref=e880]: Grid view
+            - generic [ref=e884]: No posts available

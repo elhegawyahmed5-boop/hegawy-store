@@ -1,0 +1,284 @@
+- generic [ref=e5]:
+  - banner:
+    - generic [ref=e6]:
+      - generic:
+        - generic:
+          - button [disabled]:
+            - img
+      - link "Facebook" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img [ref=e8]
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+      - generic [ref=e19]:
+        - generic:
+          - img
+        - combobox "Search Facebook" [ref=e20]
+    - navigation "Facebook" [ref=e24]:
+      - list [ref=e25]:
+        - listitem [ref=e26]:
+          - link "Home" [ref=e29] [cursor=pointer]:
+            - /url: /
+            - img [ref=e31]
+        - listitem [ref=e33]:
+          - link "Reels" [ref=e36] [cursor=pointer]:
+            - /url: /watch/?ref=tab
+            - img [ref=e38]
+        - listitem [ref=e41]:
+          - link "Groups" [ref=e44] [cursor=pointer]:
+            - /url: /groups/
+            - img [ref=e46]
+        - listitem [ref=e48]:
+          - link "Gaming" [ref=e51] [cursor=pointer]:
+            - /url: /gaming/play/?store_visit_source=gaming_tab
+            - img [ref=e53]
+    - navigation "Account controls and settings" [ref=e57]:
+      - button "Facebook menu" [ref=e61] [cursor=pointer]:
+        - img [ref=e62]
+      - generic [ref=e73]:
+        - button "Notifications, 1 unread" [ref=e74] [cursor=pointer]:
+          - img [ref=e75]
+        - button [ref=e77] [cursor=pointer]:
+          - generic [ref=e78]:
+            - generic [ref=e79]: Number of unread notifications
+            - generic [ref=e80]: "1"
+      - button "Your profile" [ref=e83] [cursor=pointer]:
+        - generic [ref=e84]:
+          - img "Your profile" [ref=e85]
+          - img [ref=e92]
+  - generic [ref=e99]:
+    - navigation "Navigation within Settings" [ref=e100]:
+      - generic [ref=e101]:
+        - heading "Settings & privacy" [active] [level=1] [ref=e109]
+        - generic [ref=e116]:
+          - generic:
+            - img
+          - combobox "Search settings" [ref=e117]
+        - generic [ref=e124]:
+          - heading "Settings & privacy" [level=2] [ref=e136]:
+            - generic [ref=e138]: Settings & privacy
+          - generic [ref=e142]:
+            - generic [ref=e149]:
+              - heading "Preferences" [level=2] [ref=e154]:
+                - generic [ref=e156]: Preferences
+              - generic [ref=e161]: Customise your experience on Facebook.
+            - link "Reaction preferences settings" [ref=e168] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=reaction_preferences
+              - generic [ref=e170]:
+                - img [ref=e172]
+                - generic [ref=e177]: Reaction preferences
+            - link "Notifications settings" [ref=e184] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=notifications
+              - generic [ref=e186]:
+                - img [ref=e188]
+                - generic [ref=e193]: Notifications
+            - link "Accessibility settings" [ref=e200] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=accessibility
+              - generic [ref=e202]:
+                - img [ref=e204]
+                - generic [ref=e209]: Accessibility
+            - link "Media settings" [ref=e216] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=videos
+              - generic [ref=e218]:
+                - img [ref=e220]
+                - generic [ref=e225]: Media
+            - link "Dark mode settings" [ref=e232] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=dark_mode_category
+              - generic [ref=e234]:
+                - img [ref=e236]
+                - generic [ref=e241]: Dark mode
+          - generic [ref=e243]:
+            - generic [ref=e250]:
+              - heading "Audience and visibility" [level=2] [ref=e255]:
+                - generic [ref=e257]: Audience and visibility
+              - generic [ref=e262]: Control who can see what you share on Facebook.
+            - link "Page details" [ref=e270] [cursor=pointer]:
+              - /url: https://www.facebook.com/me/about/
+              - generic [ref=e272]:
+                - img [ref=e274]
+                - generic [ref=e279]: Page details
+            - link "How people can find and contact you settings" [ref=e286] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=how_people_find_and_contact_you
+              - generic [ref=e288]:
+                - img [ref=e290]
+                - generic [ref=e295]: How people can find and contact you
+            - link "Posts settings" [ref=e302] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=posts
+              - generic [ref=e304]:
+                - img [ref=e306]
+                - generic [ref=e311]: Posts
+            - link "Stories settings" [ref=e318] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=stories
+              - generic [ref=e320]:
+                - img [ref=e322]
+                - generic [ref=e327]: Stories
+            - link "Page setup settings" [ref=e334] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=pages
+              - generic [ref=e336]:
+                - img [ref=e338]
+                - generic [ref=e343]: Page setup
+            - link "Reels settings" [ref=e350] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=reels
+              - generic [ref=e352]:
+                - img [ref=e354]
+                - generic [ref=e359]: Reels
+            - link "Followers and public content settings" [ref=e366] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=followers_and_public_content
+              - generic [ref=e368]:
+                - img [ref=e370]
+                - generic [ref=e375]: Followers and public content
+            - link "Page and Tagging settings" [ref=e382] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=profile_and_tagging
+              - generic [ref=e384]:
+                - img [ref=e386]
+                - generic [ref=e391]: Page and Tagging
+            - link "Blocking settings" [ref=e398] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=blocking
+              - generic [ref=e400]:
+                - img [ref=e402]
+                - generic [ref=e407]: Blocking
+          - generic [ref=e409]:
+            - generic [ref=e416]:
+              - heading "Payments" [level=2] [ref=e421]:
+                - generic [ref=e423]: Payments
+              - generic [ref=e428]: Manage your payment info and activity.
+            - link "Ads payments" [ref=e436] [cursor=pointer]:
+              - /url: https://www.facebook.com/billing_hub/payment_settings/?asset_id=986137084157765&placement=fb_payment_settings
+              - generic [ref=e438]:
+                - img [ref=e440]
+                - generic [ref=e445]: Ads payments
+          - generic [ref=e447]:
+            - generic [ref=e454]:
+              - heading "Permissions" [level=2] [ref=e459]:
+                - generic [ref=e461]: Permissions
+              - generic [ref=e466]: Manage what info Facebook uses to make your experience better, such as your interests and location.
+            - link "Linked accounts settings" [ref=e473] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=linked_profiles
+              - generic [ref=e475]:
+                - img [ref=e477]
+                - generic [ref=e482]: Linked accounts
+            - link "Off-Facebook activity" [ref=e490] [cursor=pointer]:
+              - /url: https://www.facebook.com/off_facebook_activity/
+              - generic [ref=e492]:
+                - img [ref=e494]
+                - generic [ref=e499]: Off-Facebook activity
+          - generic [ref=e501]:
+            - generic [ref=e508]:
+              - heading "Your information" [level=2] [ref=e513]:
+                - generic [ref=e515]: Your information
+              - generic [ref=e520]: Access a log of your activity and controls to manage your Facebook information.
+            - link "Activity log" [ref=e528] [cursor=pointer]:
+              - /url: https://www.facebook.com/61590727920658/allactivity/?category_key=ALL&entry_point=settings_yfi&should_load_landing_page=1
+              - generic [ref=e530]:
+                - img [ref=e532]
+                - generic [ref=e537]: Activity log
+            - link "Access and control" [ref=e545] [cursor=pointer]:
+              - /url: https://www.facebook.com/deactivate_delete_account/
+              - generic [ref=e547]:
+                - img [ref=e549]
+                - generic [ref=e554]: Access and control
+            - link "Download your information" [ref=e562] [cursor=pointer]:
+              - /url: https://www.facebook.com/dyi/?referrer=www_settings
+              - generic [ref=e564]:
+                - img [ref=e566]
+                - generic [ref=e571]: Download your information
+          - generic [ref=e573]:
+            - heading "Resources" [level=2] [ref=e585]:
+              - generic [ref=e587]: Resources
+            - link "Journalist resources" [ref=e597] [cursor=pointer]:
+              - /url: https://www.facebook.com/journalist_registration/
+              - generic [ref=e599]:
+                - img [ref=e601]
+                - generic [ref=e606]: Journalist resources
+          - generic [ref=e608]:
+            - heading "Community Standards and legal policies" [level=2] [ref=e620]:
+              - generic [ref=e622]: Community Standards and legal policies
+            - link "Terms of Service" [ref=e632] [cursor=pointer]:
+              - /url: https://www.facebook.com/policies_center/?ref=pf
+              - generic [ref=e634]:
+                - img [ref=e636]
+                - generic [ref=e641]: Terms of Service
+            - link "Privacy Policy" [ref=e649] [cursor=pointer]:
+              - /url: https://www.facebook.com/privacy/policy/?entry_point=facebook_settings
+              - generic [ref=e651]:
+                - img [ref=e653]
+                - generic [ref=e658]: Privacy Policy
+            - link "Cookies Policy" [ref=e666] [cursor=pointer]:
+              - /url: https://www.facebook.com/privacy/policies/cookies/?entry_point=facebook_settings
+              - generic [ref=e668]:
+                - img [ref=e670]
+                - generic [ref=e675]: Cookies Policy
+            - link "Community Standards" [ref=e683] [cursor=pointer]:
+              - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExbHRLdzN1N0NzbTBqQ0VOeXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6EtbCv2-MT_gisJOBV2_d4SuzW6-nm2grTm04yusmf9jYMh3vwCG5ctwZz8w_aem_naypdyWoSpE2Im6VWYMQvA&h=AUCDew512pY3xqyS6Zcjvrk-IPnBPgmNiWMW2I5Dfw-u7uCBM0U_gtKJlhaWKnyZN1A4XVsaF9tkbV6TEoTnTQytY132lxxFVS9Q_4g_GKiDQr3oioDra8CRbInIjyG-k5dIog
+              - generic [ref=e685]:
+                - img [ref=e687]
+                - generic [ref=e692]: Community Standards
+    - main "Settings" [ref=e693]:
+      - main [ref=e972]:
+        - generic [ref=e979]:
+          - heading "Connected Apps" [level=2] [ref=e984]:
+            - generic [ref=e986]: Connected Apps
+          - generic [ref=e989]: No apps are connected to your Page.
+        - generic [ref=e993]:
+          - generic [ref=e997]:
+            - heading "White-listed domains" [level=2] [ref=e1002]:
+              - generic [ref=e1004]: White-listed domains
+            - generic [ref=e1007]: Third-party domains that are accessible in the Messenger webview for use with the Messenger Extensions SDK and for Messenger plugins.
+          - generic [ref=e1010]:
+            - heading [level=2] [ref=e1020]
+            - generic [ref=e1025]:
+              - generic [ref=e1030]:
+                - generic: Add another domain
+                - textbox "Add another domain" [ref=e1031]
+              - button "Add domain to allowlisted domains" [ref=e1035] [cursor=pointer]:
+                - generic [ref=e1038]: Add
+        - generic [ref=e1041]:
+          - generic [ref=e1045]:
+            - heading "Requested features" [level=2] [ref=e1050]:
+              - generic [ref=e1052]: Requested features
+            - generic [ref=e1055]: These features require a review and approval by the Messenger team before use.
+          - generic [ref=e1056]:
+            - generic [ref=e1059]:
+              - generic [ref=e1061]:
+                - generic [ref=e1066]:
+                  - generic [ref=e1068]: One-time notification
+                  - generic [ref=e1070]: This allows your Page to send one message to people in Messenger that may fall outside of the 24-hour messaging window. Only people who have chosen to receive each one-time notification will receive one
+                - button "Edit One-time notification settings" [ref=e1072] [cursor=pointer]:
+                  - img [ref=e1073]
+              - generic [ref=e1076]:
+                - img [ref=e1078]
+                - generic [ref=e1083]:
+                  - generic [ref=e1085]: Gender
+                  - generic [ref=e1087]: The gender of people who message your Page
+                - button "Edit Gender settings" [ref=e1089] [cursor=pointer]:
+                  - img [ref=e1090]
+              - generic [ref=e1093]:
+                - img [ref=e1095]
+                - generic [ref=e1099]:
+                  - generic [ref=e1101]: Language locale
+                  - generic [ref=e1103]: The language locale of people who message your Page.
+                - button "Edit Language locale settings" [ref=e1105] [cursor=pointer]:
+                  - img [ref=e1106]
+              - generic [ref=e1109]:
+                - img [ref=e1111]
+                - generic [ref=e1115]:
+                  - generic [ref=e1117]: Time zone
+                  - generic [ref=e1119]: The time zone of people who message your Page.
+                - button "Edit Time zone settings" [ref=e1121] [cursor=pointer]:
+                  - img [ref=e1122]
+            - button "submit for review" [disabled] [ref=e1126]:
+              - generic [ref=e1129]: submit for review
+        - generic [ref=e1132]:
+          - heading "High-volume messages" [level=2] [ref=e1141]:
+            - generic [ref=e1143]: High-volume messages
+          - generic [ref=e1149]:
+            - generic [ref=e1152]:
+              - generic [ref=e1154]: Keep your access to Inbox
+              - generic [ref=e1156]: If your Page sends too many messages in Messenger in a short time period, or is constantly sending or receiving messages in a large number of conversations at the same time, your Page will lose access to Inbox. Your Page should then begin managing messages through the platform APIs.
+            - button "Learn more about high-volume messages and keeping access to Inbox" [ref=e1158] [cursor=pointer]:
+              - generic [ref=e1161]: Learn more

@@ -1,0 +1,22 @@
+[    4916ms] [ERROR] Not signed in with the identity provider. @ https://twitter.com/i/jf/onboarding/web?mode=signup:0
+[    4917ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with AbortError: signal is aborted without reason @ https://accounts.google.com/gsi/client:87
+[    4917ms] [ERROR] Not signed in with the identity provider. @ https://twitter.com/i/jf/onboarding/web?mode=signup:0
+[    5145ms] [WARNING] [GSI_LOGGER]: google.accounts.id.initialize() is called multiple times. This could cause unexpected behavior and only the last initialized instance will be used. @ https://accounts.google.com/gsi/client:86
+[    5239ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://twitter.com/i/jf/onboarding/web?mode=signup:0
+[    5239ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://twitter.com/i/jf/onboarding/web?mode=signup:0
+[    5343ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://accounts.google.com/gsi/client:87
+[ 2612319ms] [VERBOSE] [DOM] Password forms should have (optionally hidden) username fields for accessibility: (More info: https://goo.gl/9p2vKq) %o @ https://twitter.com/i/jf/onboarding/web#/s/reset_password/r-oe2p5:0
+[ 2711716ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://x.com/:0
+[ 2711798ms] [ERROR] Not signed in with the identity provider. @ https://x.com/:0
+[ 2711803ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with AbortError: signal is aborted without reason @ https://accounts.google.com/gsi/client:87
+[ 2711803ms] [ERROR] Not signed in with the identity provider. @ https://x.com/:0
+[ 2711828ms] [WARNING] [GSI_LOGGER]: google.accounts.id.initialize() is called multiple times. This could cause unexpected behavior and only the last initialized instance will be used. @ https://accounts.google.com/gsi/client:86
+[ 2716788ms] [ERROR] Failed to load resource: the server responded with a status of 503 () @ https://x.com/i/jfapi/onboarding/web/remotes/passkey_one_fa:0
+[ 2717543ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://accounts.google.com/gsi/client:87
+[ 2747152ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsettings%2Fprofile&mode=login:0
+[ 2747465ms] [WARNING] [GSI_LOGGER]: google.accounts.id.initialize() is called multiple times. This could cause unexpected behavior and only the last initialized instance will be used. @ https://accounts.google.com/gsi/client:86
+[ 2747469ms] [ERROR] Not signed in with the identity provider. @ https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsettings%2Fprofile&mode=login:0
+[ 2747472ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with AbortError: signal is aborted without reason @ https://accounts.google.com/gsi/client:87
+[ 2747472ms] [ERROR] Not signed in with the identity provider. @ https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsettings%2Fprofile&mode=login:0
+[ 2747744ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsettings%2Fprofile&mode=login:0
+[ 2749712ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://accounts.google.com/gsi/client:87

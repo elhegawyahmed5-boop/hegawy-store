@@ -1,0 +1,256 @@
+- generic [ref=e10]:
+  - navigation "Navigation within Settings" [ref=e11]:
+    - generic [ref=e12]:
+      - heading "Settings & privacy" [level=1] [ref=e20]
+      - generic [ref=e27]:
+        - generic:
+          - img
+        - combobox "Search settings" [ref=e28]
+      - generic [ref=e35]:
+        - heading "Settings & privacy" [level=2] [ref=e47]:
+          - generic [ref=e49]: Settings & privacy
+        - generic [ref=e53]:
+          - generic [ref=e60]:
+            - heading "Preferences" [level=2] [ref=e65]:
+              - generic [ref=e67]: Preferences
+            - generic [ref=e72]: Customise your experience on Facebook.
+          - link "Reaction preferences settings" [ref=e79] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=reaction_preferences
+            - generic [ref=e81]:
+              - img [ref=e83]
+              - generic [ref=e88]: Reaction preferences
+          - link "Notifications settings" [ref=e95] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=notifications
+            - generic [ref=e97]:
+              - img [ref=e99]
+              - generic [ref=e104]: Notifications
+          - link "Accessibility settings" [ref=e111] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=accessibility
+            - generic [ref=e113]:
+              - img [ref=e115]
+              - generic [ref=e120]: Accessibility
+          - link "Media settings" [ref=e127] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=videos
+            - generic [ref=e129]:
+              - img [ref=e131]
+              - generic [ref=e136]: Media
+          - link "Dark mode settings" [ref=e143] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=dark_mode_category
+            - generic [ref=e145]:
+              - img [ref=e147]
+              - generic [ref=e152]: Dark mode
+        - generic [ref=e154]:
+          - generic [ref=e161]:
+            - heading "Audience and visibility" [level=2] [ref=e166]:
+              - generic [ref=e168]: Audience and visibility
+            - generic [ref=e173]: Control who can see what you share on Facebook.
+          - link "Page details" [ref=e181] [cursor=pointer]:
+            - /url: https://www.facebook.com/me/about/
+            - generic [ref=e183]:
+              - img [ref=e185]
+              - generic [ref=e190]: Page details
+          - link "How people can find and contact you settings" [ref=e197] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=how_people_find_and_contact_you
+            - generic [ref=e199]:
+              - img [ref=e201]
+              - generic [ref=e206]: How people can find and contact you
+          - link "Posts settings" [ref=e213] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=posts
+            - generic [ref=e215]:
+              - img [ref=e217]
+              - generic [ref=e222]: Posts
+          - link "Stories settings" [ref=e229] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=stories
+            - generic [ref=e231]:
+              - img [ref=e233]
+              - generic [ref=e238]: Stories
+          - link "Page setup settings" [ref=e245] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=pages
+            - generic [ref=e247]:
+              - img [ref=e249]
+              - generic [ref=e254]: Page setup
+          - link "Reels settings" [ref=e261] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=reels
+            - generic [ref=e263]:
+              - img [ref=e265]
+              - generic [ref=e270]: Reels
+          - link "Followers and public content settings" [ref=e277] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=followers_and_public_content
+            - generic [ref=e279]:
+              - img [ref=e281]
+              - generic [ref=e286]: Followers and public content
+          - link "Page and Tagging settings" [ref=e293] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=profile_and_tagging
+            - generic [ref=e295]:
+              - img [ref=e297]
+              - generic [ref=e302]: Page and Tagging
+          - link "Blocking settings" [ref=e309] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=blocking
+            - generic [ref=e311]:
+              - img [ref=e313]
+              - generic [ref=e318]: Blocking
+        - generic [ref=e320]:
+          - generic [ref=e327]:
+            - heading "Payments" [level=2] [ref=e332]:
+              - generic [ref=e334]: Payments
+            - generic [ref=e339]: Manage your payment info and activity.
+          - link "Ads payments" [ref=e347] [cursor=pointer]:
+            - /url: https://www.facebook.com/billing_hub/payment_settings/?asset_id=986137084157765&placement=fb_payment_settings
+            - generic [ref=e349]:
+              - img [ref=e351]
+              - generic [ref=e356]: Ads payments
+        - generic [ref=e358]:
+          - generic [ref=e365]:
+            - heading "Permissions" [level=2] [ref=e370]:
+              - generic [ref=e372]: Permissions
+            - generic [ref=e377]: Manage what info Facebook uses to make your experience better, such as your interests and location.
+          - link "Linked accounts settings" [ref=e384] [cursor=pointer]:
+            - /url: https://www.facebook.com/settings/?tab=linked_profiles
+            - generic [ref=e386]:
+              - img [ref=e388]
+              - generic [ref=e393]: Linked accounts
+          - link "Off-Facebook activity" [ref=e401] [cursor=pointer]:
+            - /url: https://www.facebook.com/off_facebook_activity/
+            - generic [ref=e403]:
+              - img [ref=e405]
+              - generic [ref=e410]: Off-Facebook activity
+        - generic [ref=e412]:
+          - generic [ref=e419]:
+            - heading "Your information" [level=2] [ref=e424]:
+              - generic [ref=e426]: Your information
+            - generic [ref=e431]: Access a log of your activity and controls to manage your Facebook information.
+          - link "Activity log" [ref=e439] [cursor=pointer]:
+            - /url: https://www.facebook.com/61590727920658/allactivity/?category_key=ALL&entry_point=settings_yfi&should_load_landing_page=1
+            - generic [ref=e441]:
+              - img [ref=e443]
+              - generic [ref=e448]: Activity log
+          - link "Access and control" [ref=e456] [cursor=pointer]:
+            - /url: https://www.facebook.com/deactivate_delete_account/
+            - generic [ref=e458]:
+              - img [ref=e460]
+              - generic [ref=e465]: Access and control
+          - link "Download your information" [ref=e473] [cursor=pointer]:
+            - /url: https://www.facebook.com/dyi/?referrer=www_settings
+            - generic [ref=e475]:
+              - img [ref=e477]
+              - generic [ref=e482]: Download your information
+        - generic [ref=e484]:
+          - heading "Resources" [level=2] [ref=e496]:
+            - generic [ref=e498]: Resources
+          - link "Journalist resources" [ref=e508] [cursor=pointer]:
+            - /url: https://www.facebook.com/journalist_registration/
+            - generic [ref=e510]:
+              - img [ref=e512]
+              - generic [ref=e517]: Journalist resources
+        - generic [ref=e519]:
+          - heading "Community Standards and legal policies" [level=2] [ref=e531]:
+            - generic [ref=e533]: Community Standards and legal policies
+          - link "Terms of Service" [ref=e543] [cursor=pointer]:
+            - /url: https://www.facebook.com/policies_center/?ref=pf
+            - generic [ref=e545]:
+              - img [ref=e547]
+              - generic [ref=e552]: Terms of Service
+          - link "Privacy Policy" [ref=e560] [cursor=pointer]:
+            - /url: https://www.facebook.com/privacy/policy/?entry_point=facebook_settings
+            - generic [ref=e562]:
+              - img [ref=e564]
+              - generic [ref=e569]: Privacy Policy
+          - link "Cookies Policy" [ref=e577] [cursor=pointer]:
+            - /url: https://www.facebook.com/privacy/policies/cookies/?entry_point=facebook_settings
+            - generic [ref=e579]:
+              - img [ref=e581]
+              - generic [ref=e586]: Cookies Policy
+          - link "Community Standards" [ref=e594] [cursor=pointer]:
+            - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExbHRLdzN1N0NzbTBqQ0VOeXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR59TR6D81gqM_xnwnhQfOosnyQ0F2q9-q1Juii7Ffi9lFNdCtaW1aDsfr8hBA_aem_-_qLnY3aghDTZG0DhLI9Gw&h=AUAKcV3Lp66aiT4pT6VUy-dLYn9U_CMJO49s5c3P-0mdDzB0prgGsp6do01B_4rLLCzyta6z1urgh-dG9W7QInEVTx5l1a-Z6Y4zSDyPHBUPivxVGE9FHWAO4eV1uIWr3boWhQ
+            - generic [ref=e596]:
+              - img [ref=e598]
+              - generic [ref=e603]: Community Standards
+  - main "Settings" [ref=e604]:
+    - generic [ref=e608]:
+      - generic [ref=e612]:
+        - heading "Notifications settings" [level=2] [ref=e617]:
+          - generic [ref=e619]: Notifications settings
+        - generic [ref=e622]: Facebook may still send you important notifications about your account and content outside of your preferred notification settings.
+      - generic [ref=e624]:
+        - heading "What notifications you receive" [level=3] [ref=e638]:
+          - generic [ref=e640]: What notifications you receive
+        - generic [ref=e643]:
+          - button "Tags notification settings" [ref=e650] [cursor=pointer]:
+            - generic [ref=e652]:
+              - generic [ref=e657]:
+                - heading "Tags" [level=3] [ref=e660]
+                - generic [ref=e662]: In-app only
+              - img [ref=e664]
+          - button "Reminders notification settings" [ref=e672] [cursor=pointer]:
+            - generic [ref=e674]:
+              - generic [ref=e679]:
+                - heading "Reminders" [level=3] [ref=e682]
+                - generic [ref=e684]: In-app only
+              - img [ref=e686]
+          - button "More activity about your Page notification settings" [ref=e694] [cursor=pointer]:
+            - generic [ref=e696]:
+              - generic [ref=e701]:
+                - heading "More activity about your Page" [level=3] [ref=e704]
+                - generic [ref=e706]: In-app only
+              - img [ref=e708]
+          - button "Groups notification settings" [ref=e716] [cursor=pointer]:
+            - generic [ref=e718]:
+              - generic [ref=e723]:
+                - heading "Groups" [level=3] [ref=e726]
+                - generic [ref=e728]: In-app only
+              - img [ref=e730]
+          - button "Reels notification settings" [ref=e738] [cursor=pointer]:
+            - generic [ref=e740]:
+              - generic [ref=e745]:
+                - heading "Reels" [level=3] [ref=e748]
+                - generic [ref=e750]: In-app only
+              - img [ref=e752]
+          - button "Events notification settings" [ref=e760] [cursor=pointer]:
+            - generic [ref=e762]:
+              - generic [ref=e767]:
+                - heading "Events" [level=3] [ref=e770]
+                - generic [ref=e772]: In-app only
+              - img [ref=e774]
+          - button "Pages that your Page follows notification settings" [ref=e782] [cursor=pointer]:
+            - generic [ref=e784]:
+              - generic [ref=e789]:
+                - heading "Pages that your Page follows" [level=3] [ref=e792]
+                - generic [ref=e794]: In-app only
+              - img [ref=e796]
+          - button "Fundraisers and crises notification settings" [ref=e804] [cursor=pointer]:
+            - generic [ref=e806]:
+              - generic [ref=e811]:
+                - heading "Fundraisers and crises" [level=3] [ref=e814]
+                - generic [ref=e816]: In-app only
+              - img [ref=e818]
+          - button "Voting reminders notification settings" [ref=e826] [cursor=pointer]:
+            - generic [ref=e828]:
+              - generic [ref=e833]:
+                - heading "Voting reminders" [level=3] [ref=e836]
+                - generic [ref=e838]: In-app only
+              - img [ref=e840]
+          - button "Messaging notification settings" [ref=e848] [cursor=pointer]:
+            - generic [ref=e850]:
+              - generic [ref=e855]:
+                - heading "Messaging" [level=3] [ref=e858]
+                - generic [ref=e860]: In-app only
+              - img [ref=e862]
+          - button "Memories notification settings" [ref=e870] [cursor=pointer]:
+            - generic [ref=e872]:
+              - generic [ref=e877]:
+                - heading "Memories" [level=3] [ref=e880]
+                - generic [ref=e882]: In-app only
+              - img [ref=e884]
+          - button "Other notifications notification settings" [ref=e892] [cursor=pointer]:
+            - generic [ref=e894]:
+              - generic [ref=e899]:
+                - heading "Other notifications" [level=3] [ref=e902]
+                - generic [ref=e904]: In-app only
+              - img [ref=e906]
+      - generic [ref=e909]:
+        - heading "Where you receive notifications" [level=3] [ref=e923]:
+          - generic [ref=e925]: Where you receive notifications
+        - button "Browser notification settings" [ref=e935] [cursor=pointer]:
+          - generic [ref=e937]:
+            - heading "Browser" [level=3] [ref=e945]
+            - img [ref=e947]

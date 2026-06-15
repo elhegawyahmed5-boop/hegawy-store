@@ -1,0 +1,390 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - button [ref=e19] [cursor=pointer]:
+              - generic [ref=e25]:
+                - generic:
+                  - img
+                - img [ref=e27]
+            - generic [ref=e30]:
+              - generic [ref=e37]:
+                - generic [ref=e44]:
+                  - text: Make a strong first impression with new audiences by adding a cover photo.
+                  - link [ref=e45] [cursor=pointer]:
+                    - /url: "#"
+                    - text: See how to choose the best cover photo
+                  - text: .
+                - button [ref=e51] [cursor=pointer]:
+                  - generic [ref=e54]:
+                    - img [ref=e56]
+                    - generic [ref=e59]: Add Cover Photo
+                    - img [ref=e60]
+              - generic [ref=e62]:
+                - generic [ref=e63]:
+                  - generic [ref=e65]:
+                    - link [ref=e69] [cursor=pointer]:
+                      - /url: "#"
+                      - img [ref=e74]
+                    - img [ref=e82]
+                  - generic [ref=e85]:
+                    - heading [level=1] [ref=e87]: Hegawy Stores
+                    - generic [ref=e89]:
+                      - generic [ref=e94]:
+                        - img [ref=e96]
+                        - generic [ref=e97]: Hegawy Stores
+                      - link [ref=e99] [cursor=pointer]:
+                        - /url: "#"
+                        - text: Connect Instagram
+                - button [ref=e102] [cursor=pointer]:
+                  - generic [ref=e105]:
+                    - generic [ref=e107]:
+                      - generic [ref=e108]: Facebook followers
+                      - generic [ref=e109]:
+                        - img [ref=e110]
+                        - generic [ref=e111]: "0"
+                    - img [ref=e113]
+          - generic [ref=e123]:
+            - button [ref=e125] [cursor=pointer]:
+              - generic [ref=e130]: Create Post
+            - button [ref=e132] [cursor=pointer]:
+              - generic [ref=e137]: Create ad
+            - button [ref=e139] [cursor=pointer]:
+              - generic [ref=e144]: Create Reel
+            - button [ref=e146] [cursor=pointer]:
+              - generic [ref=e151]: Create Story
+            - button [ref=e152] [cursor=pointer]:
+              - generic [ref=e155]:
+                - generic [ref=e156]: More
+                - img [ref=e157]
+          - generic [ref=e168]:
+            - generic [ref=e181]:
+              - generic [ref=e183]:
+                - heading [level=2] [ref=e186]: Get familiar with Meta Business Suite
+                - button [ref=e188] [cursor=pointer]:
+                  - generic [ref=e190]:
+                    - generic [ref=e191]: Close
+                    - img [ref=e193]
+              - generic [ref=e196]:
+                - generic [ref=e198]:
+                  - generic [ref=e200]:
+                    - img [ref=e202]
+                    - generic [ref=e205]:
+                      - heading [level=4] [ref=e206]: Steps to get started
+                      - generic [ref=e207]: 0 of 4 steps completed
+                  - button [ref=e208] [cursor=pointer]:
+                    - generic [ref=e212]: See All Steps
+                - generic [ref=e213]:
+                  - generic:
+                    - button [disabled]:
+                      - img
+                  - generic [ref=e216]:
+                    - button [ref=e223] [cursor=pointer]:
+                      - generic [ref=e225]:
+                        - generic [ref=e229]:
+                          - generic [ref=e231]: Incomplete
+                          - status [ref=e232]: indicates a recommended onboarding action as incomplete
+                        - heading [level=4] [ref=e234]: Connect an Instagram profile
+                        - generic [ref=e235]: Manage everything in one place by connecting your professional Instagram profile.
+                    - button [ref=e241] [cursor=pointer]:
+                      - generic [ref=e243]:
+                        - generic [ref=e247]:
+                          - generic [ref=e249]: Incomplete
+                          - status [ref=e250]: indicates a recommended onboarding action as incomplete
+                        - heading [level=4] [ref=e252]: Create a post
+                        - generic [ref=e253]: Share updates about your business on both Facebook and Instagram.
+                    - button [ref=e259] [cursor=pointer]:
+                      - generic [ref=e261]:
+                        - generic [ref=e265]:
+                          - generic [ref=e267]: Incomplete
+                          - status [ref=e268]: indicates a recommended onboarding action as incomplete
+                        - heading [level=4] [ref=e270]: Reply to messages
+                        - generic [ref=e271]: Save time by replying to all messages in one place.
+                    - button [ref=e277] [cursor=pointer]:
+                      - generic [ref=e279]:
+                        - generic [ref=e283]:
+                          - generic [ref=e285]: Incomplete
+                          - status [ref=e286]: indicates a recommended onboarding action as incomplete
+                        - heading [level=4] [ref=e288]: Grow your audience
+                        - generic [ref=e289]: This will allow Meta Business Suite to access your personal friends list.
+                  - button [ref=e291] [cursor=pointer]:
+                    - img [ref=e292]
+            - generic [ref=e308]:
+              - heading [level=1] [ref=e310]: To-do list
+              - generic [ref=e311]: Check unread messages, comments and other things that may require your attention.
+            - generic [ref=e326]: You're up to date on your to-do list.
+            - generic [ref=e348]:
+              - generic [ref=e350]:
+                - generic [ref=e353]:
+                  - generic [ref=e355]:
+                    - generic [ref=e356]:
+                      - heading [level=3] [ref=e357]: Weekly plan
+                      - img [ref=e362]
+                      - generic [ref=e365]:
+                        - generic [ref=e366]:
+                          - img [ref=e368]
+                          - generic [ref=e371]: 3 days left
+                        - status [ref=e372]: 3 days left
+                    - generic [ref=e373]: Set your business up for success by completing recommended tasks.
+                  - button [ref=e375] [cursor=pointer]:
+                    - generic [ref=e378]:
+                      - img [ref=e379]
+                      - generic [ref=e382]: See full plan
+                - generic [ref=e383]:
+                  - heading [level=3] [ref=e385]: Complete at least 4 tasks to finish this plan.
+                  - generic [ref=e386]:
+                    - progressbar [ref=e387]
+                    - generic [ref=e391]:
+                      - generic [ref=e393]: Weekly goal
+                      - status [ref=e394]: Weekly goal
+                  - generic [ref=e396]: 0 of 6 tasks completed
+              - generic [ref=e399]:
+                - button [ref=e403] [cursor=pointer]:
+                  - generic [ref=e411]:
+                    - generic [ref=e413]: Create an ad account
+                    - generic [ref=e415]: 0 / 1
+                - button [ref=e419] [cursor=pointer]:
+                  - generic [ref=e427]:
+                    - generic [ref=e429]: Publish one post on Facebook
+                    - generic [ref=e431]: 0 / 1
+                - button [ref=e435] [cursor=pointer]:
+                  - generic [ref=e443]:
+                    - generic [ref=e445]: Publish one story on Facebook
+                    - generic [ref=e447]: 0 / 1
+            - generic [ref=e460]:
+              - heading [level=2] [ref=e465]: Grow your audience
+              - generic [ref=e469]:
+                - generic [ref=e470]:
+                  - img [ref=e475]
+                  - heading [level=4] [ref=e479]: Spend less time growing your followers with auto-invite
+                - generic [ref=e482]:
+                  - text: Join the waitlist to automatically turn people who engage with your content into Page followers.
+                  - button [ref=e484] [cursor=pointer]:
+                    - generic [ref=e488]: Join the waiting list
+            - progressbar [ref=e491]
+        - button [ref=e515] [cursor=pointer]:
+          - generic [ref=e519]:
+            - img [ref=e521]
+            - generic [ref=e524]:
+              - heading [level=4] [ref=e525]: Get started on Meta Business Suite
+              - generic [ref=e526]: 0 of 4 steps completed
+      - generic [ref=e532]:
+        - generic [ref=e534]:
+          - button [ref=e535] [cursor=pointer]:
+            - generic [ref=e537]: Meta Business Suite
+          - combobox [ref=e549] [cursor=pointer]:
+            - generic [ref=e557]:
+              - generic [ref=e558]:
+                - img [ref=e562]
+                - generic [ref=e564]: Hegawy Stores
+              - img [ref=e565]
+        - navigation [ref=e571]:
+          - generic [ref=e572]: Links
+          - list [ref=e573]:
+            - generic [ref=e574]:
+              - listitem [ref=e578]:
+                - generic [ref=e580]:
+                  - link [ref=e581] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/home?asset_id=1077200972154010
+                    - generic [ref=e582]: Home
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Home
+              - listitem [ref=e586]:
+                - generic [ref=e588]:
+                  - link [ref=e589] [cursor=pointer]:
+                    - generic [ref=e590]: Notifications
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Notifications
+              - listitem [ref=e595]:
+                - generic [ref=e597]:
+                  - link [ref=e598] [cursor=pointer]:
+                    - generic [ref=e599]: Ads Manager
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Ads Manager
+              - listitem [ref=e603]:
+                - generic [ref=e605]:
+                  - link [ref=e606] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/inbox?asset_id=1077200972154010
+                    - generic [ref=e607]: Inbox
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Inbox
+              - listitem [ref=e612]:
+                - generic [ref=e614]:
+                  - link [ref=e615] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/posts?asset_id=1077200972154010
+                    - generic [ref=e616]: Content
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Content
+              - listitem [ref=e620]:
+                - generic [ref=e622]:
+                  - link [ref=e623] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/creator_marketplace?asset_id=1077200972154010&cm_entrypoint=biz_kit_nav_route_item
+                    - generic [ref=e624]: Creator marketplace
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Creator marketplace
+              - listitem [ref=e628]:
+                - generic [ref=e630]:
+                  - link [ref=e631] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/content_calendar?asset_id=1077200972154010
+                    - generic [ref=e632]: Planner
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Planner
+              - listitem [ref=e637]:
+                - generic [ref=e639]:
+                  - link [ref=e640] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/ad_center/ads_summary?asset_id=1077200972154010
+                    - generic [ref=e641]: Ads
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Ads
+              - listitem [ref=e646]:
+                - generic [ref=e648]:
+                  - link [ref=e649] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/insights?asset_id=1077200972154010
+                    - generic [ref=e650]: Insights
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Insights
+              - listitem [ref=e654]:
+                - generic [ref=e656]:
+                  - link [ref=e657] [cursor=pointer]:
+                    - generic [ref=e658]: All tools
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: All tools
+              - generic [ref=e661]:
+                - generic [ref=e662]:
+                  - separator [ref=e664]
+                  - generic [ref=e665]: Frequently used
+                  - separator [ref=e667]
+                  - button [ref=e668] [cursor=pointer]:
+                    - generic [ref=e670]:
+                      - generic [ref=e671]: Collapse file list
+                      - img [ref=e673]
+                - listitem [ref=e678]:
+                  - generic [ref=e680]:
+                    - link [ref=e681] [cursor=pointer]:
+                      - /url: https://business.facebook.com/billing_hub/payment_settings/?placement=bizapp_ad_center
+                      - generic [ref=e682]: Billing & payments
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Billing & payments
+                - listitem [ref=e685]:
+                  - generic [ref=e687]:
+                    - link [ref=e688] [cursor=pointer]:
+                      - /url: https://business.facebook.com/ads/manager/audiences/?nav_source=business_manager
+                      - generic [ref=e689]: Audiences
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Audiences
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+                - listitem [ref=e692]:
+                  - generic [ref=e694]:
+                    - link [ref=e695] [cursor=pointer]:
+                      - /url: https://business.facebook.com/events_manager2/?nav_source=biz_nav
+                      - generic [ref=e696]: Events Manager
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Events Manager
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+              - button [ref=e699] [cursor=pointer]:
+                - generic [ref=e703]: Edit
+        - generic [ref=e707]:
+          - listitem [ref=e710]:
+            - generic [ref=e712]:
+              - link [ref=e713] [cursor=pointer]:
+                - generic [ref=e714]: Search
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Search
+              - generic:
+                - generic:
+                  - img
+          - navigation [ref=e715]:
+            - generic [ref=e716]: Links
+            - list [ref=e717]:
+              - listitem [ref=e721]:
+                - generic [ref=e723]:
+                  - link [ref=e724] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/get_started?asset_id=1077200972154010
+                    - generic [ref=e725]: Get Started
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Get Started
+              - listitem [ref=e729]:
+                - generic [ref=e731]:
+                  - link [ref=e732] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/settings/profiles?asset_id=1077200972154010
+                    - generic [ref=e733]: Settings
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Settings
+          - listitem [ref=e740]:
+            - generic [ref=e742]:
+              - link [ref=e743] [cursor=pointer]:
+                - generic [ref=e744]: Help
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Help
+              - generic:
+                - generic:
+                  - img
+    - dialog [ref=e747]:
+      - generic [ref=e748]:
+        - generic [ref=e751]:
+          - generic [ref=e752]:
+            - heading [level=3] [ref=e755]: Your top tools are now in the main menu
+            - text: For quicker access and navigation, you can now find your most frequently used tools in the main menu.
+          - button [ref=e757] [cursor=pointer]:
+            - generic [ref=e759]:
+              - generic [ref=e760]: Close
+              - img [ref=e762]
+        - button [ref=e767] [cursor=pointer]:
+          - generic [ref=e771]: Got it
+    - dialog [ref=e774]:
+      - generic [ref=e775]:
+        - generic [ref=e782]:
+          - generic [ref=e783]:
+            - heading [level=3] [ref=e784]: Switch between your user profiles
+            - text: View the profile that you're currently logged in to, or easily save and switch between the others that you use on business tools.
+          - button [ref=e786] [cursor=pointer]:
+            - generic [ref=e788]:
+              - generic [ref=e789]: Close
+              - img [ref=e791]
+        - button [ref=e796] [cursor=pointer]:
+          - generic [ref=e800]: Done
+  - alertdialog "Push notifications request" [ref=e806]:
+    - generic [ref=e807]: To allow or block browser notifications from Facebook, go to your browser settings.
+    - button "Close" [active] [ref=e808]

@@ -1,0 +1,300 @@
+- generic [ref=e5]:
+  - banner:
+    - generic [ref=e6]:
+      - generic:
+        - generic:
+          - button [disabled]:
+            - img
+      - link "Facebook" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img [ref=e8]
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+      - generic [ref=e19]:
+        - generic:
+          - img
+        - combobox "Search Facebook" [ref=e20]
+    - navigation "Facebook" [ref=e24]:
+      - list [ref=e25]:
+        - listitem [ref=e26]:
+          - link "Home" [ref=e29] [cursor=pointer]:
+            - /url: /
+            - img [ref=e31]
+        - listitem [ref=e33]:
+          - link "Reels" [ref=e36] [cursor=pointer]:
+            - /url: /reel/?s=tab
+            - img [ref=e38]
+        - listitem [ref=e41]:
+          - link "Pages" [ref=e44] [cursor=pointer]:
+            - /url: /pages/?category=your_pages&ref=bookmarks
+            - img [ref=e46]
+        - listitem [ref=e48]:
+          - link "Professional dashboard" [ref=e52] [cursor=pointer]:
+            - /url: /professional_dashboard/?ref=tab_bar
+            - img [ref=e54]
+        - listitem [ref=e56]:
+          - link "Ad Centre" [ref=e59] [cursor=pointer]:
+            - /url: /61590727920658/ad_center/
+            - img [ref=e61]
+    - navigation "Account controls and settings" [ref=e64]:
+      - button "Facebook menu" [ref=e68] [cursor=pointer]:
+        - img [ref=e69]
+      - link "Messenger" [ref=e72] [cursor=pointer]:
+        - /url: https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=1077200972154010
+        - link "Messenger" [ref=e74]:
+          - /url: https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=1077200972154010
+          - img [ref=e75]
+      - generic [ref=e80]:
+        - button "Notifications, 1 unread" [ref=e81] [cursor=pointer]:
+          - img [ref=e82]
+        - button [ref=e84] [cursor=pointer]:
+          - generic [ref=e85]:
+            - generic [ref=e86]: Number of unread notifications
+            - generic [ref=e87]: "1"
+      - button "Your profile" [ref=e90] [cursor=pointer]:
+        - generic [ref=e91]:
+          - img "Your profile" [ref=e92]
+          - img [ref=e99]
+  - generic [ref=e106]:
+    - navigation [ref=e107]:
+      - generic [ref=e108]:
+        - heading "Professional dashboard" [level=1] [ref=e116]
+        - list [ref=e120]:
+          - listitem [ref=e121]:
+            - link "Home" [ref=e126] [cursor=pointer]:
+              - /url: https://www.facebook.com/professional_dashboard/?ref=profile_plus_left_nav
+              - generic [ref=e136]: Home
+          - listitem [ref=e137]:
+            - link "Insights" [ref=e142] [cursor=pointer]:
+              - /url: https://www.facebook.com/professional_dashboard/profile_insights/views/?ref=profile_plus_left_nav
+              - generic [ref=e144]:
+                - generic [ref=e152]: Insights
+                - button "Expand" [ref=e154]
+          - listitem [ref=e156]:
+            - link "Content" [ref=e161] [cursor=pointer]:
+              - /url: https://www.facebook.com/professional_dashboard/content/content_library/?ref=profile_plus_left_nav
+              - generic [ref=e163]:
+                - generic [ref=e171]: Content
+                - button "Expand" [ref=e173]
+          - listitem [ref=e175]:
+            - link "Monetisation" [ref=e180] [cursor=pointer]:
+              - /url: https://www.facebook.com/professional_dashboard/monetization/?ref=profile_plus_left_nav
+              - generic [ref=e182]:
+                - generic [ref=e190]: Monetisation
+                - button "Expand" [ref=e192]
+          - listitem [ref=e194]:
+            - link "Engagement" [ref=e199] [cursor=pointer]:
+              - /url: https://www.facebook.com/professional_dashboard/engagement/comments_manager/?ref=profile_plus_left_nav
+              - generic [ref=e201]:
+                - img [ref=e204]
+                - generic [ref=e210]: Engagement
+                - button "Expand" [ref=e212]
+          - listitem [ref=e214]:
+            - link "All tools" [ref=e219] [cursor=pointer]:
+              - /url: https://www.facebook.com/professional_dashboard/tools/?ref=profile_plus_left_nav
+              - generic [ref=e229]: All tools
+        - button "Create a post" [ref=e232] [cursor=pointer]:
+          - generic [ref=e233]:
+            - generic [ref=e235]: Create a post
+            - img [ref=e236]
+    - main [ref=e238]:
+      - main [ref=e241]:
+        - main [ref=e247]:
+          - generic [ref=e250]:
+            - generic [ref=e252]:
+              - generic [ref=e257]:
+                - generic [ref=e259]:
+                  - generic [ref=e260]:
+                    - heading "Insights" [level=2] [ref=e263]:
+                      - generic [ref=e264]: Insights
+                    - heading "Learn how your Page is performing." [level=2] [ref=e267]:
+                      - generic [ref=e268]: Learn how your Page is performing.
+                  - 'button "Last 28 days: 13 May-9 Jun" [ref=e270] [cursor=pointer]':
+                    - generic [ref=e271]:
+                      - generic [ref=e273]: "Last 28 days: 13 May-9 Jun"
+                      - img [ref=e274]
+                  - link "See all" [ref=e277] [cursor=pointer]:
+                    - /url: /professional_dashboard/profile_insights/views/?date_range=LAST_28D&ref=profile_plus_left_nav
+                    - generic [ref=e278]: See all
+                - generic [ref=e281]:
+                  - generic:
+                    - button [disabled]:
+                      - img
+                  - generic [ref=e284]:
+                    - button "0 0% Views More info about Views" [ref=e287] [cursor=pointer]:
+                      - generic [ref=e289]:
+                        - img [ref=e291]
+                        - generic [ref=e296]:
+                          - generic [ref=e298]:
+                            - generic [ref=e300]: "0"
+                            - generic [ref=e303]:
+                              - img [ref=e306]
+                              - text: 0%
+                          - generic [ref=e309]:
+                            - generic [ref=e311]: Views
+                            - button "More info about Views" [ref=e314]:
+                              - img [ref=e315]
+                    - button "0 0% Engagement More info about Engagement" [ref=e318] [cursor=pointer]:
+                      - generic [ref=e320]:
+                        - img [ref=e322]
+                        - generic [ref=e327]:
+                          - generic [ref=e329]:
+                            - generic [ref=e331]: "0"
+                            - generic [ref=e334]:
+                              - img [ref=e337]
+                              - text: 0%
+                          - generic [ref=e340]:
+                            - generic [ref=e342]: Engagement
+                            - button "More info about Engagement" [ref=e345]:
+                              - img [ref=e346]
+                    - button "0 0% Net follows More info about Net follows" [ref=e349] [cursor=pointer]:
+                      - generic [ref=e351]:
+                        - img [ref=e353]
+                        - generic [ref=e357]:
+                          - generic [ref=e359]:
+                            - generic [ref=e361]: "0"
+                            - generic [ref=e364]:
+                              - img [ref=e367]
+                              - text: 0%
+                          - generic [ref=e370]:
+                            - generic [ref=e372]: Net follows
+                            - button "More info about Net follows" [ref=e375]:
+                              - img [ref=e376]
+                  - generic:
+                    - button [disabled]:
+                      - img
+                - img [ref=e379]:
+                  - img [ref=e382]:
+                    - generic [ref=e383]:
+                      - generic [ref=e386]: 13 May
+                      - generic [ref=e388]: 18 May
+                      - generic [ref=e390]: 23 May
+                      - generic [ref=e392]: 28 May
+                      - generic [ref=e394]: 2 Jun
+                      - generic [ref=e396]: 7 Jun
+              - generic [ref=e459]:
+                - generic [ref=e460]:
+                  - generic [ref=e461]:
+                    - heading "Content" [level=2] [ref=e463]:
+                      - generic [ref=e464]: Content
+                    - link "See all" [ref=e466] [cursor=pointer]:
+                      - /url: https://www.facebook.com/professional_dashboard/content/content_library/?ref=profile_plus_left_nav
+                      - generic [ref=e467]: See all
+                  - heading "Access your published and scheduled posts and create new content all in one place." [level=2] [ref=e470]:
+                    - generic [ref=e471]: Access your published and scheduled posts and create new content all in one place.
+                - generic [ref=e473]:
+                  - img [ref=e475]
+                  - generic [ref=e483]:
+                    - heading "You don't have any content yet" [level=2] [ref=e485]:
+                      - generic [ref=e486]: You don't have any content yet
+                    - generic [ref=e488]: Start creating to add content to your library.
+                  - button "Create" [ref=e490] [cursor=pointer]:
+                    - generic [ref=e491]:
+                      - img [ref=e492]
+                      - generic [ref=e496]: Create
+                      - img [ref=e497]
+              - generic [ref=e504]:
+                - generic [ref=e505]:
+                  - heading "Monetisation" [level=2] [ref=e507]:
+                    - generic [ref=e508]: Monetisation
+                  - link "See all" [ref=e510] [cursor=pointer]:
+                    - /url: https://www.facebook.com/professional_dashboard/monetization/?ref=profile_plus_left_nav
+                    - generic [ref=e511]: See all
+                - heading "Find new programmes to make money." [level=2] [ref=e514]:
+                  - generic [ref=e515]: Find new programmes to make money.
+              - generic [ref=e522]:
+                - status "Loading..." [ref=e523]
+                - status "Loading..." [ref=e524]
+            - generic [ref=e526]:
+              - generic [ref=e531]:
+                - heading "Page status" [level=2] [ref=e535]:
+                  - generic [ref=e536]: Page status
+                - generic [ref=e538]:
+                  - link "Hegawy Stores Page has no issues. Learn more about your profile status" [ref=e539] [cursor=pointer]:
+                    - /url: /profile_status/
+                    - generic [ref=e541]:
+                      - generic [ref=e543]:
+                        - img [ref=e544]
+                        - img [ref=e551]
+                      - generic [ref=e555]:
+                        - generic [ref=e557]: Hegawy Stores
+                        - generic [ref=e560]:
+                          - text: Page has no issues.
+                          - link "Learn more about your profile status" [ref=e563]:
+                            - /url: /profile_status/
+                            - text: Learn more
+                  - generic [ref=e564]:
+                    - button "Your Page tools" [expanded] [ref=e568] [cursor=pointer]:
+                      - generic [ref=e570]:
+                        - generic [ref=e575]: Your Page tools
+                        - img [ref=e577]
+                    - region "Your Page tools" [ref=e579]:
+                      - generic [ref=e580]:
+                        - link "Page access Invite people to help manage your Page and control who can access it." [ref=e584] [cursor=pointer]:
+                          - /url: https://www.facebook.com/settings/?tab=profile_access
+                          - generic [ref=e591]:
+                            - generic [ref=e593]: Page access
+                            - generic [ref=e595]: Invite people to help manage your Page and control who can access it.
+                        - link "Linked accounts Engage with your community across WhatsApp, Instagram and Facebook" [ref=e599] [cursor=pointer]:
+                          - /url: https://www.facebook.com/settings/?tab=linked_profiles
+                          - generic [ref=e606]:
+                            - generic [ref=e608]: Linked accounts
+                            - generic [ref=e610]: Engage with your community across WhatsApp, Instagram and Facebook
+                        - link "Page recommendation Review your Page recommendation status." [ref=e614] [cursor=pointer]:
+                          - /url: https://www.facebook.com/settings/?tab=profile_recommendations&show_recommendable_nux=0&referrer=prodash_home
+                          - generic [ref=e621]:
+                            - generic [ref=e623]: Page recommendation
+                            - generic [ref=e625]: Review your Page recommendation status.
+                        - link "Creator education View resources and guidance to help you find success as a creator." [ref=e629] [cursor=pointer]:
+                          - /url: https://www.facebook.com/professional_dashboard/creator_education/professional_dashboard_guide/
+                          - generic [ref=e636]:
+                            - generic [ref=e638]: Creator education
+                            - generic [ref=e640]: View resources and guidance to help you find success as a creator.
+              - generic [ref=e645]:
+                - generic [ref=e647]:
+                  - heading "Your weekly progress" [level=2] [ref=e649]:
+                    - generic [ref=e650]: Your weekly progress
+                  - link "See all" [ref=e652] [cursor=pointer]:
+                    - /url: https://www.facebook.com/professional_dashboard/levels/?ref=profile_plus_left_nav
+                    - generic [ref=e653]: See all
+                - generic [ref=e655]:
+                  - generic [ref=e659]:
+                    - generic [ref=e663]: 0% completed
+                    - generic [ref=e667]: 4 days left
+                  - generic [ref=e668]:
+                    - list "List of requirements for the current week's challenge" [ref=e670]:
+                      - listitem [ref=e671]:
+                        - button "Add profile picture" [ref=e674] [cursor=pointer]:
+                          - generic [ref=e676]:
+                            - generic [ref=e682]: Add profile picture
+                            - img [ref=e684]
+                      - listitem [ref=e686]:
+                        - button "Add cover photo" [ref=e689] [cursor=pointer]:
+                          - generic [ref=e691]:
+                            - generic [ref=e697]: Add cover photo
+                            - img [ref=e699]
+                      - listitem [ref=e701]:
+                        - link "Add your address" [ref=e704] [cursor=pointer]:
+                          - /url: /profile.php?id=61590727920658&open_field=address&sk=directory_basic_info
+                          - generic [ref=e706]:
+                            - generic [ref=e712]: Add your address
+                            - img [ref=e714]
+                    - link "And 14 more" [ref=e717] [cursor=pointer]:
+                      - /url: https://www.facebook.com/professional_dashboard/levels/?ref=profile_plus_left_nav
+                      - generic [ref=e718]: And 14 more
+              - generic [ref=e723]:
+                - heading "Feedback" [level=2] [ref=e727]:
+                  - generic [ref=e728]: Feedback
+                - generic [ref=e729]:
+                  - generic [ref=e730]:
+                    - img [ref=e731]
+                    - generic [ref=e734]:
+                      - generic [ref=e735]: Want to help improve professional dashboard?
+                      - generic [ref=e736]: Share details of issues that you're having or ideas to make professional dashboard better.
+                  - button "Get started" [ref=e739] [cursor=pointer]:
+                    - generic [ref=e742]: Get started

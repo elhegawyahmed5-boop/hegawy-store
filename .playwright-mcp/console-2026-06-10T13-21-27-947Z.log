@@ -1,0 +1,50 @@
+[   23001ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ https://console.apify.com/assets/main-Gwr_1fa3.js:222
+[   24370ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://console-backend.apify.com/public/authentication/resume:0
+[   24374ms] [ERROR] [31mERROR[39m Failed to handle request 'POST - /public/authentication/resume'[90m {"response":{"status":"error","statusCode":403,"errorCode":"user-not-logged-in","errorMessage":"User not logged in","isClientSafe":true,"errorDetails":{},"path":"/public/authentication/resume"},"request":{"url":"https://console-backend.apify.com/public/authentication/resume","method":"post","data":{"viewedUserId":"","forceAdminToken":false},"headers":{"x-idempotency-key":"2429da60-80c6-4056-8e65-09b812e196a0"},"params":{},"withCredentials":true}}[39m
+  Request failed with status code 403
+  [90m    at Et (https://console.apify.com/assets/esm-TaHNjSsG.js:3:9777)[39m
+  [90m    at XMLHttpRequest.g (https://console.apify.com/assets/esm-TaHNjSsG.js:3:14958)[39m
+  [90m    at X.request (https://console.apify.com/assets/esm-TaHNjSsG.js:5:2114)[39m
+  [90m    at async pe.call (https://console.apify.com/assets/tools-DmVANPkn.js:1:3887)[39m
+  [90m    at async Ie (https://console.apify.com/assets/tokens_common-fTM8EU7p.js:1:39613)[39m @ https://console.apify.com/assets/main-Gwr_1fa3.js:242
+[   24523ms] [WARNING] Hubspot Web (Actions) Error: Failed to load https://js-eu1.hs-scripts.com/50876454.js
+    at o.onerror (https://cdn.segment.com/next-integrations/actions/3962/1faa179dfb20d0a3f5a0.js:1:2599) @ https://console.apify.com/assets/main-Gwr_1fa3.js:242
+[   24929ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://console-backend.apify.com/public/authentication/resume:0
+[   24930ms] [ERROR] [31mERROR[39m Failed to handle request 'POST - /public/authentication/resume'[90m {"response":{"status":"error","statusCode":403,"errorCode":"user-not-logged-in","errorMessage":"User not logged in","isClientSafe":true,"errorDetails":{},"path":"/public/authentication/resume"},"request":{"url":"https://console-backend.apify.com/public/authentication/resume","method":"post","data":{"viewedUserId":"","forceAdminToken":false},"headers":{"x-idempotency-key":"2a3a6d5e-a57c-49a1-860f-cdd5ba8009bd"},"params":{},"withCredentials":true}}[39m
+  Request failed with status code 403
+  [90m    at Et (https://console.apify.com/assets/esm-TaHNjSsG.js:3:9777)[39m
+  [90m    at XMLHttpRequest.g (https://console.apify.com/assets/esm-TaHNjSsG.js:3:14958)[39m
+  [90m    at X.request (https://console.apify.com/assets/esm-TaHNjSsG.js:5:2114)[39m
+  [90m    at async pe.call (https://console.apify.com/assets/tools-DmVANPkn.js:1:3887)[39m
+  [90m    at async Ie (https://console.apify.com/assets/tokens_common-fTM8EU7p.js:1:39613)[39m @ https://console.apify.com/assets/main-Gwr_1fa3.js:242
+[   25197ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://console-backend.apify.com/public/authentication/resume:0
+[   25198ms] [ERROR] [31mERROR[39m Failed to handle request 'POST - /public/authentication/resume'[90m {"response":{"status":"error","statusCode":403,"errorCode":"user-not-logged-in","errorMessage":"User not logged in","isClientSafe":true,"errorDetails":{},"path":"/public/authentication/resume"},"request":{"url":"https://console-backend.apify.com/public/authentication/resume","method":"post","data":{"viewedUserId":"","forceAdminToken":false},"headers":{"x-idempotency-key":"70c32a7c-d4a8-4259-a893-e7aac74755cf"},"params":{},"withCredentials":true}}[39m
+  Request failed with status code 403
+  [90m    at Et (https://console.apify.com/assets/esm-TaHNjSsG.js:3:9777)[39m
+  [90m    at XMLHttpRequest.g (https://console.apify.com/assets/esm-TaHNjSsG.js:3:14958)[39m
+  [90m    at X.request (https://console.apify.com/assets/esm-TaHNjSsG.js:5:2114)[39m
+  [90m    at async pe.call (https://console.apify.com/assets/tools-DmVANPkn.js:1:3887)[39m
+  [90m    at async Ie (https://console.apify.com/assets/tokens_common-fTM8EU7p.js:1:39613)[39m @ https://console.apify.com/assets/main-Gwr_1fa3.js:242
+[   25524ms] [LOG] %cThis is a browser feature intended for everyone. We believe the web should be open, so play around and explore 😉 font-size: 14px; font-weight: 600; line-height: 20px; @ https://console.apify.com/assets/main-Gwr_1fa3.js:242
+[   25524ms] [LOG] %c🛠 If you enjoy hacking, join us! https://apify.com/jobs 
+🪄 Give us your feedback: https://apify.typeform.com/to/Y8pDNnsL 
+🧑‍💻 Join our community: https://discord.gg/SFx8AFcF 
+🚀 Stay in touch: https://apify.com/change-log font-size: 12px; font-weight: 400; line-height: 16px; @ https://console.apify.com/assets/main-Gwr_1fa3.js:242
+[   25880ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://console-backend.apify.com/public/authentication/resume:0
+[   25882ms] [ERROR] [31mERROR[39m Failed to handle request 'POST - /public/authentication/resume'[90m {"response":{"status":"error","statusCode":403,"errorCode":"user-not-logged-in","errorMessage":"User not logged in","isClientSafe":true,"errorDetails":{},"path":"/public/authentication/resume"},"request":{"url":"https://console-backend.apify.com/public/authentication/resume","method":"post","data":{"viewedUserId":"","forceAdminToken":false},"headers":{"x-idempotency-key":"c8e486a5-57e0-4292-994d-3b77841b6609"},"params":{},"withCredentials":true}}[39m
+  Request failed with status code 403
+  [90m    at Et (https://console.apify.com/assets/esm-TaHNjSsG.js:3:9777)[39m
+  [90m    at XMLHttpRequest.g (https://console.apify.com/assets/esm-TaHNjSsG.js:3:14958)[39m
+  [90m    at X.request (https://console.apify.com/assets/esm-TaHNjSsG.js:5:2114)[39m
+  [90m    at async pe.call (https://console.apify.com/assets/tools-DmVANPkn.js:1:3887)[39m
+  [90m    at async Ie (https://console.apify.com/assets/tokens_common-fTM8EU7p.js:1:39613)[39m @ https://console.apify.com/assets/main-Gwr_1fa3.js:242
+[   26039ms] [ERROR] Not signed in with the identity provider. @ https://console.apify.com/sign-in:0
+[   27665ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://console.apify.com/assets/main-Gwr_1fa3.js:242
+[   86272ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://console-backend.apify.com/public/authentication/resume:0
+[   86274ms] [ERROR] [31mERROR[39m Failed to handle request 'POST - /public/authentication/resume'[90m {"response":{"status":"error","statusCode":403,"errorCode":"user-not-logged-in","errorMessage":"User not logged in","isClientSafe":true,"errorDetails":{},"path":"/public/authentication/resume"},"request":{"url":"https://console-backend.apify.com/public/authentication/resume","method":"post","data":{"viewedUserId":"","forceAdminToken":false},"headers":{"x-idempotency-key":"c3a2640e-1c49-4e44-a820-b4876a11b472"},"params":{},"withCredentials":true}}[39m
+  Request failed with status code 403
+  [90m    at Et (https://console.apify.com/assets/esm-TaHNjSsG.js:3:9777)[39m
+  [90m    at XMLHttpRequest.g (https://console.apify.com/assets/esm-TaHNjSsG.js:3:14958)[39m
+  [90m    at X.request (https://console.apify.com/assets/esm-TaHNjSsG.js:5:2114)[39m
+  [90m    at async pe.call (https://console.apify.com/assets/tools-DmVANPkn.js:1:3887)[39m
+  [90m    at async Ie (https://console.apify.com/assets/tokens_common-fTM8EU7p.js:1:39613)[39m @ https://console.apify.com/assets/main-Gwr_1fa3.js:242

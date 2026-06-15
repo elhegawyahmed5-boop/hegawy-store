@@ -1,0 +1,15 @@
+[     434ms] [LOG] 
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black; @ https://static.cdninstagram.com/rsrc.php/v4/y8/r/3h4YqOhE0YZ.js:245
+[     434ms] [LOG] 
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px;  @ https://static.cdninstagram.com/rsrc.php/v4/y8/r/3h4YqOhE0YZ.js:245
+[     434ms] [LOG] 
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px;  @ https://static.cdninstagram.com/rsrc.php/v4/y8/r/3h4YqOhE0YZ.js:245
+[     434ms] [LOG] 
+%c  @ https://static.cdninstagram.com/rsrc.php/v4/y8/r/3h4YqOhE0YZ.js:245
+[     483ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://www.instagram.com/accounts/settings/v2/message_controls/:0
+[     747ms] [ERROR] ErrorUtils caught an error:
+
+Converting to a string will drop content data. Hash="undefined" Translation="{who_can_message_you}" Content="Context not logged." (type=object,Object)
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. {column: 17870, clientTime: 1781110633, extra: Object, guardList: Array(1), hash: lzj5kd} @ https://static.cdninstagram.com/rsrc.php/v4/y8/r/3h4YqOhE0YZ.js:79
+[    4654ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://static.xx.fbcdn.net/rsrc.php/v4/y8/r/3h4YqOhE0YZ.js:241

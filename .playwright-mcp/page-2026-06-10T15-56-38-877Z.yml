@@ -1,0 +1,877 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic:
+      - generic:
+        - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=e3]:
+          - generic [ref=e4]: To view keyboard shortcuts, press question mark
+          - link "View keyboard shortcuts" [ref=e5] [cursor=pointer]:
+            - /url: /i/keyboard_shortcuts
+        - generic:
+          - generic:
+            - button "Grok" [ref=e6] [cursor=pointer]:
+              - img [ref=e7]
+            - button "Chat" [ref=e10] [cursor=pointer]:
+              - img [ref=e11]
+          - generic:
+            - generic:
+              - generic:
+                - dialog:
+                  - group [active] [ref=e14]:
+                    - dialog "Edit profile" [ref=e16]:
+                      - generic [ref=e19]:
+                        - generic [ref=e25]:
+                          - button "Close" [ref=e27] [cursor=pointer]:
+                            - img [ref=e29]
+                          - heading "Edit profile" [level=2] [ref=e34]
+                          - button "Save" [ref=e36] [cursor=pointer]:
+                            - generic [ref=e39]: Save
+                        - generic [ref=e40]:
+                          - generic [ref=e49]:
+                            - button "Add banner photo" [ref=e50] [cursor=pointer]:
+                              - img [ref=e52]
+                            - button "Choose File" [ref=e57]
+                          - generic [ref=e58]:
+                            - generic [ref=e74]:
+                              - button "Add avatar photo" [ref=e75] [cursor=pointer]:
+                                - img [ref=e77]
+                              - button "Choose File" [ref=e82]
+                            - generic [ref=e83]:
+                              - generic [ref=e84]:
+                                - generic [ref=e85]: Edit your photo with Imagine
+                                - generic [ref=e86]: Customize yourself in seconds
+                              - button "Edit Photo" [ref=e87] [cursor=pointer]:
+                                - generic [ref=e88]:
+                                  - img [ref=e89]
+                                  - generic [ref=e96]: Edit Photo
+                          - generic [ref=e99]:
+                            - generic [ref=e101]: Name
+                            - textbox "Name" [ref=e104]: ahmed elhegawy
+                          - generic [ref=e109]:
+                            - generic [ref=e111]: Bio
+                            - textbox "Bio" [ref=e114]
+                          - generic [ref=e119]:
+                            - generic [ref=e121]: Location
+                            - textbox "Location" [ref=e124]
+                          - generic [ref=e129]:
+                            - generic [ref=e131]: Website
+                            - textbox "Website" [ref=e134]
+                          - button "Birth date February 6, 1993" [ref=e137] [cursor=pointer]:
+                            - generic [ref=e138]:
+                              - generic [ref=e139]:
+                                - generic [ref=e140]: Birth date
+                                - text: February 6, 1993
+                              - img [ref=e141]
+                          - tab "Switch to professional" [ref=e144] [cursor=pointer]:
+                            - generic [ref=e145]:
+                              - generic [ref=e147]: Switch to professional
+                              - img [ref=e148]
+        - generic [ref=e151]:
+          - button [ref=e152] [cursor=pointer]
+          - button [ref=e154] [cursor=pointer]
+          - banner [ref=e156]:
+            - generic [ref=e158]:
+              - generic [ref=e159]:
+                - heading [level=1] [ref=e161] [cursor=pointer]:
+                  - link [ref=e162]:
+                    - /url: /home
+                    - img [ref=e164]
+                - navigation [ref=e168]:
+                  - link [ref=e169] [cursor=pointer]:
+                    - /url: /home
+                    - generic [ref=e170]:
+                      - img [ref=e172]
+                      - generic [ref=e175]: Home
+                  - link [ref=e176] [cursor=pointer]:
+                    - /url: /explore
+                    - generic [ref=e177]:
+                      - img [ref=e179]
+                      - generic [ref=e182]: Explore
+                  - link [ref=e183] [cursor=pointer]:
+                    - /url: /notifications
+                    - generic [ref=e184]:
+                      - img [ref=e186]
+                      - generic [ref=e189]: Notifications
+                  - link [ref=e190] [cursor=pointer]:
+                    - /url: /i/connect_people
+                    - generic [ref=e191]:
+                      - img [ref=e193]
+                      - generic [ref=e196]: Follow
+                  - link [ref=e197] [cursor=pointer]:
+                    - /url: /i/chat
+                    - generic [ref=e198]:
+                      - img [ref=e200]
+                      - generic [ref=e203]: Chat
+                  - link [ref=e204] [cursor=pointer]:
+                    - /url: /i/grok
+                    - generic [ref=e205]:
+                      - img [ref=e207]
+                      - generic [ref=e211]: Grok
+                  - link [ref=e212] [cursor=pointer]:
+                    - /url: /i/bookmarks
+                    - generic [ref=e213]:
+                      - img [ref=e215]
+                      - generic [ref=e218]: Bookmarks
+                  - link [ref=e219] [cursor=pointer]:
+                    - /url: /i/jf/creators/studio
+                    - generic [ref=e220]:
+                      - img [ref=e222]
+                      - generic [ref=e226]: Creator Studio
+                  - link [ref=e227] [cursor=pointer]:
+                    - /url: /i/premium_sign_up
+                    - generic [ref=e228]:
+                      - img [ref=e230]
+                      - generic [ref=e233]: Premium
+                  - link [ref=e234] [cursor=pointer]:
+                    - /url: /ahmedelheg4u
+                    - generic [ref=e235]:
+                      - img [ref=e237]
+                      - generic [ref=e240]: Profile
+                  - button [ref=e241] [cursor=pointer]:
+                    - generic [ref=e242]:
+                      - img [ref=e244]
+                      - generic [ref=e247]: More
+                - link [ref=e249] [cursor=pointer]:
+                  - /url: /compose/post
+                  - generic [ref=e255]: Post
+              - button [ref=e258] [cursor=pointer]:
+                - generic [ref=e266]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+                - generic [ref=e270]:
+                  - generic [ref=e274]: ahmed elhegawy
+                  - generic [ref=e278]: "@ahmedelheg4u"
+                - img [ref=e280]
+          - main [ref=e283]:
+            - generic [ref=e286]:
+              - generic [ref=e288]:
+                - generic [ref=e289]:
+                  - navigation [ref=e294]:
+                    - generic [ref=e295]:
+                      - generic:
+                        - button [disabled]:
+                          - generic:
+                            - img
+                      - tablist [ref=e297]:
+                        - tab [selected] [ref=e298] [cursor=pointer]:
+                          - generic [ref=e301]: For you
+                        - tab [ref=e303] [cursor=pointer]:
+                          - generic [ref=e306]: Following
+                      - generic:
+                        - button [disabled]:
+                          - generic:
+                            - img
+                  - generic:
+                    - generic:
+                      - status:
+                        - button:
+                          - generic:
+                            - img
+                            - generic: See new posts
+                - generic [ref=e313]:
+                  - link [ref=e322] [cursor=pointer]:
+                    - /url: /ahmedelheg4u
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                  - generic [ref=e325]:
+                    - generic [ref=e343]:
+                      - generic [ref=e345]: What’s happening?
+                      - textbox [ref=e347]
+                    - generic [ref=e354]:
+                      - navigation [ref=e355]:
+                        - generic [ref=e356]:
+                          - generic:
+                            - button [disabled]:
+                              - generic:
+                                - img
+                          - tablist [ref=e358]:
+                            - generic [ref=e361]:
+                              - button [ref=e362] [cursor=pointer]:
+                                - img [ref=e364]
+                              - button [ref=e368]
+                            - button [ref=e371] [cursor=pointer]:
+                              - img [ref=e373]
+                            - button [ref=e379] [cursor=pointer]:
+                              - img [ref=e381]
+                            - button [ref=e386] [cursor=pointer]:
+                              - img [ref=e388]
+                            - button [ref=e394] [cursor=pointer]:
+                              - img [ref=e396]
+                            - button [ref=e402] [cursor=pointer]:
+                              - img [ref=e404]
+                            - button [disabled] [ref=e409]:
+                              - img [ref=e411]
+                            - button [ref=e416] [cursor=pointer]:
+                              - img [ref=e418]
+                          - generic:
+                            - button [disabled]:
+                              - generic:
+                                - img
+                      - button [disabled] [ref=e423]:
+                        - generic [ref=e426]: Post
+                - region [ref=e514]:
+                  - heading [level=1] [ref=e515]: Your Home Timeline
+                  - generic [ref=e517]:
+                    - article [ref=e521] [cursor=pointer]:
+                      - generic [ref=e527]:
+                        - link [ref=e539]:
+                          - /url: /0xarrash
+                        - generic [ref=e542]:
+                          - generic [ref=e544]:
+                            - generic [ref=e547]:
+                              - link [ref=e550]:
+                                - /url: /0xarrash
+                                - generic [ref=e551]:
+                                  - generic [ref=e553]: Arrash
+                                  - img [ref=e556]
+                              - generic [ref=e560]:
+                                - link [ref=e562]:
+                                  - /url: /0xarrash
+                                  - generic [ref=e563]: "@0xarrash"
+                                - generic [ref=e564]: ·
+                                - link [ref=e566]:
+                                  - /url: /0xarrash/status/2064423533669695903
+                                  - time [ref=e567]: 20h
+                            - generic [ref=e569]:
+                              - button [ref=e571]:
+                                - img [ref=e576]
+                              - button [ref=e582]:
+                                - img [ref=e586]
+                          - generic [ref=e590]: more coming this month.
+                          - group [ref=e593]:
+                            - button [ref=e595]:
+                              - generic [ref=e596]:
+                                - img [ref=e599]
+                                - generic [ref=e604]: "4"
+                            - button [ref=e606]:
+                              - generic [ref=e607]:
+                                - img [ref=e610]
+                                - generic [ref=e615]: "2"
+                            - button [ref=e617]:
+                              - generic [ref=e618]:
+                                - img [ref=e621]
+                                - generic [ref=e626]: "22"
+                            - link [ref=e628]:
+                              - /url: /0xarrash/status/2064423533669695903/analytics
+                              - generic [ref=e629]:
+                                - img [ref=e632]
+                                - generic [ref=e637]: 1.7K
+                            - button [ref=e639]:
+                              - img [ref=e643]
+                            - button [ref=e648]:
+                              - img [ref=e652]
+                    - article [ref=e658] [cursor=pointer]:
+                      - generic [ref=e664]:
+                        - link [ref=e676]:
+                          - /url: /Watata100
+                        - generic [ref=e679]:
+                          - generic [ref=e681]:
+                            - generic [ref=e684]:
+                              - link [ref=e687]:
+                                - /url: /Watata100
+                                - generic [ref=e690]: Waτaτa
+                              - generic [ref=e692]:
+                                - link [ref=e694]:
+                                  - /url: /Watata100
+                                  - generic [ref=e695]: "@Watata100"
+                                - generic [ref=e696]: ·
+                                - link [ref=e698]:
+                                  - /url: /Watata100/status/2064343589891485929
+                                  - time [ref=e699]: Jun 9
+                            - generic [ref=e701]:
+                              - button [ref=e703]:
+                                - img [ref=e708]
+                              - button [ref=e714]:
+                                - img [ref=e718]
+                          - generic [ref=e722]:
+                            - text: I have turned crazy. Calculating everything in
+                            - link [ref=e725]:
+                              - /url: /search?q=%24TAO%20OR%20bittensor%3Anative&src=smarttag_click
+                              - text: $TAO
+                            - text: . *Seeing my pc screen "How much TAO can I get if I sell this?". "How much TAO can I get if I don't fuel the car today?". Materialism is not my forte. Just want more TAO...
+                          - navigation [ref=e727]:
+                            - generic [ref=e728]:
+                              - generic:
+                                - button [disabled]:
+                                  - generic:
+                                    - img
+                              - tablist [ref=e730]:
+                                - link [ref=e731]:
+                                  - /url: /search?q=%24TAO%20OR%20bittensor%3Anative&src=typeahead_click
+                                  - generic [ref=e736]:
+                                    - generic [ref=e737]: Bittensor
+                                    - generic [ref=e738]:
+                                      - generic [ref=e739]: TAO
+                                      - generic [ref=e740]: $209.36
+                                      - generic [ref=e741]: "-0.09%"
+                                  - img [ref=e745]
+                              - generic:
+                                - button [disabled]:
+                                  - generic:
+                                    - img
+                          - group [ref=e754]:
+                            - button [ref=e756]:
+                              - generic [ref=e757]:
+                                - img [ref=e760]
+                                - generic [ref=e765]: "2"
+                            - button [ref=e767]:
+                              - generic [ref=e768]:
+                                - img [ref=e771]
+                                - generic [ref=e776]: "3"
+                            - button [ref=e778]:
+                              - generic [ref=e779]:
+                                - img [ref=e782]
+                                - generic [ref=e787]: "47"
+                            - link [ref=e789]:
+                              - /url: /Watata100/status/2064343589891485929/analytics
+                              - generic [ref=e790]:
+                                - img [ref=e793]
+                                - generic [ref=e798]: 1.2K
+                            - button [ref=e800]:
+                              - img [ref=e804]
+                            - button [ref=e809]:
+                              - img [ref=e813]
+                    - article [ref=e819] [cursor=pointer]:
+                      - generic [ref=e825]:
+                        - link [ref=e837]:
+                          - /url: /DrocksAlex2
+                        - generic [ref=e840]:
+                          - generic [ref=e842]:
+                            - generic [ref=e845]:
+                              - link [ref=e848]:
+                                - /url: /DrocksAlex2
+                                - generic [ref=e849]:
+                                  - generic [ref=e851]: Alex DRocks
+                                  - img [ref=e854]
+                              - generic [ref=e858]:
+                                - link [ref=e860]:
+                                  - /url: /DrocksAlex2
+                                  - generic [ref=e861]: "@DrocksAlex2"
+                                - generic [ref=e862]: ·
+                                - link [ref=e864]:
+                                  - /url: /DrocksAlex2/status/2064100442821312872
+                                  - time [ref=e865]: Jun 9
+                            - generic [ref=e867]:
+                              - button [ref=e869]:
+                                - img [ref=e874]
+                              - button [ref=e880]:
+                                - img [ref=e884]
+                          - generic [ref=e888]:
+                            - link [ref=e891]:
+                              - /url: /search?q=%24TAO&src=cashtag_click
+                              - text: $TAO
+                            - text: spoiler... This is what Chutes SN64
+                            - link [ref=e894]:
+                              - /url: /chutes_ai
+                              - text: "@chutes_ai"
+                            - text: price chart will look like in the future. you just don't believe it yet
+                          - generic [ref=e898]:
+                            - link [ref=e902]:
+                              - /url: /DrocksAlex2/status/2064100442821312872/photo/1
+                              - img [ref=e908]
+                            - link [ref=e910]:
+                              - /url: /DrocksAlex2/status/2064100442821312872/media_tags
+                              - generic [ref=e911]: Openτensor Foundaτion
+                          - group [ref=e914]:
+                            - button [ref=e916]:
+                              - generic [ref=e917]:
+                                - img [ref=e920]
+                                - generic [ref=e925]: "17"
+                            - button [ref=e927]:
+                              - generic [ref=e928]:
+                                - img [ref=e931]
+                                - generic [ref=e936]: "21"
+                            - button [ref=e938]:
+                              - generic [ref=e939]:
+                                - img [ref=e942]
+                                - generic [ref=e947]: "167"
+                            - link [ref=e949]:
+                              - /url: /DrocksAlex2/status/2064100442821312872/analytics
+                              - generic [ref=e950]:
+                                - img [ref=e953]
+                                - generic [ref=e958]: 13K
+                            - button [ref=e960]:
+                              - img [ref=e964]
+                            - button [ref=e969]:
+                              - img [ref=e973]
+                    - article [ref=e979] [cursor=pointer]:
+                      - generic [ref=e981]:
+                        - generic [ref=e986]:
+                          - img [ref=e988]
+                          - link [ref=e995]:
+                            - /url: /dragonfly_xyz
+                            - generic [ref=e996]:
+                              - generic [ref=e997]: Dragonfly ＞|＜
+                              - text: reposted
+                        - generic [ref=e998]:
+                          - link [ref=e1010]:
+                            - /url: /theempirepod
+                          - generic [ref=e1013]:
+                            - generic [ref=e1015]:
+                              - generic [ref=e1018]:
+                                - link [ref=e1021]:
+                                  - /url: /theempirepod
+                                  - generic [ref=e1022]:
+                                    - generic [ref=e1024]:
+                                      - text: Empire
+                                      - img [ref=e1025]
+                                    - generic [ref=e1027]:
+                                      - img [ref=e1028]
+                                      - link [ref=e1031]
+                                - generic [ref=e1039]:
+                                  - link [ref=e1041]:
+                                    - /url: /theempirepod
+                                    - generic [ref=e1042]: "@theempirepod"
+                                  - generic [ref=e1043]: ·
+                                  - link [ref=e1045]:
+                                    - /url: /theempirepod/status/2063998089996710058
+                                    - time [ref=e1046]: Jun 8
+                              - generic [ref=e1048]:
+                                - button [ref=e1050]:
+                                  - img [ref=e1055]
+                                - button [ref=e1061]:
+                                  - img [ref=e1065]
+                            - generic [ref=e1068]:
+                              - generic [ref=e1069]: "We asked CFTC Chair Michael Selig why prediction markets matter: \"We believe that this will be a really great benefit to society and have really just reliable data\" \"Having the check of putting dollars at risk makes a big difference. I believe in these markets and I expect to"
+                              - button [ref=e1070]: Show more
+                            - button [ref=e1097]:
+                              - img [ref=e1098]
+                            - group [ref=e1104]:
+                              - button [ref=e1106]:
+                                - generic [ref=e1107]:
+                                  - img [ref=e1110]
+                                  - generic [ref=e1115]: "3"
+                              - button [ref=e1117]:
+                                - generic [ref=e1118]:
+                                  - img [ref=e1121]
+                                  - generic [ref=e1126]: "4"
+                              - button [ref=e1128]:
+                                - generic [ref=e1129]:
+                                  - img [ref=e1132]
+                                  - generic [ref=e1137]: "21"
+                              - link [ref=e1139]:
+                                - /url: /theempirepod/status/2063998089996710058/analytics
+                                - generic [ref=e1140]:
+                                  - img [ref=e1143]
+                                  - generic [ref=e1148]: 8.9K
+                              - button [ref=e1150]:
+                                - img [ref=e1154]
+                              - button [ref=e1159]:
+                                - img [ref=e1163]
+                    - article [ref=e1169] [cursor=pointer]:
+                      - generic [ref=e1175]:
+                        - link [ref=e1187]:
+                          - /url: /Maziiiarkrm
+                        - generic [ref=e1190]:
+                          - generic [ref=e1192]:
+                            - generic [ref=e1195]:
+                              - link [ref=e1198]:
+                                - /url: /Maziiiarkrm
+                                - generic [ref=e1199]:
+                                  - generic [ref=e1201]: Maziar
+                                  - img [ref=e1204]
+                              - generic [ref=e1208]:
+                                - link [ref=e1210]:
+                                  - /url: /Maziiiarkrm
+                                  - generic [ref=e1211]: "@Maziiiarkrm"
+                                - generic [ref=e1212]: ·
+                                - link [ref=e1214]:
+                                  - /url: /Maziiiarkrm/status/2064610755350024246
+                                  - time [ref=e1215]: 8h
+                            - generic [ref=e1217]:
+                              - button [ref=e1219]:
+                                - img [ref=e1224]
+                              - button [ref=e1230]:
+                                - img [ref=e1234]
+                          - generic [ref=e1238]: "the amount of research you needed in 2020-2021 altseason in order to find your next 10x:"
+                          - generic [ref=e1239]:
+                            - button [ref=e1265]:
+                              - img [ref=e1266]
+                            - link [ref=e1270]:
+                              - /url: /i/status/2064604825577222644
+                              - img [ref=e1271]
+                              - generic [ref=e1276]: Reaction to
+                              - generic [ref=e1293]:
+                                - generic [ref=e1295]:
+                                  - text: wale.moca
+                                  - img [ref=e1296]
+                                - img [ref=e1299]
+                          - group [ref=e1304]:
+                            - button [ref=e1306]:
+                              - generic [ref=e1307]:
+                                - img [ref=e1310]
+                                - generic [ref=e1315]: "21"
+                            - button [ref=e1317]:
+                              - generic [ref=e1318]:
+                                - img [ref=e1321]
+                                - generic [ref=e1326]: "36"
+                            - button [ref=e1328]:
+                              - generic [ref=e1329]:
+                                - img [ref=e1332]
+                                - generic [ref=e1337]: "86"
+                            - link [ref=e1339]:
+                              - /url: /Maziiiarkrm/status/2064610755350024246/analytics
+                              - generic [ref=e1340]:
+                                - img [ref=e1343]
+                                - generic [ref=e1348]: 5.5K
+                            - button [ref=e1350]:
+                              - img [ref=e1354]
+                            - button [ref=e1359]:
+                              - img [ref=e1363]
+                    - article [ref=e1369] [cursor=pointer]:
+                      - generic [ref=e1375]:
+                        - link [ref=e1387]:
+                          - /url: /Delphi_Digital
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img
+                        - generic [ref=e1390]:
+                          - generic [ref=e1392]:
+                            - generic [ref=e1395]:
+                              - link [ref=e1398]:
+                                - /url: /Delphi_Digital
+                                - generic [ref=e1399]:
+                                  - generic [ref=e1401]: Delphi Digital
+                                  - img [ref=e1404]
+                              - generic [ref=e1411]:
+                                - link [ref=e1413]:
+                                  - /url: /Delphi_Digital
+                                  - generic [ref=e1414]: "@Delphi_Digital"
+                                - generic [ref=e1415]: ·
+                                - link [ref=e1417]:
+                                  - /url: /Delphi_Digital/status/2064031996310131127
+                                  - time [ref=e1418]: Jun 8
+                            - generic [ref=e1420]:
+                              - button [ref=e1422]:
+                                - img [ref=e1427]
+                              - button [ref=e1433]:
+                                - img [ref=e1437]
+                          - generic [ref=e1441]: Neel explains why buybacks are not always enough. "The biggest culprit around buyback programs not working is the supply side issues that are associated with most alts."
+                          - button [ref=e1468]:
+                            - img [ref=e1469]
+                          - group [ref=e1475]:
+                            - button [ref=e1477]:
+                              - generic [ref=e1478]:
+                                - img [ref=e1481]
+                                - generic [ref=e1486]: "3"
+                            - button [ref=e1488]:
+                              - generic [ref=e1489]:
+                                - img [ref=e1492]
+                                - generic [ref=e1497]: "6"
+                            - button [ref=e1499]:
+                              - generic [ref=e1500]:
+                                - img [ref=e1503]
+                                - generic [ref=e1508]: "24"
+                            - link [ref=e1510]:
+                              - /url: /Delphi_Digital/status/2064031996310131127/analytics
+                              - generic [ref=e1511]:
+                                - img [ref=e1514]
+                                - generic [ref=e1519]: 8.2K
+                            - button [ref=e1521]:
+                              - img [ref=e1525]
+                            - button [ref=e1530]:
+                              - img [ref=e1534]
+                    - article [ref=e1540] [cursor=pointer]:
+                      - generic [ref=e1542]:
+                        - generic [ref=e1547]:
+                          - img [ref=e1549]
+                          - link [ref=e1556]:
+                            - /url: /paradigm
+                            - generic [ref=e1557]:
+                              - generic [ref=e1558]: Paradigm
+                              - text: reposted
+                        - generic [ref=e1559]:
+                          - link [ref=e1571]:
+                            - /url: /PaulFrambot
+                          - generic [ref=e1574]:
+                            - generic [ref=e1576]:
+                              - generic [ref=e1579]:
+                                - link [ref=e1582]:
+                                  - /url: /PaulFrambot
+                                  - generic [ref=e1583]:
+                                    - generic [ref=e1585]:
+                                      - text: Paul Frambot
+                                      - img [ref=e1586]
+                                    - generic [ref=e1588]:
+                                      - img [ref=e1589]
+                                      - link [ref=e1592]
+                                - generic [ref=e1600]:
+                                  - link [ref=e1602]:
+                                    - /url: /PaulFrambot
+                                    - generic [ref=e1603]: "@PaulFrambot"
+                                  - generic [ref=e1604]: ·
+                                  - link [ref=e1606]:
+                                    - /url: /PaulFrambot/status/2064317656270864880
+                                    - time [ref=e1607]: Jun 9
+                              - generic [ref=e1609]:
+                                - button [ref=e1611]:
+                                  - img [ref=e1616]
+                                - button [ref=e1622]:
+                                  - img [ref=e1626]
+                            - generic [ref=e1629]:
+                              - generic [ref=e1630]:
+                                - text: We’ve just raised $175M, in a round co-led by
+                                - link [ref=e1633]:
+                                  - /url: /paradigm
+                                  - text: "@paradigm"
+                                - text: ","
+                                - link [ref=e1636]:
+                                  - /url: /a16zcrypto
+                                  - text: "@a16zcrypto"
+                                - text: ", and"
+                                - link [ref=e1639]:
+                                  - /url: /RibbitCapital
+                                  - text: "@RibbitCapital"
+                                - text: ", the largest raise DeFi has ever seen. Credit is the bedrock of our civilization, but the infrastructure underneath is fragmented, extractive, and closed to most of the world. That is what"
+                              - button [ref=e1640]: Show more
+                            - generic [ref=e1642]:
+                              - generic [ref=e1643]: Quote
+                              - link [ref=e1644]:
+                                - generic [ref=e1645]:
+                                  - generic [ref=e1649]:
+                                    - generic [ref=e1658]:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - img
+                                    - generic [ref=e1662]:
+                                      - generic [ref=e1666]:
+                                        - generic [ref=e1668]:
+                                          - text: Morpho
+                                          - img [ref=e1669]
+                                        - img [ref=e1672]
+                                      - generic [ref=e1679]:
+                                        - generic [ref=e1682]: "@Morpho"
+                                        - generic [ref=e1683]: ·
+                                        - time [ref=e1687]: Jun 9
+                                  - generic [ref=e1689]:
+                                    - text: Morpho Association has raised $175M to build the open credit network for the world. Co-led by
+                                    - generic [ref=e1690]: "@paradigm"
+                                    - text: ","
+                                    - generic [ref=e1691]: "@a16zcrypto"
+                                    - text: ","
+                                    - generic [ref=e1692]: "@RibbitCapital"
+                                    - text: with strategic participation from
+                                    - generic [ref=e1693]: "@apolloglobal"
+                                    - text: ","
+                                    - generic [ref=e1694]: "@vaneck_us"
+                                    - text: ","
+                                    - generic [ref=e1695]: "@circle_ventures"
+                                    - text: ", and"
+                                    - generic [ref=e1696]: "@Ledger"
+                                    - generic [ref=e1697]: "@Cathayinnov"
+                                    - text: . The round also included participation
+                                  - button [ref=e1722]:
+                                    - img [ref=e1723]
+                            - group [ref=e1729]:
+                              - button [ref=e1731]:
+                                - generic [ref=e1732]:
+                                  - img [ref=e1735]
+                                  - generic [ref=e1740]: "310"
+                              - button [ref=e1742]:
+                                - generic [ref=e1743]:
+                                  - img [ref=e1746]
+                                  - generic [ref=e1751]: "180"
+                              - button [ref=e1753]:
+                                - generic [ref=e1754]:
+                                  - img [ref=e1757]
+                                  - generic [ref=e1762]: 2.2K
+                              - link [ref=e1764]:
+                                - /url: /PaulFrambot/status/2064317656270864880/analytics
+                                - generic [ref=e1765]:
+                                  - img [ref=e1768]
+                                  - generic [ref=e1773]: 325K
+                              - button [ref=e1775]:
+                                - img [ref=e1779]
+                              - button [ref=e1784]:
+                                - img [ref=e1788]
+              - generic [ref=e440]:
+                - search [ref=e445]:
+                  - generic [ref=e450]:
+                    - img [ref=e452]
+                    - combobox [ref=e457]
+                - complementary [ref=e461]:
+                  - generic [ref=e463]: Subscribe to Premium
+                  - generic [ref=e464]: Get rid of ads, see your analytics, boost your replies and unlock 20+ features.
+                  - link [ref=e465] [cursor=pointer]:
+                    - /url: /i/premium_sign_up
+                    - generic [ref=e468]: Subscribe
+                - generic [ref=e1793]:
+                  - heading [level=2] [ref=e1795]:
+                    - generic [ref=e1796]: Today’s News
+                    - button [ref=e1799] [cursor=pointer]:
+                      - img [ref=e1801]
+                  - generic [ref=e1804]:
+                    - link [ref=e1805] [cursor=pointer]:
+                      - generic [ref=e1808]:
+                        - generic [ref=e1809]: Trump Warns Iran of Strikes as Peace Talks Stall After Helicopter Incident
+                        - generic [ref=e1848]: Trending now · News · 12.5K posts
+                    - link [ref=e1849] [cursor=pointer]:
+                      - generic [ref=e1852]:
+                        - generic [ref=e1853]: Trump Warns Iran of Strikes After U.S. Helicopter Incident
+                        - generic [ref=e1892]: 1 hour ago · News · 13.4K posts
+                    - link [ref=e1893] [cursor=pointer]:
+                      - generic [ref=e1896]:
+                        - generic [ref=e1897]: Trump Warns Iran of Strikes as U.S. Forces Clash in Gulf
+                        - generic [ref=e1936]: 2 hours ago · News · 31.9K posts
+                - region [ref=e1937]:
+                  - heading [level=1] [ref=e1938]: Trending now
+                  - generic [ref=e1940]:
+                    - heading [level=2] [ref=e1944]:
+                      - generic [ref=e1945]: What’s happening
+                    - link [ref=e1948] [cursor=pointer]:
+                      - generic [ref=e1949]:
+                        - generic [ref=e1951]: Trending in Egypt
+                        - generic [ref=e1952]: وزير البترول
+                        - button [ref=e1955]:
+                          - img [ref=e1959]
+                    - link [ref=e1964] [cursor=pointer]:
+                      - generic [ref=e1965]:
+                        - generic [ref=e1967]: Trending in Egypt
+                        - generic [ref=e1968]: نظام الطيبات
+                        - button [ref=e1971]:
+                          - img [ref=e1975]
+                    - link [ref=e1980] [cursor=pointer]:
+                      - generic [ref=e1981]:
+                        - generic [ref=e1983]: Trending in Egypt
+                        - generic [ref=e1984]: الرييس السيسي
+                        - button [ref=e1987]:
+                          - img [ref=e1991]
+                    - link [ref=e1996] [cursor=pointer]:
+                      - generic [ref=e1997]:
+                        - generic [ref=e1999]: Trending in Egypt
+                        - generic [ref=e2000]: خطوط فلاي
+                        - button [ref=e2003]:
+                          - img [ref=e2007]
+                    - link [ref=e2012] [cursor=pointer]:
+                      - /url: /explore/tabs/for-you
+                      - generic [ref=e2013]: Show more
+                - complementary [ref=e2014]:
+                  - heading [level=2] [ref=e2016]:
+                    - generic [ref=e2017]: Who to follow
+                  - list [ref=e2018]:
+                    - listitem [ref=e2019] [cursor=pointer]:
+                      - generic [ref=e2020]:
+                        - link [ref=e2030]:
+                          - /url: /fifaworldcup_ar
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img
+                        - generic [ref=e2034]:
+                          - generic [ref=e2036]:
+                            - link [ref=e2038]:
+                              - /url: /fifaworldcup_ar
+                              - generic [ref=e2039]:
+                                - generic [ref=e2041]:
+                                  - text: كأس العالم FIFA
+                                  - img [ref=e2042]
+                                - img [ref=e2045]
+                            - link [ref=e2053]:
+                              - /url: /fifaworldcup_ar
+                              - generic [ref=e2055]: "@fifaworldcup_ar"
+                          - button [ref=e2057]:
+                            - generic [ref=e2060]: Follow
+                    - listitem [ref=e2061] [cursor=pointer]:
+                      - generic [ref=e2062]:
+                        - link [ref=e2072]:
+                          - /url: /haydenzadams
+                        - generic [ref=e2076]:
+                          - generic [ref=e2078]:
+                            - link [ref=e2080]:
+                              - /url: /haydenzadams
+                              - generic [ref=e2081]:
+                                - generic [ref=e2083]:
+                                  - text: Hayden Adams
+                                  - img [ref=e2084]
+                                - generic [ref=e2086]:
+                                  - img [ref=e2087]
+                                  - link [ref=e2090]
+                            - link [ref=e2099]:
+                              - /url: /haydenzadams
+                              - generic [ref=e2101]: "@haydenzadams"
+                          - button [ref=e2103]:
+                            - generic [ref=e2106]: Follow
+                    - listitem [ref=e2107] [cursor=pointer]:
+                      - generic [ref=e2108]:
+                        - link [ref=e2118]:
+                          - /url: /Aptos
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img
+                        - generic [ref=e2122]:
+                          - generic [ref=e2124]:
+                            - link [ref=e2126]:
+                              - /url: /Aptos
+                              - generic [ref=e2127]:
+                                - generic [ref=e2129]: Aptos
+                                - img [ref=e2132]
+                            - link [ref=e2140]:
+                              - /url: /Aptos
+                              - generic [ref=e2142]: "@Aptos"
+                          - button [ref=e2144]:
+                            - generic [ref=e2147]: Follow
+                  - link [ref=e2148] [cursor=pointer]:
+                    - /url: /i/connect_people?user_id=2063237413346979840
+                    - generic [ref=e2149]: Show more
+                - iframe [ref=e2156]:
+                  - generic [ref=f40e3]:
+                    - button [ref=f40e4]:
+                      - img [ref=f40e5]
+                    - generic [ref=f40e7]:
+                      - generic [ref=f40e9]:
+                        - generic [ref=f40e13]:
+                          - button "Play video" [ref=f40e17] [cursor=pointer]:
+                            - img [ref=f40e18]
+                          - button "Unmute video" [ref=f40e23] [cursor=pointer]
+                        - generic [ref=f40e30]:
+                          - button "Learn more" [ref=f40e32] [cursor=pointer]
+                          - button "Replay" [ref=f40e34] [cursor=pointer]
+                        - img [ref=f40e37]
+                      - button "Learn more" [ref=f40e43] [cursor=pointer]
+                - navigation [ref=e492]:
+                  - generic [ref=e493]:
+                    - link [ref=e494] [cursor=pointer]:
+                      - /url: https://x.com/tos
+                      - text: Terms of Service
+                    - generic [ref=e495]: "|"
+                  - generic [ref=e496]:
+                    - link [ref=e497] [cursor=pointer]:
+                      - /url: https://x.com/privacy
+                      - text: Privacy Policy
+                    - generic [ref=e498]: "|"
+                  - generic [ref=e499]:
+                    - link [ref=e500] [cursor=pointer]:
+                      - /url: https://support.x.com/articles/20170514
+                      - text: Cookie Policy
+                    - generic [ref=e501]: "|"
+                  - generic [ref=e502]:
+                    - link [ref=e503] [cursor=pointer]:
+                      - /url: https://help.x.com/resources/accessibility
+                      - text: Accessibility
+                    - generic [ref=e504]: "|"
+                  - generic [ref=e505]:
+                    - link [ref=e506] [cursor=pointer]:
+                      - /url: https://business.x.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+                      - text: Ads info
+                    - generic [ref=e507]: "|"
+                  - button [ref=e508] [cursor=pointer]:
+                    - generic [ref=e509]:
+                      - text: More
+                      - img [ref=e510]
+                  - generic [ref=e513]: © 2026 X Corp.
+  - generic:
+    - img
+  - generic:
+    - img

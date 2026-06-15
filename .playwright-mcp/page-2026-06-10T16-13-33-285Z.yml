@@ -1,0 +1,599 @@
+- generic [active] [ref=e1]:
+  - img
+  - generic [ref=e2]:
+    - region "Notifications alt+T"
+    - generic [ref=e3]:
+      - generic [ref=e5]:
+        - generic [ref=e7]:
+          - link "Go to TikTok For You feed" [ref=e9] [cursor=pointer]:
+            - /url: /?lang=en
+            - img [ref=e10]
+            - strong: TikTok
+          - searchbox "Search" [ref=e15] [cursor=pointer]:
+            - generic [ref=e16]:
+              - img [ref=e19]
+              - generic [ref=e21]: Search
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - link "For You" [ref=e25] [cursor=pointer]:
+              - /url: /
+              - listitem "For You" [ref=e26]:
+                - generic [ref=e27]:
+                  - img [ref=e30]
+                  - generic [ref=e32]: For You
+            - link "Explore" [ref=e34] [cursor=pointer]:
+              - /url: /explore?lang=en
+              - listitem "Explore" [ref=e35]:
+                - generic [ref=e36]:
+                  - img [ref=e39]
+                  - generic [ref=e42]: Explore
+            - link "Following" [ref=e44] [cursor=pointer]:
+              - /url: /following?lang=en
+              - listitem "Following" [ref=e45]:
+                - generic [ref=e46]:
+                  - img "Avatar for shaadytarek" [ref=e50]
+                  - generic [ref=e51]: Following
+            - link "Friends" [ref=e53] [cursor=pointer]:
+              - /url: /friends?lang=en
+              - listitem "Friends" [ref=e54]:
+                - generic [ref=e55]:
+                  - img [ref=e58]
+                  - generic [ref=e60]: Friends
+            - link "LIVE" [ref=e63] [cursor=pointer]:
+              - /url: /live?lang=en
+              - listitem "LIVE" [ref=e64]:
+                - generic [ref=e65]:
+                  - img [ref=e68]
+                  - generic [ref=e71]: LIVE
+            - link "Messages" [ref=e73] [cursor=pointer]:
+              - /url: /messages?lang=en
+              - listitem "Messages" [ref=e74]:
+                - generic [ref=e75]:
+                  - img [ref=e78]
+                  - generic [ref=e80]: Messages
+            - listitem "Activity" [ref=e82] [cursor=pointer]:
+              - generic [ref=e83]:
+                - generic [ref=e85]:
+                  - img [ref=e86]
+                  - superscript [ref=e89]:
+                    - paragraph [ref=e90]: "35"
+                - generic [ref=e91]: Activity
+            - link "Upload" [ref=e93] [cursor=pointer]:
+              - /url: /tiktokstudio/upload?from=webapp&lang=en&tab=video
+              - listitem "Upload" [ref=e94]:
+                - generic [ref=e95]:
+                  - img [ref=e98]
+                  - generic [ref=e101]: Upload
+            - link "Profile" [ref=e103] [cursor=pointer]:
+              - /url: /@hegawystores?lang=en
+              - listitem "Profile" [ref=e104]:
+                - generic [ref=e105]:
+                  - img [ref=e108]
+                  - generic [ref=e109]: Profile
+            - listitem "More" [ref=e111] [cursor=pointer]:
+              - generic [ref=e112]:
+                - img [ref=e116]
+                - generic [ref=e119]: More
+          - generic [ref=e121]:
+            - paragraph [ref=e122]: Following accounts
+            - generic [ref=e123]:
+              - list [ref=e124]:
+                - listitem [ref=e125]:
+                  - link "Avatar for abdo_qr17 أَمَــل غَـفَـر اللّٰه لَها 🍂 abdo_qr17" [ref=e126] [cursor=pointer]:
+                    - /url: /@abdo_qr17?lang=en
+                    - button "Avatar for abdo_qr17 أَمَــل غَـفَـر اللّٰه لَها 🍂 abdo_qr17" [ref=e127]:
+                      - generic [ref=e130]:
+                        - img "Avatar for abdo_qr17" [ref=e133]
+                        - link "أَمَــل غَـفَـر اللّٰه لَها 🍂 abdo_qr17" [ref=e134]:
+                          - /url: /@abdo_qr17?lang=en
+                          - generic [ref=e135]:
+                            - paragraph [ref=e136]:
+                              - paragraph [ref=e138]: أَمَــل غَـفَـر اللّٰه لَها 🍂
+                            - paragraph [ref=e139]: abdo_qr17
+                - listitem [ref=e140]:
+                  - link "Avatar for ammmasa0922 كرومات قرآن | Quran ammmasa0922" [ref=e141] [cursor=pointer]:
+                    - /url: /@ammmasa0922?lang=en
+                    - button "Avatar for ammmasa0922 كرومات قرآن | Quran ammmasa0922" [ref=e142]:
+                      - generic [ref=e145]:
+                        - img "Avatar for ammmasa0922" [ref=e148]
+                        - link "كرومات قرآن | Quran ammmasa0922" [ref=e149]:
+                          - /url: /@ammmasa0922?lang=en
+                          - generic [ref=e150]:
+                            - paragraph [ref=e151]:
+                              - paragraph [ref=e153]: كرومات قرآن | Quran
+                            - paragraph [ref=e154]: ammmasa0922
+                - listitem [ref=e155]:
+                  - link "Avatar for tarafsfljir قران/📚🎧 tarafsfljir" [ref=e156] [cursor=pointer]:
+                    - /url: /@tarafsfljir?lang=en
+                    - button "Avatar for tarafsfljir قران/📚🎧 tarafsfljir" [ref=e157]:
+                      - generic [ref=e160]:
+                        - img "Avatar for tarafsfljir" [ref=e163]
+                        - link "قران/📚🎧 tarafsfljir" [ref=e164]:
+                          - /url: /@tarafsfljir?lang=en
+                          - generic [ref=e165]:
+                            - paragraph [ref=e166]:
+                              - paragraph [ref=e168]: قران/📚🎧
+                            - paragraph [ref=e169]: tarafsfljir
+                - listitem [ref=e170]:
+                  - link "Avatar for science_based_toji science_based_toji science_based_toji" [ref=e171] [cursor=pointer]:
+                    - /url: /@science_based_toji?lang=en
+                    - button "Avatar for science_based_toji science_based_toji science_based_toji" [ref=e172]:
+                      - generic [ref=e175]:
+                        - img "Avatar for science_based_toji" [ref=e178]
+                        - link "science_based_toji science_based_toji" [ref=e179]:
+                          - /url: /@science_based_toji?lang=en
+                          - generic [ref=e180]:
+                            - paragraph [ref=e181]:
+                              - paragraph [ref=e183]: science_based_toji
+                            - paragraph [ref=e184]: science_based_toji
+                - listitem [ref=e185]:
+                  - link "Avatar for belghamdi.coaching Belghamdi.Coaching belghamdi.coaching" [ref=e186] [cursor=pointer]:
+                    - /url: /@belghamdi.coaching?lang=en
+                    - button "Avatar for belghamdi.coaching Belghamdi.Coaching belghamdi.coaching" [ref=e187]:
+                      - generic [ref=e190]:
+                        - img "Avatar for belghamdi.coaching" [ref=e193]
+                        - link "Belghamdi.Coaching belghamdi.coaching" [ref=e194]:
+                          - /url: /@belghamdi.coaching?lang=en
+                          - generic [ref=e195]:
+                            - paragraph [ref=e196]:
+                              - paragraph [ref=e198]: Belghamdi.Coaching
+                            - paragraph [ref=e199]: belghamdi.coaching
+              - button "View all" [ref=e200] [cursor=pointer]:
+                - generic [ref=e201]:
+                  - img [ref=e204]
+                  - generic [ref=e206]: View all
+          - generic [ref=e208]:
+            - heading "Company" [level=4] [ref=e209] [cursor=pointer]
+            - heading "Program" [level=4] [ref=e210] [cursor=pointer]
+            - heading "Terms & Policies" [level=4] [ref=e211] [cursor=pointer]
+            - generic [ref=e212]: © 2026 TikTok
+      - generic [ref=e215]:
+        - generic [ref=e216]:
+          - generic [ref=e217]:
+            - article [ref=e218]:
+              - generic [ref=e219]:
+                - region "Watch in full screen" [ref=e220] [cursor=pointer]:
+                  - generic [ref=e221]:
+                    - 'img "دي قصتي قولي قصتك في التعليقات 👌 #edit #viral" [ref=e225]'
+                    - generic [ref=e228]:
+                      - generic [ref=e229]:
+                        - button "Volume" [pressed] [ref=e232]:
+                          - img [ref=e235]
+                        - button [ref=e240]:
+                          - img [ref=e243]
+                      - generic [ref=e247]:
+                        - generic [ref=e248]:
+                          - link "hegawystores" [ref=e249]:
+                            - /url: /@hegawystores?lang=en
+                            - paragraph [ref=e251]: hegawystores
+                          - generic [ref=e252]: · 3-17
+                        - generic [ref=e253]:
+                          - generic [ref=e256]:
+                            - generic [ref=e257]: دي قصتي قولي قصتك في التعليقات 👌
+                            - link "Watch more videos of the edit category" [ref=e258]:
+                              - /url: /tag/edit?lang=en
+                              - paragraph [ref=e259]: "#edit"
+                            - link "Watch more videos of the viral category" [ref=e261]:
+                              - /url: /tag/viral?lang=en
+                              - paragraph [ref=e262]: "#viral"
+                          - paragraph [ref=e264]: See translation
+                    - generic [ref=e265]:
+                      - paragraph: 00:09 / 00:23
+                      - slider "Video progress" [ref=e269]
+                - generic [ref=e271]:
+                  - link "hegawystores" [ref=e273] [cursor=pointer]:
+                    - /url: /@hegawystores?lang=en
+                    - img "hegawystores" [ref=e277]
+                  - button "Like video 1 likes" [ref=e279] [cursor=pointer]:
+                    - img [ref=e281]
+                    - strong [ref=e286]: "1"
+                  - button "Read or add comments 0 comments" [ref=e287] [cursor=pointer]:
+                    - img [ref=e289]
+                    - strong [ref=e291]: "0"
+                  - button "Add to Favorites. 0 added to Favorites" [ref=e294] [cursor=pointer]:
+                    - img [ref=e296]
+                    - strong [ref=e299]: "0"
+                  - button "Share video 0 shares" [ref=e301] [cursor=pointer]:
+                    - img [ref=e303]
+                    - strong [ref=e307]: Share
+                  - link "Watch more videos with music الصوت الأصلي - Hegawy Stores" [ref=e308] [cursor=pointer]:
+                    - /url: /music/الصوت-الأصلي-7618309859557001992?lang=en
+            - article [ref=e310]:
+              - generic [ref=e311]:
+                - region "Watch in full screen" [ref=e312] [cursor=pointer]:
+                  - generic [ref=e313]:
+                    - 'img "sleeping hug 😘😘 cute couple love you best 🥰🥰# #foryourpage #varal_tik_tok_video #tandingvideo #foryou #outfitguyberwaena" [ref=e317]'
+                    - generic [ref=e320]:
+                      - generic [ref=e321]:
+                        - button "Volume" [pressed] [ref=e324]:
+                          - img [ref=e327]
+                        - button [ref=e332]:
+                          - img [ref=e335]
+                      - generic [ref=e339]:
+                        - generic [ref=e340]:
+                          - link "ak.bok.bhalobasa" [ref=e341]:
+                            - /url: /@ak.bok.bhalobasa?lang=en
+                            - paragraph [ref=e343]: ak.bok.bhalobasa
+                          - generic [ref=e344]: · 4-6
+                        - generic [ref=e346]:
+                          - generic [ref=e348]:
+                            - generic [ref=e349]: sleeping hug 😘😘
+                            - generic [ref=e350]: cute couple love you best 🥰🥰#
+                            - link "Watch more videos of the foryourpage category" [ref=e351]:
+                              - /url: /tag/foryourpage?lang=en
+                              - paragraph [ref=e352]: "#foryourpage"
+                            - link "Watch more videos of the varal_tik_tok_video category" [ref=e354]:
+                              - /url: /tag/varal_tik_tok_video?lang=en
+                              - paragraph [ref=e355]: "#varal_tik_tok_video"
+                            - link "Watch more videos of the tandingvideo category" [ref=e357]:
+                              - /url: /tag/tandingvideo?lang=en
+                              - paragraph [ref=e358]: "#tandingvideo"
+                            - link "Watch more videos of the foryou category" [ref=e360]:
+                              - /url: /tag/foryou?lang=en
+                              - paragraph [ref=e361]: "#foryou"
+                            - link "Watch more videos of the outfitguyberwaena category" [ref=e363]:
+                              - /url: /tag/outfitguyberwaena?lang=en
+                              - paragraph [ref=e364]: "#outfitguyberwaena"
+                          - button "more" [ref=e366]
+                    - generic [ref=e367]:
+                      - paragraph: 00:00 / 00:00
+                      - generic [ref=e370]:
+                        - slider "Video progress"
+                - generic [ref=e372]:
+                  - generic [ref=e373]:
+                    - link "ak.bok.bhalobasa" [ref=e374] [cursor=pointer]:
+                      - /url: /@ak.bok.bhalobasa?lang=en
+                      - img "ak.bok.bhalobasa" [ref=e378]
+                    - button [ref=e379] [cursor=pointer]:
+                      - img [ref=e381]
+                  - button "Like video 2773 likes" [ref=e384] [cursor=pointer]:
+                    - img [ref=e386]
+                    - strong [ref=e391]: "2773"
+                  - button "Read or add comments 43 comments" [ref=e392] [cursor=pointer]:
+                    - img [ref=e394]
+                    - strong [ref=e396]: "43"
+                  - button "Add to Favorites. 441 added to Favorites" [ref=e399] [cursor=pointer]:
+                    - img [ref=e401]
+                    - strong [ref=e404]: "441"
+                  - button "Share video 932 shares" [ref=e406] [cursor=pointer]:
+                    - img [ref=e408]
+                    - strong [ref=e412]: "932"
+                  - link "Watch more videos with music \"Relaxing BGM\" Clear harmony carried by the wind - Focus Forest - Working BGM" [ref=e413] [cursor=pointer]:
+                    - /url: /music/Relaxing-BGM-Clear-harmony-carried-by-the-wind-7593788700776089601?lang=en
+            - article [ref=e415]
+            - article [ref=e416]
+            - article [ref=e417]
+            - article [ref=e418]
+            - article [ref=e419]
+            - article [ref=e420]
+            - article [ref=e421]
+            - article [ref=e422]
+            - article [ref=e423]
+            - article [ref=e424]
+            - article [ref=e425]
+            - article [ref=e426]
+            - article [ref=e427]
+            - article [ref=e428]
+          - complementary:
+            - generic [ref=e429]:
+              - button [disabled] [ref=e431]:
+                - img [ref=e434]
+              - button [ref=e437] [cursor=pointer]:
+                - img [ref=e440]
+        - generic [ref=e443]:
+          - generic [ref=e447] [cursor=pointer]:
+            - generic [ref=e448]:
+              - img [ref=e450]
+              - img "photo" [ref=e451]
+            - generic [ref=e452]:
+              - generic [ref=e453]:
+                - generic [ref=e454]: Sponsored
+                - img [ref=e456]
+              - generic [ref=e458]: "Tiktok ads account results. #fyp #shopify #dropshipping #uae🇦🇪 #ecommerce"
+              - generic [ref=e459]: Yousaf
+              - generic [ref=e460]: Sign up
+          - generic [ref=e461]:
+            - generic [ref=e464]:
+              - button "Comments" [ref=e467] [cursor=pointer]:
+                - generic [ref=e470]: Comments
+              - button "You may like" [ref=e473] [cursor=pointer]:
+                - generic [ref=e476]: You may like
+            - generic [ref=e481]:
+              - generic [ref=e482] [cursor=pointer]:
+                - generic [ref=e483]:
+                  - 'link "sleeping hug 😘😘 cute couple love you best 🥰🥰# #foryourpage #varal_tik_tok_video #tandingvideo #foryou #outfitguyberwaena"':
+                    - /url: /@ak.bok.bhalobasa/video/7625473831238454536
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "sleeping hug 😘😘 cute couple love you best 🥰🥰# #foryourpage #varal_tik_tok_video #tandingvideo #foryou #outfitguyberwaena"'
+                - generic [ref=e485]:
+                  - generic [ref=e486]:
+                    - generic [ref=e487]: "sleeping hug 😘😘 cute couple love you best 🥰🥰# #foryourpage #varal_tik_tok_video #tandingvideo #foryou #outfitguyberwaena"
+                    - img [ref=e489]
+                  - generic [ref=e492]: ak.bok.bhalobasa
+                  - generic [ref=e493]:
+                    - generic [ref=e494]:
+                      - img [ref=e495]
+                      - text: "2773"
+                    - generic [ref=e497]: ·
+                    - generic [ref=e498]: 4-6
+              - generic [ref=e499] [cursor=pointer]:
+                - generic [ref=e500]:
+                  - 'link "قلبي كتير مبسوط😍💓. . . . #foryou #fyp #اغاني_حب #اغاني_شعبيه_مصريه #اسامي_حسب_الطلب🥰"':
+                    - /url: /@nabiladel897/video/7640579254975057173
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "قلبي كتير مبسوط😍💓. . . . #foryou #fyp #اغاني_حب #اغاني_شعبيه_مصريه #اسامي_حسب_الطلب🥰"'
+                - generic [ref=e502]:
+                  - generic [ref=e503]:
+                    - generic [ref=e504]: "قلبي كتير مبسوط😍💓. . . . #foryou #fyp #اغاني_حب #اغاني_شعبيه_مصريه #اسامي_حسب_الطلب🥰"
+                    - img [ref=e506]
+                  - generic [ref=e509]: nabiladel897
+                  - generic [ref=e510]:
+                    - generic [ref=e511]:
+                      - img [ref=e512]
+                      - text: 66.2K
+                    - generic [ref=e514]: ·
+                    - generic [ref=e515]: 5-16
+              - generic [ref=e516] [cursor=pointer]:
+                - generic [ref=e517]:
+                  - link "أنا بحب الفساد 😂😭":
+                    - /url: /@youssef.ahmed0_0/video/7616516266475457799
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "أنا بحب الفساد 😂😭"
+                - generic [ref=e519]:
+                  - generic [ref=e520]:
+                    - generic [ref=e521]: أنا بحب الفساد 😂😭
+                    - img [ref=e523]
+                  - generic [ref=e526]: youssef.ahmed0_0
+                  - generic [ref=e527]:
+                    - generic [ref=e528]:
+                      - img [ref=e529]
+                      - text: 28.4K
+                    - generic [ref=e531]: ·
+                    - generic [ref=e532]: 3-13
+              - generic [ref=e533] [cursor=pointer]:
+                - generic [ref=e534]:
+                  - 'link "« Assassinat de Lyhanna, affaire d’État » : Action des Femen devant le ministère de la Justice."':
+                    - /url: /@brutofficiel/video/7649134356581322016
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "« Assassinat de Lyhanna, affaire d’État » : Action des Femen devant le ministère de la Justice."'
+                - generic [ref=e536]:
+                  - generic [ref=e537]:
+                    - generic [ref=e538]: "« Assassinat de Lyhanna, affaire d’État » : Action des Femen devant le ministère de la Justice."
+                    - img [ref=e540]
+                  - generic [ref=e542]:
+                    - generic [ref=e543]: brutofficiel
+                    - img [ref=e545]
+                  - generic [ref=e549]:
+                    - generic [ref=e550]:
+                      - img [ref=e551]
+                      - text: 7.1M
+                    - generic [ref=e553]: ·
+                    - generic [ref=e554]: 1d ago
+              - generic [ref=e555] [cursor=pointer]:
+                - generic [ref=e556]:
+                  - 'link "‏البنات قبل الجواز وبعد الجواز☺️😂 #نادر_كومديانو #comedy"':
+                    - /url: /@nadercomdiano/video/7630349106568875284
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "‏البنات قبل الجواز وبعد الجواز☺️😂 #نادر_كومديانو #comedy"'
+                - generic [ref=e558]:
+                  - generic [ref=e559]:
+                    - generic [ref=e560]: "‏البنات قبل الجواز وبعد الجواز☺️😂 #نادر_كومديانو #comedy"
+                    - img [ref=e562]
+                  - generic [ref=e565]: nadercomdiano
+                  - generic [ref=e566]:
+                    - generic [ref=e567]:
+                      - img [ref=e568]
+                      - text: 64.5K
+                    - generic [ref=e570]: ·
+                    - generic [ref=e571]: 4-19
+              - generic [ref=e572] [cursor=pointer]:
+                - generic [ref=e573]:
+                  - link "@لي لي فؤاد مش بنتي 🙂":
+                    - /url: /@dona_tella2/video/7617194922424274197
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "@لي لي فؤاد مش بنتي 🙂"
+                - generic [ref=e575]:
+                  - generic [ref=e576]:
+                    - generic [ref=e577]: "@لي لي فؤاد مش بنتي 🙂"
+                    - img [ref=e579]
+                  - generic [ref=e582]: dona_tella2
+                  - generic [ref=e583]:
+                    - generic [ref=e584]:
+                      - img [ref=e585]
+                      - text: 154.8K
+                    - generic [ref=e587]: ·
+                    - generic [ref=e588]: 3-14
+              - generic [ref=e589] [cursor=pointer]:
+                - generic [ref=e590]:
+                  - 'link "太溫柔了吧~ #iQIYI #愛奇藝台灣站 #危情合約 #thecontractofloveanddeception #张北淅 #左一 #zhangbeixi #zuoyi #cdrama #romance #minidrama #verticaldrama #CEO #Officelove #Couple #Dietpepsi"':
+                    - /url: /@iqiyi_tw/video/7636407100809186577
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "太溫柔了吧~ #iQIYI #愛奇藝台灣站 #危情合約 #thecontractofloveanddeception #张北淅 #左一 #zhangbeixi #zuoyi #cdrama #romance #minidrama #verticaldrama #CEO #Officelove #Couple #Dietpepsi"'
+                - generic [ref=e592]:
+                  - generic [ref=e593]:
+                    - generic [ref=e594]: "太溫柔了吧~ #iQIYI #愛奇藝台灣站 #危情合約 #thecontractofloveanddeception #张北淅 #左一 #zhangbeixi #zuoyi #cdrama #romance #minidrama #verticaldrama #CEO #Officelove #Couple #Dietpepsi"
+                    - img [ref=e596]
+                  - generic [ref=e598]:
+                    - generic [ref=e599]: iqiyi_tw
+                    - img [ref=e601]
+                  - generic [ref=e605]:
+                    - generic [ref=e606]:
+                      - img [ref=e607]
+                      - text: 289.7K
+                    - generic [ref=e609]: ·
+                    - generic [ref=e610]: 5-5
+              - generic [ref=e611] [cursor=pointer]:
+                - generic [ref=e612]:
+                  - link "ده عدوه عدوي 🤞🏻🤍..@يوسف جو || Yosef Jo .":
+                    - /url: /@_pepo_2003/video/7635338239540333845
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "ده عدوه عدوي 🤞🏻🤍..@يوسف جو || Yosef Jo ."
+                - generic [ref=e614]:
+                  - generic [ref=e615]:
+                    - generic [ref=e616]: ده عدوه عدوي 🤞🏻🤍..@يوسف جو || Yosef Jo .
+                    - img [ref=e618]
+                  - generic [ref=e621]: _pepo_2003
+                  - generic [ref=e622]:
+                    - generic [ref=e623]:
+                      - img [ref=e624]
+                      - text: 169.5K
+                    - generic [ref=e626]: ·
+                    - generic [ref=e627]: 5-2
+              - generic [ref=e628] [cursor=pointer]:
+                - generic [ref=e629]:
+                  - link "بنتى أنا كيت كات 🍫🤍😹":
+                    - /url: /@gemy1233/video/7644533032367443221
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "بنتى أنا كيت كات 🍫🤍😹"
+                - generic [ref=e631]:
+                  - generic [ref=e632]:
+                    - generic [ref=e633]: بنتى أنا كيت كات 🍫🤍😹
+                    - img [ref=e635]
+                  - generic [ref=e638]: gemy1233
+                  - generic [ref=e639]:
+                    - generic [ref=e640]:
+                      - img [ref=e641]
+                      - text: 319.5K
+                    - generic [ref=e643]: ·
+                    - generic [ref=e644]: 5-27
+              - generic [ref=e645] [cursor=pointer]:
+                - generic [ref=e646]:
+                  - link "اجمل حرف ♥️":
+                    - /url: /@hjshshsjdhbzsnhs/video/7617617619323030801
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "اجمل حرف ♥️"
+                - generic [ref=e648]:
+                  - generic [ref=e649]:
+                    - generic [ref=e650]: اجمل حرف ♥️
+                    - img [ref=e652]
+                  - generic [ref=e655]: hjshshsjdhbzsnhs
+                  - generic [ref=e656]:
+                    - generic [ref=e657]:
+                      - img [ref=e658]
+                      - text: 19.2K
+                    - generic [ref=e660]: ·
+                    - generic [ref=e661]: 3-16
+              - generic [ref=e662] [cursor=pointer]:
+                - generic [ref=e663]:
+                  - 'link "شافوني حسدوا مسموش بجد😭💙🧿 اي لون ب ١٠٠ بسسس بدل ٣٠٠ من براند عدسات ندي @Nada_lenses_store & @nada.lenses.official ندي براون || Nada brown ندي نياجرا جراي || nada niagraa gray #nada_lenses_store #عدسات_ندي_لينسيز #عدسات_ندي_ابوزيد"':
+                    - /url: /@mayare.nagiib/video/7645718152927628562
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "شافوني حسدوا مسموش بجد😭💙🧿 اي لون ب ١٠٠ بسسس بدل ٣٠٠ من براند عدسات ندي @Nada_lenses_store & @nada.lenses.official ندي براون || Nada brown ندي نياجرا جراي || nada niagraa gray #nada_lenses_store #عدسات_ندي_لينسيز #عدسات_ندي_ابوزيد"'
+                - generic [ref=e665]:
+                  - generic [ref=e666]:
+                    - generic [ref=e667]: "شافوني حسدوا مسموش بجد😭💙🧿 اي لون ب ١٠٠ بسسس بدل ٣٠٠ من براند عدسات ندي @Nada_lenses_store & @nada.lenses.official ندي براون || Nada brown ندي نياجرا جراي || nada niagraa gray #nada_lenses_store #عدسات_ندي_لينسيز #عدسات_ندي_ابوزيد"
+                    - img [ref=e669]
+                  - generic [ref=e671]:
+                    - generic [ref=e672]: mayare.nagiib
+                    - img [ref=e674]
+                  - generic [ref=e678]:
+                    - generic [ref=e679]:
+                      - img [ref=e680]
+                      - text: 88K
+                    - generic [ref=e682]: ·
+                    - generic [ref=e683]: 5-30
+              - generic [ref=e684] [cursor=pointer]:
+                - generic [ref=e685]:
+                  - link "لو انت أهلاوي اثبت حضورك هنا ❤️💪":
+                    - /url: /@actor_610/video/7635028117656030472
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "لو انت أهلاوي اثبت حضورك هنا ❤️💪"
+                - generic [ref=e687]:
+                  - generic [ref=e688]:
+                    - generic [ref=e689]: لو انت أهلاوي اثبت حضورك هنا ❤️💪
+                    - img [ref=e691]
+                  - generic [ref=e694]: actor_610
+                  - generic [ref=e695]:
+                    - generic [ref=e696]:
+                      - img [ref=e697]
+                      - text: 70.6K
+                    - generic [ref=e699]: ·
+                    - generic [ref=e700]: 5-1
+              - generic [ref=e701] [cursor=pointer]:
+                - generic [ref=e702]:
+                  - 'link "حصل 😅🫵#fyp #foryou"':
+                    - /url: /@marleyzakkk/video/7620969798700174600
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "حصل 😅🫵#fyp #foryou"'
+                - generic [ref=e704]:
+                  - generic [ref=e705]:
+                    - generic [ref=e706]: "حصل 😅🫵#fyp #foryou"
+                    - img [ref=e708]
+                  - generic [ref=e711]: marleyzakkk
+                  - generic [ref=e712]:
+                    - generic [ref=e713]:
+                      - img [ref=e714]
+                      - text: 350.2K
+                    - generic [ref=e716]: ·
+                    - generic [ref=e717]: 3-25
+              - generic [ref=e718] [cursor=pointer]:
+                - generic [ref=e719]:
+                  - link "#onthisday":
+                    - /url: /@ah2._.0d/video/7646037290564783378
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "#onthisday"
+                - generic [ref=e721]:
+                  - generic [ref=e722]:
+                    - generic [ref=e723]: "#onthisday"
+                    - img [ref=e725]
+                  - generic [ref=e728]: ah2._.0d
+                  - generic [ref=e729]:
+                    - generic [ref=e730]:
+                      - img [ref=e731]
+                      - text: "9566"
+                    - generic [ref=e733]: ·
+                    - generic [ref=e734]: 5-31
+              - generic [ref=e735] [cursor=pointer]:
+                - generic [ref=e736]:
+                  - link "نظرات الاعجاب 😂❤️اعملو لايك ومتنسوش نسخ الرابط":
+                    - /url: /@barazely00/video/7622387628964465940
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "نظرات الاعجاب 😂❤️اعملو لايك ومتنسوش نسخ الرابط"
+                - generic [ref=e738]:
+                  - generic [ref=e739]:
+                    - generic [ref=e740]: نظرات الاعجاب 😂❤️اعملو لايك ومتنسوش نسخ الرابط
+                    - img [ref=e742]
+                  - generic [ref=e745]: barazely00
+                  - generic [ref=e746]:
+                    - generic [ref=e747]:
+                      - img [ref=e748]
+                      - text: 90.4K
+                    - generic [ref=e750]: ·
+                    - generic [ref=e751]: 3-28
+      - generic [ref=e754]:
+        - button [ref=e757] [cursor=pointer]:
+          - img [ref=e759]
+        - button [ref=e764] [cursor=pointer]:
+          - img [ref=e766]
+        - button [ref=e771] [cursor=pointer]:
+          - img [ref=e775]

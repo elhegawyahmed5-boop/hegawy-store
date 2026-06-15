@@ -1,0 +1,19 @@
+[     923ms] [WARNING] [GPT] PubAdsService.enableSingleRequest is deprecated, use googletag.setConfig({singleRequest: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202606040101/pubads_impl.js:18
+[    1232ms] [ERROR] Failed to load resource: the server responded with a status of 503 () @ https://ads-api.x.com/12/measurement/dcm_local_id:0
+[    2782ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://x.com/settings/profile:0
+[   39041ms] Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at P (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:27:1006)
+    at sc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:45:201)
+    at qc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:43:1269)
+    at yc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:50:606)
+    at zc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:872)
+    at xc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:705)
+    at Ic (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:131)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:373)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:566)
+[   40007ms] [DIR] SyntaxError @ https://js.ad-score.com/score.min.js?pid=1000941&tt=g:1
+[   40196ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   40412ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000941&tt=g:1
+[   40645ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://c0bc34fa84eb6270d1d8c46146a3c08e.safeframe.googlesyndication.com" from accessing a frame with origin "https://x.com". Protocols, domains, and ports must match.
+[   40647ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://c0bc34fa84eb6270d1d8c46146a3c08e.safeframe.googlesyndication.com" from accessing a frame with origin "https://x.com". Protocols, domains, and ports must match.

@@ -1,0 +1,318 @@
+- generic [active] [ref=e1]:
+  - img
+  - generic [ref=e2]:
+    - region "Notifications alt+T":
+      - list:
+        - listitem [ref=e3]:
+          - button "Close toast" [ref=e4] [cursor=pointer]:
+            - img [ref=e5]
+          - generic [ref=e7]:
+            - generic [ref=e9] [cursor=pointer]:
+              - generic [ref=e10]:
+                - link "Profile photo" [ref=e12]:
+                  - /url: /@elhegawy7_?lang=en
+                  - img "Profile photo" [ref=e14]
+                  - img [ref=e16]
+                - generic [ref=e19]:
+                  - heading "elhegawy7" [level=4] [ref=e21]:
+                    - link "elhegawy7" [ref=e22]:
+                      - /url: /@elhegawy7_?lang=en
+                  - paragraph [ref=e23]: liked your video.
+              - link [ref=e25]:
+                - /url: /@7598222841687163921/video/7618309814074101013?lang=en
+            - separator [ref=e27]
+        - listitem [ref=e28]:
+          - button "Close toast" [ref=e29] [cursor=pointer]:
+            - img [ref=e30]
+          - generic [ref=e32]:
+            - generic [ref=e34] [cursor=pointer]:
+              - generic [ref=e35]:
+                - link "Profile photo" [ref=e37]:
+                  - /url: /@.v.e.d.o?lang=en
+                  - img "Profile photo" [ref=e39]
+                  - img [ref=e41]
+                - generic [ref=e44]:
+                  - heading "vedo|فيدو" [level=4] [ref=e46]:
+                    - link "vedo|فيدو" [ref=e47]:
+                      - /url: /@.v.e.d.o?lang=en
+                  - paragraph [ref=e48]: liked your video.
+              - link [ref=e50]:
+                - /url: /@7598222841687163921/video/7618309814074101013?lang=en
+            - separator [ref=e52]
+        - listitem [ref=e53]:
+          - button "Close toast" [ref=e54] [cursor=pointer]:
+            - img [ref=e55]
+          - generic [ref=e57]:
+            - generic [ref=e59] [cursor=pointer]:
+              - generic [ref=e60]:
+                - link "Profile photo" [ref=e62]:
+                  - /url: /@elhegawy7_?lang=en
+                  - img "Profile photo" [ref=e64]
+                  - img [ref=e66]
+                - generic [ref=e69]:
+                  - heading "elhegawy7" [level=4] [ref=e71]:
+                    - link "elhegawy7" [ref=e72]:
+                      - /url: /@elhegawy7_?lang=en
+                  - paragraph [ref=e73]: liked your video.
+              - link [ref=e75]:
+                - /url: /@7598222841687163921/video/7607160234196339975?lang=en
+            - separator [ref=e77]
+    - generic [ref=e78]:
+      - generic [ref=e80]:
+        - generic [ref=e82]:
+          - link "Go to TikTok For You feed" [ref=e84] [cursor=pointer]:
+            - /url: /?lang=en
+            - img [ref=e85]
+            - strong: TikTok
+          - searchbox "Search" [ref=e90] [cursor=pointer]:
+            - generic [ref=e91]:
+              - img [ref=e94]
+              - generic [ref=e96]: Search
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - heading "For You" [level=2] [ref=e99]:
+              - link "For You" [ref=e101] [cursor=pointer]:
+                - /url: /
+                - listitem "For You" [ref=e102]:
+                  - generic [ref=e103]:
+                    - img [ref=e106]
+                    - generic [ref=e108]: For You
+            - heading "Explore" [level=2] [ref=e109]:
+              - link "Explore" [ref=e111] [cursor=pointer]:
+                - /url: /explore?lang=en
+                - listitem "Explore" [ref=e112]:
+                  - generic [ref=e113]:
+                    - img [ref=e116]
+                    - generic [ref=e119]: Explore
+            - heading "Following" [level=2] [ref=e120]:
+              - link "Following" [ref=e122] [cursor=pointer]:
+                - /url: /following?lang=en
+                - listitem "Following" [ref=e123]:
+                  - generic [ref=e124]:
+                    - img "Avatar for shaadytarek" [ref=e128]
+                    - generic [ref=e129]: Following
+            - heading "Friends" [level=2] [ref=e130]:
+              - link "Friends" [ref=e132] [cursor=pointer]:
+                - /url: /friends?lang=en
+                - listitem "Friends" [ref=e133]:
+                  - generic [ref=e134]:
+                    - img [ref=e137]
+                    - generic [ref=e139]: Friends
+            - heading "LIVE" [level=2] [ref=e140]:
+              - link "LIVE" [ref=e143] [cursor=pointer]:
+                - /url: /live?lang=en
+                - listitem "LIVE" [ref=e144]:
+                  - generic [ref=e145]:
+                    - img [ref=e148]
+                    - generic [ref=e151]: LIVE
+            - heading "Messages" [level=2] [ref=e152]:
+              - link "Messages" [ref=e154] [cursor=pointer]:
+                - /url: /messages?lang=en
+                - listitem "Messages" [ref=e155]:
+                  - generic [ref=e156]:
+                    - img [ref=e159]
+                    - generic [ref=e161]: Messages
+            - listitem "Activity" [ref=e163] [cursor=pointer]:
+              - generic [ref=e164]:
+                - generic [ref=e166]:
+                  - img [ref=e167]
+                  - superscript [ref=e170]:
+                    - paragraph [ref=e171]: "35"
+                - generic [ref=e172]: Activity
+            - link "Upload" [ref=e174] [cursor=pointer]:
+              - /url: /tiktokstudio/upload?from=webapp&lang=en&tab=video
+              - listitem "Upload" [ref=e176]:
+                - generic [ref=e177]:
+                  - img [ref=e180]
+                  - generic [ref=e183]: Upload
+            - heading "Profile" [level=2] [ref=e184]:
+              - link "Profile" [ref=e186] [cursor=pointer]:
+                - /url: /@elhegawyeditor?lang=en
+                - listitem "Profile" [ref=e187]:
+                  - generic [ref=e188]:
+                    - img [ref=e191]
+                    - generic [ref=e192]: Profile
+            - listitem "More" [ref=e194] [cursor=pointer]:
+              - generic [ref=e195]:
+                - img [ref=e199]
+                - generic [ref=e202]: More
+          - generic [ref=e204]:
+            - paragraph [ref=e205]: Following accounts
+            - generic [ref=e206]:
+              - list [ref=e207]:
+                - listitem [ref=e208]:
+                  - link "Avatar for abdo_qr17 أَمَــل غَـفَـر اللّٰه لَها 🍂 abdo_qr17" [ref=e209] [cursor=pointer]:
+                    - /url: /@abdo_qr17?lang=en
+                    - button "Avatar for abdo_qr17 أَمَــل غَـفَـر اللّٰه لَها 🍂 abdo_qr17" [ref=e210]:
+                      - generic [ref=e213]:
+                        - img "Avatar for abdo_qr17" [ref=e216]
+                        - link "أَمَــل غَـفَـر اللّٰه لَها 🍂 abdo_qr17" [ref=e217]:
+                          - /url: /@abdo_qr17?lang=en
+                          - generic [ref=e218]:
+                            - paragraph [ref=e219]:
+                              - paragraph [ref=e221]: أَمَــل غَـفَـر اللّٰه لَها 🍂
+                            - paragraph [ref=e222]: abdo_qr17
+                - listitem [ref=e223]:
+                  - link "Avatar for ammmasa0922 كرومات قرآن | Quran ammmasa0922" [ref=e224] [cursor=pointer]:
+                    - /url: /@ammmasa0922?lang=en
+                    - button "Avatar for ammmasa0922 كرومات قرآن | Quran ammmasa0922" [ref=e225]:
+                      - generic [ref=e228]:
+                        - img "Avatar for ammmasa0922" [ref=e231]
+                        - link "كرومات قرآن | Quran ammmasa0922" [ref=e232]:
+                          - /url: /@ammmasa0922?lang=en
+                          - generic [ref=e233]:
+                            - paragraph [ref=e234]:
+                              - paragraph [ref=e236]: كرومات قرآن | Quran
+                            - paragraph [ref=e237]: ammmasa0922
+                - listitem [ref=e238]:
+                  - link "Avatar for tarafsfljir قران/📚🎧 tarafsfljir" [ref=e239] [cursor=pointer]:
+                    - /url: /@tarafsfljir?lang=en
+                    - button "Avatar for tarafsfljir قران/📚🎧 tarafsfljir" [ref=e240]:
+                      - generic [ref=e243]:
+                        - img "Avatar for tarafsfljir" [ref=e246]
+                        - link "قران/📚🎧 tarafsfljir" [ref=e247]:
+                          - /url: /@tarafsfljir?lang=en
+                          - generic [ref=e248]:
+                            - paragraph [ref=e249]:
+                              - paragraph [ref=e251]: قران/📚🎧
+                            - paragraph [ref=e252]: tarafsfljir
+                - listitem [ref=e253]:
+                  - link "Avatar for science_based_toji science_based_toji science_based_toji" [ref=e254] [cursor=pointer]:
+                    - /url: /@science_based_toji?lang=en
+                    - button "Avatar for science_based_toji science_based_toji science_based_toji" [ref=e255]:
+                      - generic [ref=e258]:
+                        - img "Avatar for science_based_toji" [ref=e261]
+                        - link "science_based_toji science_based_toji" [ref=e262]:
+                          - /url: /@science_based_toji?lang=en
+                          - generic [ref=e263]:
+                            - paragraph [ref=e264]:
+                              - paragraph [ref=e266]: science_based_toji
+                            - paragraph [ref=e267]: science_based_toji
+                - listitem [ref=e268]:
+                  - link "Avatar for belghamdi.coaching Belghamdi.Coaching belghamdi.coaching" [ref=e269] [cursor=pointer]:
+                    - /url: /@belghamdi.coaching?lang=en
+                    - button "Avatar for belghamdi.coaching Belghamdi.Coaching belghamdi.coaching" [ref=e270]:
+                      - generic [ref=e273]:
+                        - img "Avatar for belghamdi.coaching" [ref=e276]
+                        - link "Belghamdi.Coaching belghamdi.coaching" [ref=e277]:
+                          - /url: /@belghamdi.coaching?lang=en
+                          - generic [ref=e278]:
+                            - paragraph [ref=e279]:
+                              - paragraph [ref=e281]: Belghamdi.Coaching
+                            - paragraph [ref=e282]: belghamdi.coaching
+              - button "View all" [ref=e283] [cursor=pointer]:
+                - generic [ref=e284]:
+                  - img [ref=e287]
+                  - generic [ref=e289]: View all
+          - generic [ref=e291]:
+            - heading "Company" [level=3] [ref=e292] [cursor=pointer]
+            - heading "Program" [level=3] [ref=e293] [cursor=pointer]
+            - heading "Terms & Policies" [level=3] [ref=e294] [cursor=pointer]
+            - generic [ref=e295]: © 2026 TikTok
+      - main [ref=e296]:
+        - generic [ref=e297]:
+          - article [ref=e298]:
+            - generic [ref=e299]:
+              - region "Watch in full screen" [ref=e300] [cursor=pointer]:
+                - generic [ref=e301]:
+                  - img "Maintenance calories effect 🦧" [ref=e305]
+                  - generic [ref=e308]:
+                    - generic [ref=e309]:
+                      - button "Volume" [pressed] [ref=e312]:
+                        - img [ref=e315]
+                      - button [ref=e320]:
+                        - img [ref=e323]
+                    - generic [ref=e327]:
+                      - link "shaadytarek" [ref=e329]:
+                        - /url: /@shaadytarek?lang=en
+                        - paragraph [ref=e331]: shaadytarek
+                      - generic [ref=e336]: Maintenance calories effect 🦧
+                  - generic [ref=e337]:
+                    - paragraph: 00:05 / 00:11
+                    - slider "Video progress" [ref=e341]
+              - generic [ref=e343]:
+                - generic [ref=e344]:
+                  - link "shaadytarek" [ref=e345] [cursor=pointer]:
+                    - /url: /@shaadytarek?lang=en
+                    - img "shaadytarek" [ref=e349]
+                  - button [ref=e350] [cursor=pointer]:
+                    - img [ref=e352]
+                - button "Like video 13.5K likes" [ref=e355] [cursor=pointer]:
+                  - img [ref=e357]
+                  - strong [ref=e362]: 13.5K
+                - button "Read or add comments 133 comments" [ref=e363] [cursor=pointer]:
+                  - img [ref=e365]
+                  - strong [ref=e367]: "133"
+                - button "Add to Favorites. 675 added to Favorites" [ref=e370] [cursor=pointer]:
+                  - img [ref=e372]
+                  - strong [ref=e375]: "675"
+                - button "Share video 598 shares" [ref=e377] [cursor=pointer]:
+                  - img [ref=e379]
+                  - strong [ref=e383]: "598"
+                - link "Watch more videos with music original sound - The Don" [ref=e384] [cursor=pointer]:
+                  - /url: /music/original-sound-7575612189868919568?lang=en
+          - article [ref=e386]:
+            - generic [ref=e387]:
+              - generic [ref=e388]:
+                - region "Watch in full screen" [ref=e389] [cursor=pointer]:
+                  - generic [ref=e390]:
+                    - img "‏الآن الفرصة بين يدك😨؟" [ref=e394]
+                    - generic [ref=e397]:
+                      - generic [ref=e398]:
+                        - button "Volume" [pressed] [ref=e401]:
+                          - img [ref=e404]
+                        - button [ref=e409]:
+                          - img [ref=e412]
+                      - generic [ref=e416]:
+                        - link "oox55" [ref=e418]:
+                          - /url: /@oox55?lang=en
+                          - paragraph [ref=e420]: oox55
+                        - generic [ref=e425]: ‏الآن الفرصة بين يدك😨؟
+                        - paragraph [ref=e428]: Sponsored
+                    - generic [ref=e429]:
+                      - paragraph: 00:00 / 00:00
+                      - generic [ref=e432]:
+                        - slider "Video progress"
+                - button "Learn more" [ref=e434] [cursor=pointer]:
+                  - generic [ref=e435]:
+                    - generic [ref=e436]: Learn more
+                    - img [ref=e438]
+              - generic [ref=e440]:
+                - generic [ref=e441]:
+                  - link "oox55" [ref=e442] [cursor=pointer]:
+                    - /url: /@oox55?lang=en
+                    - img "oox55" [ref=e446]
+                  - button [ref=e447] [cursor=pointer]:
+                    - img [ref=e449]
+                - button "Like video 33.9K likes" [ref=e452] [cursor=pointer]:
+                  - img [ref=e454]
+                  - strong [ref=e459]: 33.9K
+                - button "Read or add comments 331 comments" [ref=e460] [cursor=pointer]:
+                  - img [ref=e462]
+                  - strong [ref=e464]: "331"
+                - button "Share video 277 shares" [ref=e466] [cursor=pointer]:
+                  - img [ref=e468]
+                  - strong [ref=e472]: "277"
+                - link "Watch more videos with music Promoted Music" [ref=e473] [cursor=pointer]:
+                  - /url: /music/Promoted-Music-7638328009032354577?lang=en
+          - article [ref=e475]
+          - article [ref=e476]
+          - article [ref=e477]
+          - article [ref=e478]
+        - complementary:
+          - generic [ref=e479]:
+            - button [disabled] [ref=e481]:
+              - img [ref=e484]
+            - button [ref=e487] [cursor=pointer]:
+              - img [ref=e490]
+        - generic [ref=e494]:
+          - button "Get Coins" [ref=e497] [cursor=pointer]:
+            - img [ref=e499]
+            - generic [ref=e502]: Get Coins
+          - button "Get App" [ref=e505] [cursor=pointer]:
+            - img [ref=e507]
+            - generic [ref=e510]: Get App
+          - button [ref=e513] [cursor=pointer]:
+            - img [ref=e517]
+  - tooltip "Post video" [ref=e518]:
+    - paragraph [ref=e520]: Post video

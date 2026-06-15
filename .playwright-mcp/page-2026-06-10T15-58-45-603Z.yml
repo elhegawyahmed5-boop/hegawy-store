@@ -1,0 +1,205 @@
+- generic [ref=e2]:
+  - region "Notifications alt+T"
+  - generic [ref=e8]:
+    - generic [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to TikTok For You feed" [ref=e14] [cursor=pointer]:
+          - /url: /?lang=en
+          - img [ref=e15]
+          - strong: TikTok
+        - searchbox "Search" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]:
+            - img [ref=e24]
+            - generic [ref=e26]: Search
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - heading "For You" [level=2] [ref=e29]:
+            - link "For You" [ref=e31] [cursor=pointer]:
+              - /url: /
+              - listitem "For You" [ref=e32]:
+                - generic [ref=e33]:
+                  - img [ref=e36]
+                  - generic [ref=e38]: For You
+          - heading "Explore" [level=2] [ref=e39]:
+            - link "Explore" [ref=e41] [cursor=pointer]:
+              - /url: /explore?lang=en
+              - listitem "Explore" [ref=e42]:
+                - generic [ref=e43]:
+                  - img [ref=e46]
+                  - generic [ref=e49]: Explore
+          - heading "Following" [level=2] [ref=e50]:
+            - link "Following" [ref=e52] [cursor=pointer]:
+              - /url: /following?lang=en
+              - listitem "Following" [ref=e53]:
+                - generic [ref=e54]:
+                  - img [ref=e58]
+                  - generic [ref=e61]: Following
+          - heading "LIVE" [level=2] [ref=e62]:
+            - link "LIVE" [ref=e65] [cursor=pointer]:
+              - /url: /live?lang=en
+              - listitem "LIVE" [ref=e66]:
+                - generic [ref=e67]:
+                  - img [ref=e70]
+                  - generic [ref=e73]: LIVE
+          - link "Upload" [ref=e75] [cursor=pointer]:
+            - /url: /tiktokstudio/upload?from=webapp&lang=en&tab=video
+            - listitem "Upload" [ref=e76]:
+              - generic [ref=e77]:
+                - img [ref=e80]
+                - generic [ref=e83]: Upload
+          - heading "Profile" [level=2] [ref=e84]:
+            - link "Profile" [ref=e86] [cursor=pointer]:
+              - /url: /@?lang=en
+              - listitem "Profile" [ref=e87]:
+                - generic [ref=e88]:
+                  - img [ref=e91]
+                  - generic [ref=e93]: Profile
+          - listitem "More" [ref=e95] [cursor=pointer]:
+            - generic [ref=e96]:
+              - img [ref=e100]
+              - generic [ref=e103]: More
+        - button "Log in" [ref=e106] [cursor=pointer]:
+          - generic [ref=e108]: Log in
+        - generic [ref=e110]:
+          - heading "Company" [level=3] [ref=e111] [cursor=pointer]
+          - heading "Program" [level=3] [ref=e112] [cursor=pointer]
+          - heading "Terms & Policies" [level=3] [ref=e113] [cursor=pointer]
+          - generic [ref=e114]: © 2026 TikTok
+    - main [ref=e115]:
+      - generic [ref=e116]:
+        - article [ref=e117]:
+          - generic [ref=e118]:
+            - region "Watch in full screen" [ref=e119] [cursor=pointer]:
+              - generic [ref=e120]:
+                - 'img "{ اللهم صلِ على محمد عدد ماذكره الذاكرون }___________ { وغفلَ عند ذِكره الغافلون } _______________{ مواعظ وتذكير }__________ #صلوا_على_رسول_الله #مواعظ" [ref=e124]'
+                - generic [ref=e127]:
+                  - generic [ref=e128]:
+                    - button "Volume" [pressed] [ref=e131]:
+                      - img [ref=e134]
+                    - button [ref=e139]:
+                      - img [ref=e142]
+                  - generic [ref=e146]:
+                    - link "waled_quran_" [ref=e148]:
+                      - /url: /@waled_quran_?lang=en
+                      - paragraph [ref=e150]: waled_quran_
+                    - generic [ref=e151]:
+                      - generic [ref=e154]:
+                        - generic [ref=e155]: "{ اللهم صلِ على محمد عدد ماذكره الذاكرون }___________ { وغفلَ عند ذِكره الغافلون } _______________{ مواعظ وتذكير }__________"
+                        - link "Watch more videos of the صلوا_على_رسول_الله category" [ref=e156]:
+                          - /url: /tag/%D8%B5%D9%84%D9%88%D8%A7_%D8%B9%D9%84%D9%89_%D8%B1%D8%B3%D9%88%D9%84_%D8%A7%D9%84%D9%84%D9%87?lang=en
+                          - paragraph [ref=e157]: "#صلوا_على_رسول_الله"
+                        - link "Watch more videos of the مواعظ category" [ref=e159]:
+                          - /url: /tag/%D9%85%D9%88%D8%A7%D8%B9%D8%B8?lang=en
+                          - paragraph [ref=e160]: "#مواعظ"
+                      - paragraph [ref=e162]: See translation
+                - generic [ref=e163]:
+                  - paragraph: 00:01 / 00:05
+                  - slider "Video progress" [ref=e167]
+            - generic [ref=e169]:
+              - generic [ref=e170]:
+                - link "waled_quran_" [ref=e171] [cursor=pointer]:
+                  - /url: /@waled_quran_?lang=en
+                  - img "waled_quran_" [ref=e175]
+                - button [ref=e176] [cursor=pointer]:
+                  - img [ref=e178]
+              - button "Like video 91.6K likes" [ref=e181] [cursor=pointer]:
+                - img [ref=e183]
+                - strong [ref=e188]: 91.6K
+              - button "Read or add comments 1030 comments" [ref=e189] [cursor=pointer]:
+                - img [ref=e191]
+                - strong [ref=e193]: "1030"
+              - button "Add to Favorites. 4126 added to Favorites" [ref=e196] [cursor=pointer]:
+                - img [ref=e198]
+                - strong [ref=e201]: "4126"
+              - button "Share video 4253 shares" [ref=e203] [cursor=pointer]:
+                - img [ref=e205]
+                - strong [ref=e209]: "4253"
+              - link "Watch more videos with music الصوت الأصلي - waled_quran_" [ref=e210] [cursor=pointer]:
+                - /url: /music/الصوت-الأصلي-7631889208407984903?lang=en
+        - article [ref=e212]:
+          - generic [ref=e213]:
+            - region "Watch in full screen" [ref=e214] [cursor=pointer]:
+              - generic [ref=e215]:
+                - 'img "ابعت \" تدريب \" علشان تدخل الصيف بقلب جامد Creatojine CODE : Toji10 ——————————————————————————————————————————————————————————————————————————————————————————— #dr_abdulrahman_talaat #highintensitytraining #hypertrophy #gymtok #science_based_toji" [ref=e219]'
+                - generic [ref=e222]:
+                  - generic [ref=e223]:
+                    - button "Volume" [pressed] [ref=e226]:
+                      - img [ref=e229]
+                    - button [ref=e234]:
+                      - img [ref=e237]
+                  - generic [ref=e241]:
+                    - link "Green Screen" [ref=e244]:
+                      - /url: /effect/Green-Screen-279660?lang=en
+                      - generic [ref=e245]:
+                        - img [ref=e246]
+                        - paragraph [ref=e252]: Green Screen
+                    - link "science_based_toji" [ref=e254]:
+                      - /url: /@science_based_toji?lang=en
+                      - paragraph [ref=e256]: science_based_toji
+                    - generic [ref=e257]:
+                      - generic [ref=e258]:
+                        - generic [ref=e260]:
+                          - generic [ref=e261]: ابعت " تدريب " علشان تدخل الصيف بقلب جامد
+                          - generic [ref=e262]: "Creatojine CODE : Toji10"
+                          - generic [ref=e263]: ———————————————————————————————————————————————————————————————————————————————————————————
+                          - link "Watch more videos of the dr_abdulrahman_talaat category" [ref=e264]:
+                            - /url: /tag/dr_abdulrahman_talaat?lang=en
+                            - paragraph [ref=e265]: "#dr_abdulrahman_talaat"
+                          - link "Watch more videos of the highintensitytraining category" [ref=e267]:
+                            - /url: /tag/highintensitytraining?lang=en
+                            - paragraph [ref=e268]: "#highintensitytraining"
+                          - link "Watch more videos of the hypertrophy category" [ref=e270]:
+                            - /url: /tag/hypertrophy?lang=en
+                            - paragraph [ref=e271]: "#hypertrophy"
+                          - link "Watch more videos of the gymtok category" [ref=e273]:
+                            - /url: /tag/gymtok?lang=en
+                            - paragraph [ref=e274]: "#gymtok"
+                          - link "Watch more videos of the science_based_toji category" [ref=e276]:
+                            - /url: /tag/science_based_toji?lang=en
+                            - paragraph [ref=e277]: "#science_based_toji"
+                        - button "more" [ref=e279]
+                      - paragraph [ref=e280]: See translation
+                - generic [ref=e281]:
+                  - paragraph: 00:00 / 00:00
+                  - generic [ref=e284]:
+                    - slider "Video progress"
+            - generic [ref=e286]:
+              - generic [ref=e287]:
+                - link "science_based_toji" [ref=e288] [cursor=pointer]:
+                  - /url: /@science_based_toji?lang=en
+                  - img "science_based_toji" [ref=e292]
+                - button [ref=e293] [cursor=pointer]:
+                  - img [ref=e295]
+              - button "Like video 1953 likes" [ref=e298] [cursor=pointer]:
+                - img [ref=e300]
+                - strong [ref=e305]: "1953"
+              - button "Read or add comments 48 comments" [ref=e306] [cursor=pointer]:
+                - img [ref=e308]
+                - strong [ref=e310]: "48"
+              - button "Add to Favorites. 380 added to Favorites" [ref=e313] [cursor=pointer]:
+                - img [ref=e315]
+                - strong [ref=e318]: "380"
+              - button "Share video 174 shares" [ref=e320] [cursor=pointer]:
+                - img [ref=e322]
+                - strong [ref=e326]: "174"
+              - link "Watch more videos with music original sound - science_based_toji" [ref=e327] [cursor=pointer]:
+                - /url: /music/original-sound-7642783587842607889?lang=en
+        - article [ref=e329]
+        - article [ref=e330]
+        - article [ref=e331]
+        - article [ref=e332]
+      - complementary:
+        - generic [ref=e333]:
+          - button [disabled] [ref=e335]:
+            - img [ref=e338]
+          - button [ref=e341] [cursor=pointer]:
+            - img [ref=e344]
+      - generic [ref=e348]:
+        - button "Get Coins" [ref=e351] [cursor=pointer]:
+          - img [ref=e353]
+          - generic [ref=e356]: Get Coins
+        - button "Get App" [ref=e359] [cursor=pointer]:
+          - img [ref=e361]
+          - generic [ref=e364]: Get App
+        - button "Log in" [ref=e367] [cursor=pointer]:
+          - generic [ref=e369]: Log in

@@ -1,0 +1,282 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - banner:
+        - generic [ref=e6]:
+          - generic:
+            - generic:
+              - button [disabled]:
+                - img
+          - link "Facebook" [ref=e7] [cursor=pointer]:
+            - /url: /
+            - img [ref=e8]
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - generic:
+              - generic:
+                - generic:
+                  - button:
+                    - img
+          - generic [ref=e19]:
+            - generic:
+              - img
+            - combobox "Search Facebook" [ref=e20] [cursor=pointer]
+        - navigation "Facebook" [ref=e24]:
+          - list [ref=e25]:
+            - listitem [ref=e26]:
+              - link "Home" [ref=e29] [cursor=pointer]:
+                - /url: /
+                - img [ref=e31]
+            - listitem [ref=e33]:
+              - link "Reels" [ref=e36] [cursor=pointer]:
+                - /url: /reel/?s=tab
+                - img [ref=e38]
+            - listitem [ref=e41]:
+              - link "Friends" [ref=e44] [cursor=pointer]:
+                - /url: /friends/
+                - img [ref=e46]
+            - listitem [ref=e48]:
+              - link "Groups" [ref=e51] [cursor=pointer]:
+                - /url: /groups/
+                - img [ref=e53]
+        - navigation "Account controls and settings" [ref=e56]:
+          - button "Facebook menu" [ref=e60] [cursor=pointer]:
+            - img [ref=e61]
+          - button "Messenger" [ref=e67] [cursor=pointer]:
+            - img [ref=e68]
+          - generic [ref=e73]:
+            - button "Notifications, 1 unread" [ref=e74] [cursor=pointer]:
+              - img [ref=e75]
+            - button [ref=e77] [cursor=pointer]:
+              - generic [ref=e78]:
+                - generic [ref=e79]: Number of unread notifications
+                - generic [ref=e80]: "1"
+          - button "Your profile" [ref=e83] [cursor=pointer]:
+            - generic [ref=e84]:
+              - img "Your profile" [ref=e85]
+              - img [ref=e92]
+      - generic [ref=e99]:
+        - main "Page creation form" [ref=e100]:
+          - generic [ref=e101]:
+            - generic [ref=e105]:
+              - generic [ref=e411]: Step 1 of 5
+              - generic [ref=e113]:
+                - heading "Finish setting up your Page" [level=1] [ref=e412]
+                - generic [ref=e413]: Success! You've created Hegawy Stores. Now, add more details to help people connect with you.
+            - form "Pages" [ref=e122]:
+              - generic [ref=e415]:
+                - button "Learn why contact and location information matter" [ref=e417] [cursor=pointer]:
+                  - generic [ref=e418]:
+                    - img [ref=e420]
+                    - generic [ref=e424]:
+                      - generic [ref=e425]: Helps improve ad results
+                      - text: Helps improve ad results
+                - heading "Contact" [level=2] [ref=e426]:
+                  - generic [ref=e427]: Contact
+                - generic [ref=e432]:
+                  - generic: Website
+                  - textbox "Website" [ref=e433]
+                - generic [ref=e436]:
+                  - button "Country code, US+1" [ref=e439] [cursor=pointer]:
+                    - generic [ref=e442]: US+1
+                  - generic [ref=e449]:
+                    - generic: Phone number
+                    - textbox "Phone number" [ref=e450]
+                - generic [ref=e455]:
+                  - generic: Email address
+                  - textbox "Email address" [ref=e456]
+                - heading "Location" [level=2] [ref=e457]:
+                  - generic [ref=e458]: Location
+                - generic [ref=e463]:
+                  - generic: Address
+                  - textbox "Address" [ref=e464]
+                - generic [ref=e473]:
+                  - generic: Town/city
+                  - combobox "Town/city" [ref=e474]
+                - generic [ref=e479]:
+                  - generic: Postcode
+                  - textbox "Postcode" [ref=e480]
+                - heading "Hours Let people know your location's hours." [level=2] [ref=e481]:
+                  - generic [ref=e482]:
+                    - generic [ref=e484]: Hours
+                    - generic [ref=e486]: Let people know your location's hours.
+                - generic [ref=e488]:
+                  - generic [ref=e491]:
+                    - radio "No hours available" [ref=e495] [cursor=pointer]
+                    - generic [ref=e496]:
+                      - generic [ref=e497]: No hours available
+                      - generic [ref=e498]: Don't show any hours.
+                  - generic [ref=e501]:
+                    - radio "Always open" [ref=e505] [cursor=pointer]
+                    - generic [ref=e506]:
+                      - generic [ref=e507]: Always open
+                      - generic [ref=e508]: You're open 24 hours every day.
+                  - generic [ref=e511]:
+                    - radio "Open at selected hours" [ref=e515] [cursor=pointer]
+                    - generic [ref=e516]:
+                      - generic [ref=e517]: Open at selected hours
+                      - generic [ref=e518]: Enter your specific hours.
+            - generic [ref=e520]:
+              - generic [ref=e524]:
+                - generic [ref=e526]:
+                  - generic [ref=e529]: "Page health:"
+                  - generic [ref=e532]: Needs work
+                - generic [ref=e534]: Compared to similar Pages with high engagement.
+                - img [ref=e536]
+              - generic [ref=e559]:
+                - button "Previous" [ref=e561] [cursor=pointer]:
+                  - generic [ref=e564]: Previous
+                - button "Next" [ref=e566] [cursor=pointer]:
+                  - generic [ref=e569]: Next
+        - complementary "Page creation preview" [ref=e173]:
+          - region [ref=e177]:
+            - generic [ref=e178]:
+              - heading "Desktop preview" [level=2] [ref=e188]:
+                - generic [ref=e190]: Desktop preview
+              - group "Devices" [ref=e192]:
+                - button "Switch to desktop layout" [pressed] [ref=e194] [cursor=pointer]
+                - button "Switch to mobile layout" [ref=e197] [cursor=pointer]
+            - generic [ref=e204]:
+              - generic:
+                - main:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic: Hegawy Stores
+                                - generic:
+                                  - generic: نصنع مستقبل التجارة الرقمية. نطور مواقع ومتاجر إلكترونية ذكية مدعومة بالكامل بالذكاء الاصطناعي لنمو أعمالك.
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - tablist:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: More
+                                      - generic:
+                                        - img
+                                  - tab "Posts":
+                                    - generic:
+                                      - generic: Posts
+                                  - tab [disabled]:
+                                    - generic:
+                                      - generic: About
+                                  - tab [disabled]:
+                                    - generic:
+                                      - generic: Followers
+                                  - tab [disabled]:
+                                    - generic:
+                                      - generic: Photos
+                                  - tab [disabled]:
+                                    - generic:
+                                      - generic: Videos
+                                  - generic:
+                                    - tab "More":
+                                      - generic:
+                                        - generic: More
+                                        - generic:
+                                          - img
+                        - generic:
+                          - generic:
+                            - generic:
+                              - button "Follow" [disabled]:
+                                - generic:
+                                  - img
+                                  - generic:
+                                    - generic: Follow
+                            - generic:
+                              - button "Message" [disabled]:
+                                - generic:
+                                  - img
+                                  - generic:
+                                    - generic: Message
+                            - generic:
+                              - button "More" [disabled]:
+                                - generic:
+                                  - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - heading "Intro" [level=2]:
+                                                - generic:
+                                                  - generic: Intro
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - listitem:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - img
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic: 0 followers
+                                - generic:
+                                  - generic:
+                                    - listitem:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - img
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic: Page
+                                                    - generic:
+                                                      - generic: ·
+                                                    - generic: Software company
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - heading "Posts" [level=2]:
+                                        - generic: Posts
+                                - generic:
+                                  - generic:
+                                    - button "Filters":
+                                      - generic:
+                                        - img
+                                        - generic:
+                                          - generic: Filters
+      - button "New message" [ref=e207] [cursor=pointer]:
+        - img [ref=e208]
+    - alert [ref=e404]: Input Category (required) is valid.
+  - generic:
+    - list:
+      - listitem [ref=e570]:
+        - generic [ref=e571]:
+          - alert [ref=e573]:
+            - generic [ref=e574]: Hegawy Stores was created. You can now add images or go to your Page to add more details.
+          - button "Close" [ref=e576] [cursor=pointer]:
+            - img [ref=e577]

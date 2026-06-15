@@ -1,0 +1,267 @@
+- generic [ref=e12]:
+  - generic [ref=e28]:
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - heading "Inbox" [level=1] [ref=e32]
+        - generic [ref=e33]: Respond to messages, set up automations and more.
+      - toolbar [ref=e35]:
+        - button "Automations" [ref=e39] [cursor=pointer]:
+          - generic [ref=e42]:
+            - img [ref=e43]
+            - generic [ref=e46]: Automations
+        - button "Create messaging ad" [ref=e49] [cursor=pointer]:
+          - generic [ref=e51]:
+            - generic [ref=e52]: Create messaging ad
+            - img [ref=e54]
+        - button "Messaging insights" [ref=e59] [cursor=pointer]:
+          - generic [ref=e61]:
+            - generic [ref=e62]: Messaging insights
+            - img [ref=e64]
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e79]: Availability status
+          - combobox "Availability status" [ref=e84]:
+            - generic [ref=e87]:
+              - generic [ref=e90]:
+                - generic:
+                  - generic:
+                    - img
+              - generic [ref=e91]: Available
+              - img [ref=e92]
+        - button "Message settings" [ref=e95] [cursor=pointer]:
+          - generic [ref=e97]:
+            - generic [ref=e98]: Message settings
+            - img [ref=e100]
+    - generic [ref=e104]:
+      - generic [ref=e112]:
+        - tablist [ref=e117]:
+          - link "All messages" [ref=e119] [cursor=pointer]:
+            - /url: /latest/inbox/all?asset_id=1077200972154010
+            - generic [ref=e122]: All messages
+          - link "Messenger" [ref=e124] [cursor=pointer]:
+            - /url: /latest/inbox/messenger?asset_id=1077200972154010
+            - generic [ref=e127]: Messenger
+          - link "Instagram" [ref=e129] [cursor=pointer]:
+            - /url: /latest/inbox/instagram_direct?asset_id=1077200972154010
+            - generic [ref=e132]: Instagram
+          - link "WhatsApp" [ref=e135] [cursor=pointer]:
+            - /url: /latest/inbox/wec?asset_id=1077200972154010
+            - generic [ref=e136]:
+              - generic [ref=e138]: WhatsApp
+              - generic [ref=e139]:
+                - generic [ref=e141]: New
+                - status [ref=e142]: New
+          - link "Facebook comments" [ref=e144] [cursor=pointer]:
+            - /url: /latest/inbox/facebook?asset_id=1077200972154010
+            - generic [ref=e147]: Facebook comments
+          - link "Instagram comments" [ref=e149] [cursor=pointer]:
+            - /url: /latest/inbox/instagram?asset_id=1077200972154010
+            - generic [ref=e152]: Instagram comments
+        - generic [ref=e156]:
+          - generic [ref=e157]:
+            - generic [ref=e163]:
+              - generic [ref=e166]:
+                - generic [ref=e172]: Search
+                - generic [ref=e180]:
+                  - img [ref=e184]
+                  - combobox "Search" [ref=e188]
+              - button "Manage" [ref=e191] [cursor=pointer]:
+                - generic [ref=e194]:
+                  - img [ref=e195]
+                  - generic [ref=e200]: Manage
+            - generic [ref=e205]:
+              - generic [ref=e206]:
+                - button "Unread" [ref=e208] [cursor=pointer]:
+                  - generic [ref=e210]: Unread
+                - button "Priority" [ref=e212] [cursor=pointer]:
+                  - generic [ref=e214]: Priority
+                - button "Ad replies" [ref=e216] [cursor=pointer]:
+                  - generic [ref=e218]: Ad replies
+                - button "Follow up" [ref=e220] [cursor=pointer]:
+                  - generic [ref=e222]: Follow up
+              - button "Filters" [ref=e224] [cursor=pointer]:
+                - img [ref=e227]
+          - generic [ref=e237]:
+            - generic [ref=e239]: No messages
+            - generic [ref=e240]: Messages sent to you will appear here.
+            - button "Create messaging ad" [ref=e242] [cursor=pointer]:
+              - generic [ref=e245]:
+                - img [ref=e247]
+                - generic [ref=e249]: Create messaging ad
+            - generic [ref=e251]:
+              - text: Connect with people who are interested in your business by using ads that click to message.
+              - link "Learn more" [ref=e252] [cursor=pointer]:
+                - /url: "#"
+      - progressbar [ref=e265]:
+        - img [ref=e266]
+  - generic [ref=e274]:
+    - generic [ref=e276]:
+      - button "Meta Business Suite" [ref=e277] [cursor=pointer]:
+        - generic [ref=e279]: Meta Business Suite
+      - button "Pressable" [ref=e288] [cursor=pointer]:
+        - img "Facebook" [ref=e293]
+    - navigation "Links" [ref=e298]:
+      - generic [ref=e299]: Links
+      - list [ref=e300]:
+        - generic [ref=e301]:
+          - listitem [ref=e305]:
+            - generic [ref=e307]:
+              - link "Home" [ref=e308] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/home?asset_id=1077200972154010
+                - generic [ref=e309]: Home
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Home
+          - listitem [ref=e313]:
+            - generic [ref=e315]:
+              - link "Notifications" [ref=e316] [cursor=pointer]:
+                - generic [ref=e317]: Notifications
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Notifications
+          - listitem [ref=e322]:
+            - generic [ref=e324]:
+              - link "Ads Manager" [ref=e325] [cursor=pointer]:
+                - generic [ref=e326]: Ads Manager
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Ads Manager
+          - listitem [ref=e330]:
+            - generic [ref=e332]:
+              - link "Inbox" [ref=e333] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/inbox?asset_id=1077200972154010
+                - generic [ref=e334]: Inbox
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Inbox
+          - listitem [ref=e339]:
+            - generic [ref=e341]:
+              - link "Content" [ref=e342] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/posts?asset_id=1077200972154010
+                - generic [ref=e343]: Content
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Content
+          - listitem [ref=e347]:
+            - generic [ref=e349]:
+              - link "Creator marketplace" [ref=e350] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/creator_marketplace?asset_id=1077200972154010&cm_entrypoint=biz_kit_nav_route_item
+                - generic [ref=e351]: Creator marketplace
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Creator marketplace
+          - listitem [ref=e355]:
+            - generic [ref=e357]:
+              - link "Planner" [ref=e358] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/content_calendar?asset_id=1077200972154010
+                - generic [ref=e359]: Planner
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Planner
+          - listitem [ref=e364]:
+            - generic [ref=e366]:
+              - link "Ads" [ref=e367] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/ad_center/ads_summary?asset_id=1077200972154010
+                - generic [ref=e368]: Ads
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Ads
+          - listitem [ref=e373]:
+            - generic [ref=e375]:
+              - link "Insights" [ref=e376] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/insights?asset_id=1077200972154010
+                - generic [ref=e377]: Insights
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Insights
+          - listitem [ref=e381]:
+            - generic [ref=e383]:
+              - link "All tools" [ref=e384] [cursor=pointer]:
+                - generic [ref=e385]: All tools
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: All tools
+          - generic [ref=e387]:
+            - separator [ref=e388]
+            - listitem [ref=e391]:
+              - generic [ref=e393]:
+                - link "Billing & payments" [ref=e394] [cursor=pointer]:
+                  - /url: https://business.facebook.com/billing_hub/payment_settings/?placement=bizapp_ad_center
+                  - generic [ref=e395]: Billing & payments
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Billing & payments
+            - listitem [ref=e398]:
+              - generic [ref=e400]:
+                - link "Audiences" [ref=e401] [cursor=pointer]:
+                  - /url: https://business.facebook.com/ads/manager/audiences/?nav_source=business_manager
+                  - generic [ref=e402]: Audiences
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Audiences
+            - listitem [ref=e405]:
+              - generic [ref=e407]:
+                - link "Events Manager" [ref=e408] [cursor=pointer]:
+                  - /url: https://business.facebook.com/events_manager2/?nav_source=biz_nav
+                  - generic [ref=e409]: Events Manager
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Events Manager
+          - button "Edit sidebar navigation" [ref=e412] [cursor=pointer]:
+            - generic [ref=e416]: Edit
+    - generic [ref=e419]:
+      - listitem [ref=e422]:
+        - generic [ref=e424]:
+          - link "Search" [ref=e425] [cursor=pointer]:
+            - generic [ref=e426]: Search
+          - generic:
+            - generic:
+              - generic:
+                - generic: Search
+          - generic:
+            - generic:
+              - img
+      - navigation "Links" [ref=e427]:
+        - generic [ref=e428]: Links
+        - list [ref=e429]:
+          - listitem [ref=e433]:
+            - generic [ref=e435]:
+              - link "Get Started" [ref=e436] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/get_started?asset_id=1077200972154010
+                - generic [ref=e437]: Get Started
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Get Started
+          - listitem [ref=e441]:
+            - generic [ref=e443]:
+              - link "Settings" [ref=e444] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/settings/profiles?asset_id=1077200972154010
+                - generic [ref=e445]: Settings
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Settings
+      - listitem [ref=e452]:
+        - generic [ref=e454]:
+          - link "Help" [ref=e455] [cursor=pointer]:
+            - generic [ref=e456]: Help
+          - generic:
+            - generic:
+              - generic:
+                - generic: Help
+          - generic:
+            - generic:
+              - img

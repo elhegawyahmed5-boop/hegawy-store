@@ -1,0 +1,41 @@
+[     829ms] [WARNING] [GPT] PubAdsService.enableSingleRequest is deprecated, use googletag.setConfig({singleRequest: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202606040101/pubads_impl.js:18
+[    5411ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://x.com/ahmedelheg4u:0
+[    5738ms] [ERROR] Failed to load resource: the server responded with a status of 503 () @ https://ads-api.x.com/12/measurement/dcm_local_id:0
+[    7583ms] Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at P (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:27:1006)
+    at sc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:45:201)
+    at qc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:43:1269)
+    at yc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:50:606)
+    at zc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:872)
+    at xc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:705)
+    at Ic (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:131)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:373)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:566)
+[    7824ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   67265ms] Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at P (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:27:1006)
+    at sc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:45:201)
+    at qc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:43:1269)
+    at yc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:50:606)
+    at zc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:872)
+    at xc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:705)
+    at Ic (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:131)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:373)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:566)
+[   67531ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   97641ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://gpm.servicesadmedia.com/google-pixel-match?google_gid=CAESEEqRJyq3CJAEXRolRJhqg9s&google_push=AXcoOmQqbgXO7qDfLn_Ex1MqStmIw30snowWwwVPsw5061EncEdLrARGgWkvq1j6PaTifAb-s7VUbhYZFWnkVYz2pfYQ2TvLOl8&google_cver=1:0
+[  127247ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[  127322ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[  127326ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[  188076ms] Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at P (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:27:1006)
+    at sc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:45:201)
+    at qc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:43:1269)
+    at yc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:50:606)
+    at zc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:872)
+    at xc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:705)
+    at Ic (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:131)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:373)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:566)
+[  188241ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0

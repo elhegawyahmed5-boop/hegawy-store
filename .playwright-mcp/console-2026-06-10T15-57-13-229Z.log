@@ -1,0 +1,119 @@
+[     499ms] [WARNING] [GPT] PubAdsService.enableSingleRequest is deprecated, use googletag.setConfig({singleRequest: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202606040101/pubads_impl.js:18
+[    1540ms] [ERROR] Failed to load resource: the server responded with a status of 503 () @ https://ads-api.x.com/12/measurement/dcm_local_id:0
+[    1609ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://x.com/settings/username:0
+[  939788ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dspotxchange_dbm%26google_hm%3D%24SPOTX_BASE64_USER_ID:0
+[  939788ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dspotxchange_dbm%26google_hm%3D%24SPOTX_BASE64_USER_ID:0
+[  939788ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dspotxchange_dbm%26google_hm%3D%24SPOTX_BASE64_USER_ID:0
+[ 1103526ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://ads.stickyadstv.com/user-matching?id=11:0
+[ 1419088ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync2-dsp.e-volution.ai/sync?id=10&google_gid=CAESEKqwWFCLl6yCPEvvnnqDgfU&google_cver=1&google_push=AXcoOmQQ8kDBfKXZZi7Ltxtou9Wr6P_Lbsmd2zS8GzLuehUkk7mP36GNC9zfZ4DjJOCuZVGPUvDHmzax3AUpvQDW1hxDJ11QvfUKol50H5AVVlAGKHYT_psj8KHZA7u5fQpMMhvIy2M2OkhGexZ6CpNq1SXzuA:0
+[ 1929116ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://gpm.servicesadmedia.com/google-pixel-match?google_gid=CAESEEqRJyq3CJAEXRolRJhqg9s&google_push=AXcoOmQjFqVXrKCeUKXAwOltmxJ2d8xuUxopvgjO7KisAfnd7KMOmEV0gp1QNX8FExxsJpCnxtvUq_0-BoC5AZNqMskUg3XrlvMfmmsy29LWmI_iuwOL-H2SMfZHBs9fupS5tCZmVV0vQorBGx8JZDqkR3AS&google_cver=1:0
+[ 2139405ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2139568ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2139758ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 2379104ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2379169ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2379214ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 2439298ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2439618ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 2499961ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2501050ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 2619352ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 2619412ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2619782ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2679333ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2679547ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 2679624ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2739149ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2739255ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 2739570ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2799379ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2799411ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2799719ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 2859332ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2859516ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 2859528ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2919536ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 2919667ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2921271ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2979312ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 2979438ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 2979504ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 3039451ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 3039517ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 3039951ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 3099304ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 3099448ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 3099451ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 3159537ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 3159674ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 3159954ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://x.com/ahmedelheg4u:0
+[ 3219459ms] Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at P (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:27:1006)
+    at sc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:45:201)
+    at qc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:43:1269)
+    at yc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:50:606)
+    at zc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:872)
+    at xc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:705)
+    at Ic (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:131)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:373)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:566)
+[ 3219482ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 3279148ms] Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at P (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:27:1006)
+    at sc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:45:201)
+    at qc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:43:1269)
+    at yc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:50:606)
+    at zc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:872)
+    at xc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:705)
+    at Ic (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:131)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:373)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:566)
+[ 3279465ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 3339192ms] Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at P (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:27:1006)
+    at sc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:45:201)
+    at qc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:43:1269)
+    at yc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:50:606)
+    at zc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:872)
+    at xc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:705)
+    at Ic (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:131)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:373)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:566)
+[ 3339436ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 3399340ms] Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at P (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:27:1006)
+    at sc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:45:201)
+    at qc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:43:1269)
+    at yc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:50:606)
+    at zc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:872)
+    at xc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:705)
+    at Ic (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:131)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:373)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:566)
+[ 3399686ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 3459323ms] Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at P (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:27:1006)
+    at sc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:45:201)
+    at qc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:43:1269)
+    at yc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:50:606)
+    at zc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:872)
+    at xc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:705)
+    at Ic (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:131)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:373)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:566)
+[ 3459354ms] TypeError: Cannot read properties of undefined (reading 'getPage')
+    at g.da (https://s0.2mdn.net/sadbundle/8471979888159490048/index.html?ev=01_262:133:412)
+[ 3459466ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[ 3488906ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.x.com/1.1/live_pipeline/update_subscriptions:0
+[ 3520111ms] Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at P (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:27:1006)
+    at sc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:45:201)
+    at qc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:43:1269)
+    at yc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:50:606)
+    at zc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:872)
+    at xc (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:49:705)
+    at Ic (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:131)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:373)
+    at <anonymous> (https://pagead2.googlesyndication.com/pagead/js/r20260608/r20110914/abg_lite.js:51:566)
+[ 3520290ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0

@@ -1,0 +1,145 @@
+- generic [ref=e4]:
+  - generic [ref=e6]:
+    - button [ref=e8] [cursor=pointer]:
+      - img [ref=e10]
+    - generic [ref=e11]:
+      - button "Upload" [ref=e13] [cursor=pointer]:
+        - generic [ref=e14]:
+          - img [ref=e16]:
+            - img [ref=e17]
+          - text: Upload
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - generic [ref=e24]: Manage
+          - generic [ref=e26]:
+            - button "Home" [ref=e27] [cursor=pointer]:
+              - generic [ref=e195]:
+                - img [ref=e199]:
+                  - img [ref=e200]
+                - generic [ref=e202]: Home
+            - button "Posts" [ref=e37] [cursor=pointer]:
+              - generic [ref=e204]:
+                - img [ref=e208]:
+                  - img [ref=e209]
+                - generic [ref=e211]: Posts
+            - button "Analytics" [ref=e47] [cursor=pointer]:
+              - generic [ref=e213]:
+                - img [ref=e217]:
+                  - img [ref=e218]
+                - generic [ref=e221]: Analytics
+            - button "Comments" [ref=e58] [cursor=pointer]:
+              - generic [ref=e223]:
+                - img [ref=e227]:
+                  - img [ref=e228]
+                - generic [ref=e230]: Comments
+        - generic [ref=e68]:
+          - generic [ref=e70]: Tools
+          - generic [ref=e72]:
+            - button "Inspiration" [ref=e73] [cursor=pointer]:
+              - generic [ref=e232]:
+                - img [ref=e236]:
+                  - img [ref=e237]
+                - generic [ref=e239]: Inspiration
+            - button "Monetization" [ref=e240] [cursor=pointer]:
+              - generic [ref=e242]:
+                - img [ref=e246]
+                - generic [ref=e250]: Monetization
+            - button "Creator Academy" [ref=e83] [cursor=pointer]:
+              - generic [ref=e252]:
+                - img [ref=e256]:
+                  - img [ref=e257]
+                - generic [ref=e260]: Creator Academy
+            - button "Unlimited Sounds" [ref=e94] [cursor=pointer]:
+              - generic [ref=e97]:
+                - img [ref=e264]:
+                  - img [ref=e265]
+                - generic [ref=e104]: Unlimited Sounds
+        - generic [ref=e105]:
+          - generic [ref=e107]: Others
+          - button "Feedback" [ref=e110] [cursor=pointer]:
+            - generic [ref=e268]:
+              - img [ref=e272]:
+                - img [ref=e273]
+              - generic [ref=e275]: Feedback
+    - link "Back to TikTok" [ref=e122] [cursor=pointer]:
+      - /url: https://www.tiktok.com
+      - generic [ref=e123]:
+        - img [ref=e124]:
+          - img [ref=e125]
+        - generic [ref=e127]: Back to TikTok
+  - generic [ref=e128]:
+    - generic [ref=e131]:
+      - generic [ref=e132]:
+        - region "Notifications"
+        - button [ref=e133] [cursor=pointer]:
+          - img [ref=e135]
+      - generic [ref=e138]:
+        - generic [ref=e141] [cursor=pointer]: Posts 0
+        - generic [ref=e144] [cursor=pointer]: Drafts 0
+    - generic [ref=e149]:
+      - generic [ref=e276]:
+        - generic [ref=e277]:
+          - generic [ref=e282] [cursor=pointer]:
+            - img [ref=e284]:
+              - img [ref=e285]
+            - generic [ref=e287]: Views
+          - generic [ref=e292] [cursor=pointer]:
+            - img [ref=e294]:
+              - img [ref=e295]
+            - generic [ref=e297]: Likes
+          - generic [ref=e302] [cursor=pointer]:
+            - img [ref=e304]:
+              - img [ref=e305]
+            - generic [ref=e307]: Comments
+          - generic [ref=e312] [cursor=pointer]:
+            - img [ref=e314]:
+              - img [ref=e315]
+            - generic [ref=e317]: Privacy
+        - generic [ref=e323]:
+          - img [ref=e326]
+          - textbox [ref=e328]:
+            - /placeholder: Search for post description
+      - generic [ref=e152]:
+        - generic [ref=e154]:
+          - button "Posts (Created on)" [ref=e156] [cursor=pointer]:
+            - generic [ref=e157]:
+              - generic [ref=e158]: Posts (Created on)
+              - generic [ref=e329]:
+                - img [ref=e331]:
+                  - img [ref=e332]
+                - img [ref=e335]:
+                  - img [ref=e336]
+          - generic [ref=e159]:
+            - generic [ref=e162]: Privacy
+            - generic [ref=e163]:
+              - button "Views" [ref=e166] [cursor=pointer]:
+                - generic [ref=e167]:
+                  - generic [ref=e168]: Views
+                  - generic [ref=e338]:
+                    - img [ref=e340]:
+                      - img [ref=e341]
+                    - img [ref=e344]:
+                      - img [ref=e345]
+              - button "Likes" [ref=e171] [cursor=pointer]:
+                - generic [ref=e172]:
+                  - generic [ref=e173]: Likes
+                  - generic [ref=e347]:
+                    - img [ref=e349]:
+                      - img [ref=e350]
+                    - img [ref=e353]:
+                      - img [ref=e354]
+              - button "Comments" [ref=e176] [cursor=pointer]:
+                - generic [ref=e177]:
+                  - generic [ref=e178]: Comments
+                  - generic [ref=e356]:
+                    - img [ref=e358]:
+                      - img [ref=e359]
+                    - img [ref=e362]:
+                      - img [ref=e363]
+          - generic [ref=e181]: Actions
+        - generic [ref=e184]:
+          - img [ref=e186]
+          - generic [ref=e187]: No posts yet
+          - generic [ref=e188]: Your posted and scheduled videos will appear here.
+          - button "Upload first video" [ref=e190] [cursor=pointer]:
+            - generic [ref=e192]: Upload first video

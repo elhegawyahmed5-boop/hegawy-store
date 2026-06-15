@@ -1,0 +1,129 @@
+- generic [ref=e4]:
+  - generic [ref=e15]:
+    - generic [ref=e18]:
+      - link "Home" [ref=e23] [cursor=pointer]:
+        - /url: /
+        - img "Home" [ref=e28]
+      - link "Search" [ref=e33] [cursor=pointer]:
+        - /url: /explore/
+        - img "Search" [ref=e38]
+      - link "Reels" [ref=e44] [cursor=pointer]:
+        - /url: /reels/
+        - img "Reels" [ref=e49]
+      - link "New post" [ref=e55] [cursor=pointer]:
+        - /url: "#"
+        - img "New post" [ref=e60]
+      - link "Messages" [ref=e67] [cursor=pointer]:
+        - /url: /direct/inbox/
+        - img "Messages" [ref=e72]
+      - link "Professional dashboard" [ref=e79] [cursor=pointer]:
+        - /url: "#"
+        - img "Professional dashboard" [ref=e84]
+      - link "hegawystores's profile picture" [ref=e91] [cursor=pointer]:
+        - /url: /hegawystores/
+        - link "hegawystores's profile picture" [ref=e97]:
+          - img "hegawystores's profile picture" [ref=e98]
+    - generic [ref=e100]:
+      - navigation [ref=e101]:
+        - generic [ref=e104]:
+          - link "Options" [ref=e106] [cursor=pointer]:
+            - /url: /accounts/settings/?entrypoint=profile
+            - img "Options" [ref=e107]
+          - heading "hegawystores Down chevron icon" [level=1] [ref=e110]:
+            - button "hegawystores Down chevron icon" [ref=e112] [cursor=pointer]:
+              - generic [ref=e113]:
+                - generic [ref=e115]: hegawystores
+                - img "Down chevron icon" [ref=e118]
+          - link [ref=e123] [cursor=pointer]:
+            - /url: https://www.threads.com/?xmt=AQG0rweYupEpjHNdw2FULpqf4YfGm26F9fOlZ78ixy4ZLsE
+            - img [ref=e128]
+      - main [ref=e130]:
+        - generic [ref=e132]:
+          - generic [ref=e133]:
+            - generic [ref=e134]:
+              - generic [ref=e138]:
+                - button "Note..." [ref=e139] [cursor=pointer]:
+                  - generic [ref=e145]: Note...
+                - button "Add a profile photo" [ref=e151] [cursor=pointer]:
+                  - img "Add a profile photo" [ref=e152]
+                  - img [ref=e154]
+              - generic [ref=e157]:
+                - generic [ref=e158]:
+                  - link "hegawystores" [ref=e160] [cursor=pointer]:
+                    - /url: "#"
+                    - heading "hegawystores" [level=2] [ref=e161]:
+                      - generic [ref=e162]: hegawystores
+                  - button "Options" [ref=e163] [cursor=pointer]:
+                    - img "Options" [ref=e165]
+                - generic [ref=e169]: Hegawy Stores
+                - generic [ref=e170]:
+                  - generic [ref=e172]:
+                    - generic [ref=e173]: "0"
+                    - text: posts
+                  - link "0 followers" [ref=e175] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e176]:
+                      - generic "0" [ref=e177]
+                      - text: followers
+                  - link "0 following" [ref=e179] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e180]:
+                      - generic [ref=e181]: "0"
+                      - text: following
+            - generic [ref=e184]:
+              - heading [level=1]
+            - generic [ref=e189]:
+              - link "Edit profile" [ref=e191] [cursor=pointer]:
+                - /url: /accounts/edit/
+              - link "View archive" [ref=e193] [cursor=pointer]:
+                - /url: /archive/stories/
+            - menu [ref=e195]:
+              - list [ref=e199]:
+                - listitem [ref=e200]
+                - listitem [ref=e201]:
+                  - button "Plus icon New" [ref=e204] [cursor=pointer]:
+                    - img "Plus icon" [ref=e208]
+                    - generic [ref=e212]: New
+          - generic [ref=e213]:
+            - tablist [ref=e214]:
+              - link "Posts" [ref=e216] [cursor=pointer]:
+                - /url: /hegawystores/
+                - img "Posts" [ref=e218]
+              - link "Saved" [ref=e229] [cursor=pointer]:
+                - /url: /hegawystores/saved/
+                - img "Saved" [ref=e231]
+              - link "Tagged" [ref=e234] [cursor=pointer]:
+                - /url: /hegawystores/tagged/
+                - img "Tagged" [ref=e236]
+            - tabpanel
+          - separator [ref=e239]
+          - generic [ref=e243]:
+            - generic [ref=e246]: Getting Started
+            - generic [ref=e249]:
+              - list [ref=e251]:
+                - listitem [ref=e252]
+                - listitem [ref=e253]
+                - listitem [ref=e254]:
+                  - button "When you share photos, they will appear on your profile. Share Photos When you share photos, they will appear on your profile. Share your first photo" [ref=e257]:
+                    - generic [ref=e258]:
+                      - img "When you share photos, they will appear on your profile." [ref=e259]
+                      - generic [ref=e264]: Share Photos
+                      - generic [ref=e266]: When you share photos, they will appear on your profile.
+                      - button "Share your first photo" [ref=e267] [cursor=pointer]
+                - listitem [ref=e268]:
+                  - button "Add your phone number so you can reset your password, find friends and more. Add phone number Add your phone number so you can reset your password, find friends and more. Add phone number" [ref=e271]:
+                    - generic [ref=e272]:
+                      - img "Add your phone number so you can reset your password, find friends and more." [ref=e273]
+                      - generic [ref=e277]: Add phone number
+                      - generic [ref=e279]: Add your phone number so you can reset your password, find friends and more.
+                      - button "Add phone number" [ref=e280] [cursor=pointer]
+                - listitem [ref=e281]:
+                  - button "When you share photos, they will appear on your profile. Add Profile Photo Add a profile photo so your friends know it's you. Add profile photo" [ref=e284]:
+                    - generic [ref=e285]:
+                      - img "When you share photos, they will appear on your profile." [ref=e286]
+                      - generic [ref=e291]: Add Profile Photo
+                      - generic [ref=e293]: Add a profile photo so your friends know it's you.
+                      - button "Add profile photo" [ref=e294] [cursor=pointer]
+              - button "Next" [ref=e295] [cursor=pointer]
+  - button "Messages" [ref=e298] [cursor=pointer]:
+    - img "Messages" [ref=e300]

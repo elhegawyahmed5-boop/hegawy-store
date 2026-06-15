@@ -1,0 +1,266 @@
+- generic [ref=e5]:
+  - banner:
+    - generic [ref=e677]:
+      - generic:
+        - generic:
+          - button [disabled]:
+            - img
+      - link "Facebook" [ref=e678] [cursor=pointer]:
+        - /url: /
+        - img [ref=e679]
+    - generic [ref=e687]:
+      - generic [ref=e688]:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+      - generic [ref=e690]:
+        - generic:
+          - img
+        - combobox "Search Facebook" [ref=e691]
+    - navigation "Facebook" [ref=e695]:
+      - list [ref=e696]:
+        - listitem [ref=e697]:
+          - link "Home" [ref=e700] [cursor=pointer]:
+            - /url: /
+            - img [ref=e702]
+        - listitem [ref=e704]:
+          - link "Reels" [ref=e707] [cursor=pointer]:
+            - /url: /watch/?ref=tab
+            - img [ref=e709]
+        - listitem [ref=e712]:
+          - link "Groups" [ref=e715] [cursor=pointer]:
+            - /url: /groups/
+            - img [ref=e717]
+        - listitem [ref=e719]:
+          - link "Gaming" [ref=e722] [cursor=pointer]:
+            - /url: /gaming/play/?store_visit_source=gaming_tab
+            - img [ref=e724]
+    - navigation "Account controls and settings" [ref=e728]:
+      - button "Facebook menu" [ref=e732] [cursor=pointer]:
+        - img [ref=e733]
+      - generic [ref=e744]:
+        - button "Notifications, 1 unread" [ref=e745] [cursor=pointer]:
+          - img [ref=e746]
+        - button [ref=e748] [cursor=pointer]:
+          - generic [ref=e749]:
+            - generic [ref=e750]: Number of unread notifications
+            - generic [ref=e751]: "1"
+      - button "Your profile" [ref=e754] [cursor=pointer]:
+        - generic [ref=e755]:
+          - img "Your profile" [ref=e756]
+          - img [ref=e763]
+  - generic [ref=e10]:
+    - navigation [ref=e842]:
+      - generic [ref=e12]:
+        - heading [level=1] [ref=e843]: Settings & privacy
+        - generic [ref=e27]:
+          - generic:
+            - img
+          - combobox [ref=e844]
+        - generic [ref=e35]:
+          - heading [level=2] [ref=e845]:
+            - generic [ref=e49]: Settings & privacy
+          - generic [ref=e53]:
+            - generic [ref=e60]:
+              - heading [level=2] [ref=e846]:
+                - generic [ref=e67]: Preferences
+              - generic [ref=e72]: Customise your experience on Facebook.
+            - link [ref=e847] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=reaction_preferences
+              - generic [ref=e81]:
+                - img [ref=e83]
+                - generic [ref=e88]: Reaction preferences
+            - link [ref=e848] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=notifications
+              - generic [ref=e97]:
+                - img [ref=e99]
+                - generic [ref=e104]: Notifications
+            - link [ref=e849] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=accessibility
+              - generic [ref=e113]:
+                - img [ref=e115]
+                - generic [ref=e120]: Accessibility
+            - link [ref=e850] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=videos
+              - generic [ref=e129]:
+                - img [ref=e131]
+                - generic [ref=e136]: Media
+            - link [ref=e851] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=dark_mode_category
+              - generic [ref=e145]:
+                - img [ref=e147]
+                - generic [ref=e152]: Dark mode
+          - generic [ref=e154]:
+            - generic [ref=e161]:
+              - heading [level=2] [ref=e852]:
+                - generic [ref=e168]: Audience and visibility
+              - generic [ref=e173]: Control who can see what you share on Facebook.
+            - link [ref=e853] [cursor=pointer]:
+              - /url: https://www.facebook.com/me/about/
+              - generic [ref=e183]:
+                - img [ref=e185]
+                - generic [ref=e190]: Page details
+            - link [ref=e854] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=how_people_find_and_contact_you
+              - generic [ref=e199]:
+                - img [ref=e201]
+                - generic [ref=e206]: How people can find and contact you
+            - link [ref=e855] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=posts
+              - generic [ref=e215]:
+                - img [ref=e217]
+                - generic [ref=e222]: Posts
+            - link [ref=e856] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=stories
+              - generic [ref=e231]:
+                - img [ref=e233]
+                - generic [ref=e238]: Stories
+            - link [ref=e857] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=pages
+              - generic [ref=e247]:
+                - img [ref=e249]
+                - generic [ref=e254]: Page setup
+            - link [ref=e858] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=reels
+              - generic [ref=e263]:
+                - img [ref=e265]
+                - generic [ref=e270]: Reels
+            - link [ref=e859] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=followers_and_public_content
+              - generic [ref=e279]:
+                - img [ref=e281]
+                - generic [ref=e286]: Followers and public content
+            - link [ref=e860] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=profile_and_tagging
+              - generic [ref=e295]:
+                - img [ref=e297]
+                - generic [ref=e302]: Page and Tagging
+            - link [ref=e861] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=blocking
+              - generic [ref=e311]:
+                - img [ref=e313]
+                - generic [ref=e318]: Blocking
+          - generic [ref=e320]:
+            - generic [ref=e327]:
+              - heading [level=2] [ref=e862]:
+                - generic [ref=e334]: Payments
+              - generic [ref=e339]: Manage your payment info and activity.
+            - link [ref=e863] [cursor=pointer]:
+              - /url: https://www.facebook.com/billing_hub/payment_settings/?asset_id=986137084157765&placement=fb_payment_settings
+              - generic [ref=e349]:
+                - img [ref=e351]
+                - generic [ref=e356]: Ads payments
+          - generic [ref=e358]:
+            - generic [ref=e365]:
+              - heading [level=2] [ref=e864]:
+                - generic [ref=e372]: Permissions
+              - generic [ref=e377]: Manage what info Facebook uses to make your experience better, such as your interests and location.
+            - link [ref=e865] [cursor=pointer]:
+              - /url: https://www.facebook.com/settings/?tab=linked_profiles
+              - generic [ref=e386]:
+                - img [ref=e388]
+                - generic [ref=e393]: Linked accounts
+            - link [ref=e866] [cursor=pointer]:
+              - /url: https://www.facebook.com/off_facebook_activity/
+              - generic [ref=e403]:
+                - img [ref=e405]
+                - generic [ref=e410]: Off-Facebook activity
+          - generic [ref=e412]:
+            - generic [ref=e419]:
+              - heading [level=2] [ref=e867]:
+                - generic [ref=e426]: Your information
+              - generic [ref=e431]: Access a log of your activity and controls to manage your Facebook information.
+            - link [ref=e868] [cursor=pointer]:
+              - /url: https://www.facebook.com/61590727920658/allactivity/?category_key=ALL&entry_point=settings_yfi&should_load_landing_page=1
+              - generic [ref=e441]:
+                - img [ref=e443]
+                - generic [ref=e448]: Activity log
+            - link [ref=e869] [cursor=pointer]:
+              - /url: https://www.facebook.com/deactivate_delete_account/
+              - generic [ref=e458]:
+                - img [ref=e460]
+                - generic [ref=e465]: Access and control
+            - link [ref=e870] [cursor=pointer]:
+              - /url: https://www.facebook.com/dyi/?referrer=www_settings
+              - generic [ref=e475]:
+                - img [ref=e477]
+                - generic [ref=e482]: Download your information
+          - generic [ref=e484]:
+            - heading [level=2] [ref=e871]:
+              - generic [ref=e498]: Resources
+            - link [ref=e872] [cursor=pointer]:
+              - /url: https://www.facebook.com/journalist_registration/
+              - generic [ref=e510]:
+                - img [ref=e512]
+                - generic [ref=e517]: Journalist resources
+          - generic [ref=e519]:
+            - heading [level=2] [ref=e873]:
+              - generic [ref=e533]: Community Standards and legal policies
+            - link [ref=e874] [cursor=pointer]:
+              - /url: https://www.facebook.com/policies_center/?ref=pf
+              - generic [ref=e545]:
+                - img [ref=e547]
+                - generic [ref=e552]: Terms of Service
+            - link [ref=e875] [cursor=pointer]:
+              - /url: https://www.facebook.com/privacy/policy/?entry_point=facebook_settings
+              - generic [ref=e562]:
+                - img [ref=e564]
+                - generic [ref=e569]: Privacy Policy
+            - link [ref=e876] [cursor=pointer]:
+              - /url: https://www.facebook.com/privacy/policies/cookies/?entry_point=facebook_settings
+              - generic [ref=e579]:
+                - img [ref=e581]
+                - generic [ref=e586]: Cookies Policy
+            - link [ref=e877] [cursor=pointer]:
+              - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExbHRLdzN1N0NzbTBqQ0VOeXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7Fx0QL9_khX1hWoDVmDnFFacMmHuFRr0HwUT4_y95wwiPO0LiQ1biZs7vXmg_aem_zDAajcIFd6NR-7_h5fJ5TA&h=AUAWuCdpJ4wrRZzANy3vALpLGuKnieYDRDkEumv4a2LRuG4Pj-BYZIEneIPoUWE1Dt1maPgyHYMsxBxrB1y2xgk_-0lNgTMEWwHN8GXeXNkqBPt8HvUny5EfLCsXkKevfl9FvA
+              - generic [ref=e596]:
+                - img [ref=e598]
+                - generic [ref=e603]: Community Standards
+    - main [ref=e878]:
+      - main [ref=e768]:
+        - generic [ref=e772]:
+          - generic [ref=e776]: Instagram
+          - generic [ref=e782]:
+            - generic [ref=e783]:
+              - generic [ref=e785]: No Instagram connected
+              - generic [ref=e787]: Connect your Facebook Page to a professional Instagram profile.
+            - generic [ref=e788]:
+              - generic [ref=e789]:
+                - generic [ref=e791]: Get more features across Facebook and Instagram
+                - generic [ref=e793]: "Depending on their access to your Facebook Page and Instagram profile, people may help manage things such as:"
+              - list [ref=e794]:
+                - listitem [ref=e795]:
+                  - generic [ref=e797]:
+                    - img [ref=e799]
+                    - generic [ref=e804]: Content and ads
+                - listitem [ref=e805]:
+                  - generic [ref=e807]:
+                    - img [ref=e809]
+                    - generic [ref=e814]: Insights
+                - listitem [ref=e815]:
+                  - generic [ref=e817]:
+                    - img [ref=e819]
+                    - generic [ref=e824]: Messages and comments
+                - listitem [ref=e825]:
+                  - generic [ref=e827]:
+                    - img [ref=e829]
+                    - generic [ref=e834]: Settings and permissions
+              - generic [ref=e836]:
+                - text: If you connect a personal Instagram profile, it will be switched to professional.
+                - link [ref=e879] [cursor=pointer]:
+                  - /url: https://www.facebook.com/help/2546917405323366
+                  - text: Learn more
+              - button [ref=e880] [cursor=pointer]:
+                - generic [ref=e841]: Connect account
+  - dialog "Loading..." [ref=e1088]:
+    - generic [ref=e1091]:
+      - generic [ref=e1092]:
+        - button "Close" [active] [ref=e1094] [cursor=pointer]:
+          - img [ref=e1095]
+        - separator [ref=e1097]
+      - generic [ref=e1100]:
+        - status "Loading..." [ref=e1101]
+        - status "Loading..." [ref=e1102]
+        - status "Loading..." [ref=e1103]

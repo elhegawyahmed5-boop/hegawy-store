@@ -1,0 +1,164 @@
+- generic [ref=e21]:
+  - generic [ref=e23]:
+    - button "Meta Business Suite" [ref=e24] [cursor=pointer]:
+      - generic [ref=e26]: Meta Business Suite
+    - button "Pressable" [ref=e35] [cursor=pointer]:
+      - img "Facebook" [ref=e40]
+  - navigation "Links" [ref=e45]:
+    - generic [ref=e46]: Links
+    - list [ref=e47]:
+      - generic [ref=e48]:
+        - listitem [ref=e52]:
+          - generic [ref=e54]:
+            - link "Home" [ref=e55] [cursor=pointer]:
+              - /url: https://business.facebook.com/latest/home?asset_id=1077200972154010
+              - generic [ref=e56]: Home
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Home
+        - listitem [ref=e60]:
+          - generic [ref=e62]:
+            - link "Notifications" [ref=e63] [cursor=pointer]:
+              - generic [ref=e64]: Notifications
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Notifications
+        - listitem [ref=e68]:
+          - generic [ref=e70]:
+            - link "Inbox" [ref=e71] [cursor=pointer]:
+              - /url: https://business.facebook.com/latest/inbox?asset_id=1077200972154010
+              - generic [ref=e72]: Inbox
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Inbox
+        - listitem [ref=e77]:
+          - generic [ref=e79]:
+            - link "Content" [ref=e80] [cursor=pointer]:
+              - /url: https://business.facebook.com/latest/posts?asset_id=1077200972154010
+              - generic [ref=e81]: Content
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Content
+        - listitem [ref=e85]:
+          - generic [ref=e87]:
+            - link "Creator marketplace" [ref=e88] [cursor=pointer]:
+              - /url: https://business.facebook.com/latest/creator_marketplace?asset_id=1077200972154010&cm_entrypoint=biz_kit_nav_route_item
+              - generic [ref=e89]: Creator marketplace
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Creator marketplace
+        - listitem [ref=e93]:
+          - generic [ref=e95]:
+            - link "Planner" [ref=e96] [cursor=pointer]:
+              - /url: https://business.facebook.com/latest/content_calendar?asset_id=1077200972154010
+              - generic [ref=e97]: Planner
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Planner
+        - listitem [ref=e102]:
+          - generic [ref=e104]:
+            - link "Ads" [ref=e105] [cursor=pointer]:
+              - /url: https://business.facebook.com/latest/ad_center/ads_summary?asset_id=1077200972154010
+              - generic [ref=e106]: Ads
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Ads
+        - listitem [ref=e111]:
+          - generic [ref=e113]:
+            - link "Insights" [ref=e114] [cursor=pointer]:
+              - /url: https://business.facebook.com/latest/insights?asset_id=1077200972154010
+              - generic [ref=e115]: Insights
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Insights
+        - listitem [ref=e119]:
+          - generic [ref=e121]:
+            - link "All tools" [ref=e122] [cursor=pointer]:
+              - generic [ref=e123]: All tools
+            - generic:
+              - generic:
+                - generic:
+                  - generic: All tools
+        - generic [ref=e125]:
+          - separator [ref=e126]
+          - listitem [ref=e129]:
+            - generic [ref=e131]:
+              - link "Billing & payments" [ref=e132] [cursor=pointer]:
+                - /url: https://business.facebook.com/billing_hub/payment_settings/?placement=bizapp_ad_center
+                - generic [ref=e133]: Billing & payments
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Billing & payments
+          - listitem [ref=e136]:
+            - generic [ref=e138]:
+              - link "Audiences" [ref=e139] [cursor=pointer]:
+                - /url: https://business.facebook.com/ads/manager/audiences/?nav_source=business_manager
+                - generic [ref=e140]: Audiences
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Audiences
+          - listitem [ref=e143]:
+            - generic [ref=e145]:
+              - link "Events Manager" [ref=e146] [cursor=pointer]:
+                - /url: https://business.facebook.com/events_manager2/?nav_source=biz_nav
+                - generic [ref=e147]: Events Manager
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Events Manager
+        - button "Edit sidebar navigation" [ref=e150] [cursor=pointer]:
+          - generic [ref=e154]: Edit
+  - generic [ref=e157]:
+    - listitem [ref=e160]:
+      - generic [ref=e162]:
+        - link "Search" [ref=e163] [cursor=pointer]:
+          - generic [ref=e164]: Search
+        - generic:
+          - generic:
+            - generic:
+              - generic: Search
+        - generic:
+          - generic:
+            - img
+    - navigation "Links" [ref=e165]:
+      - generic [ref=e166]: Links
+      - list [ref=e167]:
+        - listitem [ref=e171]:
+          - generic [ref=e173]:
+            - link "Get Started" [ref=e174] [cursor=pointer]:
+              - /url: https://business.facebook.com/latest/get_started?asset_id=1077200972154010
+              - generic [ref=e175]: Get Started
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Get Started
+        - listitem [ref=e179]:
+          - generic [ref=e181]:
+            - link "Settings" [ref=e182] [cursor=pointer]:
+              - /url: https://business.facebook.com/latest/settings/profiles?asset_id=1077200972154010
+              - generic [ref=e183]: Settings
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Settings
+    - listitem [ref=e190]:
+      - generic [ref=e192]:
+        - link "Help" [ref=e193] [cursor=pointer]:
+          - generic [ref=e194]: Help
+        - generic:
+          - generic:
+            - generic:
+              - generic: Help
+        - generic:
+          - generic:
+            - img

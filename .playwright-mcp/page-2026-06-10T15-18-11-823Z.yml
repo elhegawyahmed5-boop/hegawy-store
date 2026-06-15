@@ -1,0 +1,329 @@
+- generic [ref=e4]:
+  - generic [ref=e15]:
+    - generic [ref=e18]:
+      - link "Home" [ref=e23] [cursor=pointer]:
+        - /url: /
+        - img "Home" [ref=e28]
+      - link "Search" [ref=e33] [cursor=pointer]:
+        - /url: /explore/
+        - img "Search" [ref=e38]
+      - link "Reels" [ref=e44] [cursor=pointer]:
+        - /url: /reels/
+        - img "Reels" [ref=e49]
+      - link "New post" [ref=e55] [cursor=pointer]:
+        - /url: "#"
+        - img "New post" [ref=e60]
+      - link "Messages" [ref=e67] [cursor=pointer]:
+        - /url: /direct/inbox/
+        - img "Messages" [ref=e72]
+      - link "Professional dashboard" [ref=e78] [cursor=pointer]:
+        - /url: "#"
+        - img "Professional dashboard" [ref=e83]
+      - link "hegawystores's profile picture" [ref=e90] [cursor=pointer]:
+        - /url: /hegawystores/
+        - link "hegawystores's profile picture" [ref=e95]:
+          - img "hegawystores's profile picture" [ref=e96]
+    - generic [ref=e98]:
+      - navigation [ref=e99]:
+        - generic [ref=e102]:
+          - link "Back" [ref=e104] [cursor=pointer]:
+            - /url: /
+            - img "Back" [ref=e106]
+          - heading "Account privacy" [level=1] [ref=e108]
+      - main [ref=e109]:
+        - generic [ref=e110]:
+          - generic [ref=e113]:
+            - heading "Settings" [level=3] [ref=e115]
+            - generic [ref=e116]:
+              - generic [ref=e118]:
+                - img "Search" [ref=e120]
+                - textbox "Search" [ref=e123]
+              - link "Facebook wordmark and family of apps logo Accounts Center Manage your connected experiences and account settings across Meta technologies. Personal details Password and security Ad preferences See more in Accounts Center" [ref=e125] [cursor=pointer]:
+                - /url: https://accountscenter.instagram.com/?entry_point=app_settings
+                - img "Facebook wordmark and family of apps logo" [ref=e126]
+                - generic [ref=e134]: Accounts Center
+                - generic [ref=e136]: Manage your connected experiences and account settings across Meta technologies.
+                - generic [ref=e138]:
+                  - img [ref=e140]
+                  - generic [ref=e143]: Personal details
+                - generic [ref=e145]:
+                  - img [ref=e147]
+                  - generic [ref=e151]: Password and security
+                - generic [ref=e153]:
+                  - img [ref=e155]
+                  - generic [ref=e159]: Ad preferences
+                - generic [ref=e161]: See more in Accounts Center
+              - generic [ref=e162]:
+                - heading "How you use Instagram" [level=4] [ref=e170]
+                - link "Edit profile" [ref=e173] [cursor=pointer]:
+                  - /url: /accounts/edit/
+                  - generic [ref=e176]:
+                    - img [ref=e179]
+                    - generic [ref=e184]: Edit profile
+                - link "Notifications" [ref=e187] [cursor=pointer]:
+                  - /url: /accounts/notifications/
+                  - generic [ref=e190]:
+                    - img [ref=e193]
+                    - generic [ref=e198]: Notifications
+              - generic [ref=e199]:
+                - heading "For professionals" [level=4] [ref=e207]
+                - link "Professional account" [ref=e210] [cursor=pointer]:
+                  - /url: /accounts/professional_account_settings/
+                  - generic [ref=e213]:
+                    - img [ref=e216]
+                    - generic [ref=e223]: Professional account
+                - link "Business tools and controls" [ref=e226] [cursor=pointer]:
+                  - /url: /accounts/professional_account_tools/
+                  - generic [ref=e229]:
+                    - img [ref=e232]
+                    - generic [ref=e238]: Business tools and controls
+                - link "Ads payments" [ref=e241] [cursor=pointer]:
+                  - /url: https://business.facebook.com/business/loginrequest/ig/?next=%2Fbilling_hub%2Fpayment_settings%2F%3Fplacement%3Dig_web_settings%26nav_ref%3Dig_settings_2_ad_payments_row_m1_link
+                  - generic [ref=e244]:
+                    - img [ref=e247]
+                    - generic [ref=e254]: Ads payments
+              - generic [ref=e255]:
+                - heading "Who can see your content" [level=4] [ref=e263]
+                - link "Account privacy" [ref=e266] [cursor=pointer]:
+                  - /url: /accounts/settings/v2/account_privacy/
+                  - generic [ref=e269]:
+                    - img [ref=e272]
+                    - generic [ref=e277]: Account privacy
+                - link "Close Friends" [ref=e280] [cursor=pointer]:
+                  - /url: /accounts/close_friends/
+                  - generic [ref=e283]:
+                    - img [ref=e286]
+                    - generic [ref=e291]: Close Friends
+                - link "Blocked" [ref=e294] [cursor=pointer]:
+                  - /url: /accounts/blocked_accounts/
+                  - generic [ref=e297]:
+                    - img [ref=e300]
+                    - generic [ref=e305]: Blocked
+                - link "Story and location" [ref=e308] [cursor=pointer]:
+                  - /url: /accounts/hide_story_and_live/
+                  - generic [ref=e311]:
+                    - img [ref=e314]
+                    - generic [ref=e319]: Story and location
+              - generic [ref=e320]:
+                - heading "How others can interact with you" [level=4] [ref=e328]
+                - link "Messages and story replies" [ref=e331] [cursor=pointer]:
+                  - /url: /accounts/messages_and_story_replies/
+                  - generic [ref=e334]:
+                    - img [ref=e337]
+                    - generic [ref=e343]: Messages and story replies
+                - link "Tags and mentions" [ref=e346] [cursor=pointer]:
+                  - /url: /accounts/settings/v2/tags_and_mentions/
+                  - generic [ref=e349]:
+                    - img [ref=e352]
+                    - generic [ref=e358]: Tags and mentions
+                - link "Comments" [ref=e361] [cursor=pointer]:
+                  - /url: /accounts/comments/
+                  - generic [ref=e364]:
+                    - img [ref=e367]
+                    - generic [ref=e372]: Comments
+                - link "Sharing and reuse" [ref=e375] [cursor=pointer]:
+                  - /url: /accounts/settings/v2/sharing_and_reuse/
+                  - generic [ref=e378]:
+                    - img [ref=e381]
+                    - generic [ref=e386]: Sharing and reuse
+                - link "Restricted accounts" [ref=e389] [cursor=pointer]:
+                  - /url: /accounts/restricted_accounts/
+                  - generic [ref=e392]:
+                    - img [ref=e395]
+                    - generic [ref=e402]: Restricted accounts
+                - link "Hidden Words" [ref=e405] [cursor=pointer]:
+                  - /url: /accounts/settings/v2/hidden_words/
+                  - generic [ref=e408]:
+                    - img [ref=e411]
+                    - generic [ref=e416]: Hidden Words
+              - generic [ref=e417]:
+                - heading "What you see" [level=4] [ref=e425]
+                - link "Muted accounts" [ref=e428] [cursor=pointer]:
+                  - /url: /accounts/muted_accounts/
+                  - generic [ref=e431]:
+                    - img [ref=e434]
+                    - generic [ref=e439]: Muted accounts
+                - link "Content preferences" [ref=e442] [cursor=pointer]:
+                  - /url: /accounts/settings/v2/content_preferences/
+                  - generic [ref=e445]:
+                    - img [ref=e448]
+                    - generic [ref=e453]: Content preferences
+                - link "Like and share counts" [ref=e456] [cursor=pointer]:
+                  - /url: /accounts/settings/v2/hidden_feedback/
+                  - generic [ref=e459]:
+                    - img [ref=e462]
+                    - generic [ref=e467]: Like and share counts
+                - link "Creator subscriptions" [ref=e470] [cursor=pointer]:
+                  - /url: /accounts/subscriptions/
+                  - generic [ref=e473]:
+                    - img [ref=e476]
+                    - generic [ref=e481]: Creator subscriptions
+              - generic [ref=e482]:
+                - heading "Your app and media" [level=4] [ref=e490]
+                - link "Archiving and downloading" [ref=e493] [cursor=pointer]:
+                  - /url: /accounts/settings/v2/archiving_and_downloading/
+                  - generic [ref=e496]:
+                    - img [ref=e499]
+                    - generic [ref=e504]: Archiving and downloading
+                - link "Accessibility" [ref=e507] [cursor=pointer]:
+                  - /url: /accounts/accessibility/
+                  - generic [ref=e510]:
+                    - img [ref=e513]
+                    - generic [ref=e518]: Accessibility
+                - link "Language" [ref=e521] [cursor=pointer]:
+                  - /url: /language/preferences/
+                  - generic [ref=e524]:
+                    - img [ref=e527]
+                    - generic [ref=e532]: Language
+                - link "Website permissions" [ref=e535] [cursor=pointer]:
+                  - /url: /accounts/website_permissions/
+                  - generic [ref=e538]:
+                    - img [ref=e541]
+                    - generic [ref=e547]: Website permissions
+              - generic [ref=e548]:
+                - heading "Family Center" [level=4] [ref=e556]
+                - link "Supervision for Teen Accounts" [ref=e559] [cursor=pointer]:
+                  - /url: /accounts/supervision/?supervision_entrypoint=main_settings_screen
+                  - generic [ref=e562]:
+                    - img [ref=e565]
+                    - generic [ref=e570]: Supervision for Teen Accounts
+              - generic [ref=e571]:
+                - heading "More info and support" [level=4] [ref=e579]
+                - link "Help" [ref=e582] [cursor=pointer]:
+                  - /url: /settings/help/
+                  - generic [ref=e585]:
+                    - img [ref=e588]
+                    - generic [ref=e593]: Help
+                - link "Privacy Center" [ref=e596] [cursor=pointer]:
+                  - /url: https://privacycenter.instagram.com/?entry_point=instagram_settings_page
+                  - generic [ref=e599]:
+                    - img [ref=e602]
+                    - generic [ref=e608]: Privacy Center
+                - link "Account Status" [ref=e611] [cursor=pointer]:
+                  - /url: /settings/help/account_status/
+                  - generic [ref=e614]:
+                    - img [ref=e617]
+                    - generic [ref=e622]: Account Status
+          - generic [ref=e623]:
+            - generic [ref=e625]:
+              - heading "Account privacy" [level=2] [ref=e629]
+              - generic [ref=e631]:
+                - generic [ref=e636]:
+                  - generic [ref=e638]: Private account
+                  - switch "Private account" [ref=e641] [cursor=pointer]
+                - generic [ref=e642]:
+                  - generic [ref=e644]: When your account is public, your profile and posts can be seen by anyone, on or off Instagram, even if they don't have an Instagram account.
+                  - generic [ref=e646]:
+                    - text: When your account is private, only the followers you approve can see what you share, including your photos or videos on hashtag and location pages, and your followers and following lists. Certain info on your profile, like your profile picture and username, is visible to everyone on and off Instagram.
+                    - link "Learn more" [ref=e647] [cursor=pointer]:
+                      - /url: https://help.instagram.com/116024195217477
+            - contentinfo [ref=e648]:
+              - generic [ref=e649]:
+                - generic [ref=e651]:
+                  - link "Meta" [ref=e653] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=e654]: Meta
+                  - link "About" [ref=e656] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=e657]: About
+                  - link "Blog" [ref=e659] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=e660]: Blog
+                  - link "Jobs" [ref=e662] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=e663]: Jobs
+                  - link "Help" [ref=e665] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=e666]: Help
+                  - link "API" [ref=e668] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=e669]: API
+                  - link "Privacy" [ref=e671] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=e672]: Privacy
+                  - link "Terms" [ref=e674] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=e675]: Terms
+                  - link "Locations" [ref=e677] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=e678]: Locations
+                  - link "Popular" [ref=e680] [cursor=pointer]:
+                    - /url: /popular/
+                    - generic [ref=e681]: Popular
+                  - link "Instagram Lite" [ref=e683] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=e684]: Instagram Lite
+                  - link "Meta AI" [ref=e686] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=e687]: Meta AI
+                  - link "Threads" [ref=e689] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=e690]: Threads
+                  - link "Contact Uploading & Non-Users" [ref=e692] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=e693]: Contact Uploading & Non-Users
+                  - link "Meta Verified" [ref=e695] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=e696]: Meta Verified
+                - generic [ref=e697]:
+                  - generic [ref=e698] [cursor=pointer]:
+                    - generic [ref=e699]:
+                      - generic [ref=e700]: English
+                      - img "Down chevron icon" [ref=e703]
+                    - combobox "Switch Display Language" [ref=e705]:
+                      - option "Afrikaans"
+                      - option "العربية"
+                      - option "Čeština"
+                      - option "Dansk"
+                      - option "Deutsch"
+                      - option "Ελληνικά"
+                      - option "English" [selected]
+                      - option "English (UK)"
+                      - option "Español (España)"
+                      - option "Español"
+                      - option "فارسی"
+                      - option "Suomi"
+                      - option "Français"
+                      - option "עברית"
+                      - option "Bahasa Indonesia"
+                      - option "Italiano"
+                      - option "日本語"
+                      - option "한국어"
+                      - option "Bahasa Melayu"
+                      - option "Norsk"
+                      - option "Nederlands"
+                      - option "Polski"
+                      - option "Português (Brasil)"
+                      - option "Português (Portugal)"
+                      - option "Русский"
+                      - option "Svenska"
+                      - option "ภาษาไทย"
+                      - option "Filipino"
+                      - option "Türkçe"
+                      - option "中文(简体)"
+                      - option "中文(台灣)"
+                      - option "বাংলা"
+                      - option "ગુજરાતી"
+                      - option "हिन्दी"
+                      - option "Hrvatski"
+                      - option "Magyar"
+                      - option "ಕನ್ನಡ"
+                      - option "മലയാളം"
+                      - option "मराठी"
+                      - option "नेपाली"
+                      - option "ਪੰਜਾਬੀ"
+                      - option "සිංහල"
+                      - option "Slovenčina"
+                      - option "தமிழ்"
+                      - option "తెలుగు"
+                      - option "اردو"
+                      - option "Tiếng Việt"
+                      - option "中文(香港)"
+                      - option "Български"
+                      - option "Français (Canada)"
+                      - option "Română"
+                      - option "Српски"
+                      - option "Українська"
+                  - generic [ref=e707]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e709] [cursor=pointer]:
+    - img "Messages" [ref=e711]

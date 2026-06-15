@@ -1,0 +1,17 @@
+- generic [ref=e92]:
+  - banner [ref=e93]:
+    - heading "Back Check your inbox" [level=1] [ref=e94]:
+      - button "Back" [ref=e96] [cursor=pointer]:
+        - generic [ref=e97]:
+          - img [ref=e99]
+          - generic [ref=e101]: Back
+      - text: Check your inbox
+    - generic [ref=e102]: We sent a temporary 6-digit code to elhegawyahmed5@gmail.com.
+  - main [ref=e103]:
+    - generic [ref=e104]:
+      - textbox [active] [ref=e107]
+      - button "Submit" [disabled]:
+        - generic:
+          - generic: Submit
+      - button "Resend code" [ref=e109] [cursor=pointer]:
+        - paragraph [ref=e110]: Resend code

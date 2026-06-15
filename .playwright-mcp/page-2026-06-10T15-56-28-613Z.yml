@@ -1,0 +1,265 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=e3]:
+        - generic [ref=e4]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=e5] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic:
+        - generic:
+          - button "Grok" [ref=e6] [cursor=pointer]:
+            - img [ref=e7]
+          - button "Chat" [ref=e10] [cursor=pointer]:
+            - img [ref=e11]
+        - generic:
+          - generic:
+            - generic:
+              - dialog:
+                - group [active] [ref=e14]:
+                  - dialog "Edit profile" [ref=e16]:
+                    - generic [ref=e19]:
+                      - generic [ref=e25]:
+                        - button "Close" [ref=e27] [cursor=pointer]:
+                          - img [ref=e29]
+                        - heading "Edit profile" [level=2] [ref=e34]
+                        - button "Save" [ref=e36] [cursor=pointer]:
+                          - generic [ref=e39]: Save
+                      - generic [ref=e40]:
+                        - generic [ref=e49]:
+                          - button "Add banner photo" [ref=e50] [cursor=pointer]:
+                            - img [ref=e52]
+                          - button "Choose File" [ref=e57]
+                        - generic [ref=e58]:
+                          - generic [ref=e74]:
+                            - button "Add avatar photo" [ref=e75] [cursor=pointer]:
+                              - img [ref=e77]
+                            - button "Choose File" [ref=e82]
+                          - generic [ref=e83]:
+                            - generic [ref=e84]:
+                              - generic [ref=e85]: Edit your photo with Imagine
+                              - generic [ref=e86]: Customize yourself in seconds
+                            - button "Edit Photo" [ref=e87] [cursor=pointer]:
+                              - generic [ref=e88]:
+                                - img [ref=e89]
+                                - generic [ref=e96]: Edit Photo
+                        - generic [ref=e99]:
+                          - generic [ref=e101]: Name
+                          - textbox "Name" [ref=e104]: ahmed elhegawy
+                        - generic [ref=e109]:
+                          - generic [ref=e111]: Bio
+                          - textbox "Bio" [ref=e114]
+                        - generic [ref=e119]:
+                          - generic [ref=e121]: Location
+                          - textbox "Location" [ref=e124]
+                        - generic [ref=e129]:
+                          - generic [ref=e131]: Website
+                          - textbox "Website" [ref=e134]
+                        - button "Birth date February 6, 1993" [ref=e137] [cursor=pointer]:
+                          - generic [ref=e138]:
+                            - generic [ref=e139]:
+                              - generic [ref=e140]: Birth date
+                              - text: February 6, 1993
+                            - img [ref=e141]
+                        - tab "Switch to professional" [ref=e144] [cursor=pointer]:
+                          - generic [ref=e145]:
+                            - generic [ref=e147]: Switch to professional
+                            - img [ref=e148]
+      - generic [ref=e151]:
+        - button [ref=e152] [cursor=pointer]
+        - button [ref=e154] [cursor=pointer]
+        - banner [ref=e156]:
+          - generic [ref=e158]:
+            - generic [ref=e159]:
+              - heading [level=1] [ref=e161] [cursor=pointer]:
+                - link [ref=e162]:
+                  - /url: /home
+                  - img [ref=e164]
+              - navigation [ref=e168]:
+                - link [ref=e169] [cursor=pointer]:
+                  - /url: /home
+                  - generic [ref=e170]:
+                    - img [ref=e172]
+                    - generic [ref=e175]: Home
+                - link [ref=e176] [cursor=pointer]:
+                  - /url: /explore
+                  - generic [ref=e177]:
+                    - img [ref=e179]
+                    - generic [ref=e182]: Explore
+                - link [ref=e183] [cursor=pointer]:
+                  - /url: /notifications
+                  - generic [ref=e184]:
+                    - img [ref=e186]
+                    - generic [ref=e189]: Notifications
+                - link [ref=e190] [cursor=pointer]:
+                  - /url: /i/connect_people
+                  - generic [ref=e191]:
+                    - img [ref=e193]
+                    - generic [ref=e196]: Follow
+                - link [ref=e197] [cursor=pointer]:
+                  - /url: /i/chat
+                  - generic [ref=e198]:
+                    - img [ref=e200]
+                    - generic [ref=e203]: Chat
+                - link [ref=e204] [cursor=pointer]:
+                  - /url: /i/grok
+                  - generic [ref=e205]:
+                    - img [ref=e207]
+                    - generic [ref=e211]: Grok
+                - link [ref=e212] [cursor=pointer]:
+                  - /url: /i/bookmarks
+                  - generic [ref=e213]:
+                    - img [ref=e215]
+                    - generic [ref=e218]: Bookmarks
+                - link [ref=e219] [cursor=pointer]:
+                  - /url: /i/jf/creators/studio
+                  - generic [ref=e220]:
+                    - img [ref=e222]
+                    - generic [ref=e226]: Creator Studio
+                - link [ref=e227] [cursor=pointer]:
+                  - /url: /i/premium_sign_up
+                  - generic [ref=e228]:
+                    - img [ref=e230]
+                    - generic [ref=e233]: Premium
+                - link [ref=e234] [cursor=pointer]:
+                  - /url: /ahmedelheg4u
+                  - generic [ref=e235]:
+                    - img [ref=e237]
+                    - generic [ref=e240]: Profile
+                - button [ref=e241] [cursor=pointer]:
+                  - generic [ref=e242]:
+                    - img [ref=e244]
+                    - generic [ref=e247]: More
+              - link [ref=e249] [cursor=pointer]:
+                - /url: /compose/post
+                - generic [ref=e255]: Post
+            - button [ref=e258] [cursor=pointer]:
+              - generic [ref=e266]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+              - generic [ref=e270]:
+                - generic [ref=e274]: ahmed elhegawy
+                - generic [ref=e278]: "@ahmedelheg4u"
+              - img [ref=e280]
+        - main [ref=e283]:
+          - generic [ref=e286]:
+            - generic [ref=e288]:
+              - generic [ref=e289]:
+                - navigation [ref=e294]:
+                  - generic [ref=e295]:
+                    - generic:
+                      - button [disabled]:
+                        - generic:
+                          - img
+                    - tablist [ref=e297]:
+                      - tab [selected] [ref=e298] [cursor=pointer]:
+                        - generic [ref=e301]: For you
+                      - tab [ref=e303] [cursor=pointer]:
+                        - generic [ref=e306]: Following
+                    - generic:
+                      - button [disabled]:
+                        - generic:
+                          - img
+                - generic:
+                  - generic:
+                    - status:
+                      - button:
+                        - generic:
+                          - img
+                          - generic: See new posts
+              - generic [ref=e313]:
+                - link [ref=e322] [cursor=pointer]:
+                  - /url: /ahmedelheg4u
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+                - generic [ref=e325]:
+                  - generic [ref=e343]:
+                    - generic [ref=e345]: What’s happening?
+                    - textbox [ref=e347]
+                  - generic [ref=e354]:
+                    - navigation [ref=e355]:
+                      - generic [ref=e356]:
+                        - generic:
+                          - button [disabled]:
+                            - generic:
+                              - img
+                        - tablist [ref=e358]:
+                          - generic [ref=e361]:
+                            - button [ref=e362] [cursor=pointer]:
+                              - img [ref=e364]
+                            - button [ref=e368]
+                          - button [ref=e371] [cursor=pointer]:
+                            - img [ref=e373]
+                          - button [ref=e379] [cursor=pointer]:
+                            - img [ref=e381]
+                          - button [ref=e386] [cursor=pointer]:
+                            - img [ref=e388]
+                          - button [ref=e394] [cursor=pointer]:
+                            - img [ref=e396]
+                          - button [ref=e402] [cursor=pointer]:
+                            - img [ref=e404]
+                          - button [disabled] [ref=e409]:
+                            - img [ref=e411]
+                          - button [ref=e416] [cursor=pointer]:
+                            - img [ref=e418]
+                        - generic:
+                          - button [disabled]:
+                            - generic:
+                              - img
+                    - button [disabled] [ref=e423]:
+                      - generic [ref=e426]: Post
+              - progressbar [ref=e430]:
+                - img [ref=e432]
+            - generic [ref=e440]:
+              - search [ref=e445]:
+                - generic [ref=e450]:
+                  - img [ref=e452]
+                  - combobox [ref=e457]
+              - complementary [ref=e461]:
+                - generic [ref=e463]: Subscribe to Premium
+                - generic [ref=e464]: Get rid of ads, see your analytics, boost your replies and unlock 20+ features.
+                - link [ref=e465] [cursor=pointer]:
+                  - /url: /i/premium_sign_up
+                  - generic [ref=e468]: Subscribe
+              - progressbar [ref=e471]:
+                - img [ref=e473]
+              - progressbar [ref=e478]:
+                - img [ref=e480]
+              - progressbar [ref=e486]:
+                - img [ref=e488]
+              - navigation [ref=e492]:
+                - generic [ref=e493]:
+                  - link [ref=e494] [cursor=pointer]:
+                    - /url: https://x.com/tos
+                    - text: Terms of Service
+                  - generic [ref=e495]: "|"
+                - generic [ref=e496]:
+                  - link [ref=e497] [cursor=pointer]:
+                    - /url: https://x.com/privacy
+                    - text: Privacy Policy
+                  - generic [ref=e498]: "|"
+                - generic [ref=e499]:
+                  - link [ref=e500] [cursor=pointer]:
+                    - /url: https://support.x.com/articles/20170514
+                    - text: Cookie Policy
+                  - generic [ref=e501]: "|"
+                - generic [ref=e502]:
+                  - link [ref=e503] [cursor=pointer]:
+                    - /url: https://help.x.com/resources/accessibility
+                    - text: Accessibility
+                  - generic [ref=e504]: "|"
+                - generic [ref=e505]:
+                  - link [ref=e506] [cursor=pointer]:
+                    - /url: https://business.x.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+                    - text: Ads info
+                  - generic [ref=e507]: "|"
+                - button [ref=e508] [cursor=pointer]:
+                  - generic [ref=e509]:
+                    - text: More
+                    - img [ref=e510]
+                - generic [ref=e513]: © 2026 X Corp.

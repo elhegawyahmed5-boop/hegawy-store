@@ -1,0 +1,23 @@
+- generic [ref=e60]:
+  - link "Linktree home" [ref=e62] [cursor=pointer]:
+    - /url: /
+    - img "Linktree Logo" [ref=e63]
+  - generic [ref=e67]:
+    - banner [ref=e68]:
+      - heading "Back Choose your username" [level=1] [ref=e69]:
+        - button "Back" [ref=e71] [cursor=pointer]:
+          - generic [ref=e72]:
+            - img [ref=e74]
+            - generic [ref=e76]: Back
+        - text: Choose your username
+    - main [ref=e77]:
+      - generic [ref=e78]:
+        - paragraph [ref=e79]: Try something similar to your social handles for easy recognition.
+        - generic [ref=e83]:
+          - generic [ref=e84]: linktr.ee/
+          - textbox "linktr.ee/" [active] [ref=e86]:
+            - /placeholder: username
+            - text: elhegawyahmed5
+        - button "Continue" [ref=e87] [cursor=pointer]:
+          - generic [ref=e89]: Continue
+  - img "Promotional Banner" [ref=e91]
